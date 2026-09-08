@@ -1,4 +1,4 @@
-﻿"""
+"""
 Comprehensive 5-Tier Multi-Source Collector for Tamil Nadu 360 Intelligence.
 Expanded Tier 5: Direct X / Twitter tracking of Key Party Figures:
 - DMK: Stalin, Udhayanidhi Stalin, Kanimozhi, TRB Rajaa, PTR Palanivel Thiagarajan, Dayanidhi Maran, A. Raja, Saravanan Annadurai
@@ -230,6 +230,60 @@ def clean_html(raw_html):
     soup = BeautifulSoup(raw_html, "html.parser")
     return soup.get_text().strip()
 
+def extract_image_from_entry(entry):
+    # 1. media_content
+    if "media_content" in entry and entry["media_content"]:
+        for m in entry["media_content"]:
+            if isinstance(m, dict) and m.get("url"):
+                return m["url"]
+    # 2. enclosures
+    if "enclosures" in entry and entry["enclosures"]:
+        for enc in entry["enclosures"]:
+            if isinstance(enc, dict) and enc.get("href") and ("image" in enc.get("type", "") or enc.get("href").endswith((".jpg", ".jpeg", ".png", ".webp"))):
+                return enc["href"]
+    # 3. HTML img in summary/description
+    raw_html = entry.get("summary", "") or entry.get("description", "")
+    if raw_html:
+        img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_html, re.IGNORECASE)
+        if img_match:
+            img_url = img_match.group(1)
+            if not img_url.startswith("data:"):
+                return img_url
+    return None
+
+PARTY_BADGE_IMAGES = {
+    "TVK": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+    "DMK": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+    "AIADMK": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AIADMK_flag.svg/320px-AIADMK_flag.svg.png",
+    "BJP": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bharatiya_Janata_Party_logo.svg/320px-Bharatiya_Janata_Party_logo.svg.png",
+    "NTK": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Naan_Tamilar_Katchi_flag.svg/320px-Naan_Tamilar_Katchi_flag.svg.png",
+    "VCK": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VCK_Party_Flag.png/320px-VCK_Party_Flag.png",
+    "PMK": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/PMK_flag.svg/320px-PMK_flag.svg.png",
+    "CONGRESS": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Indian_National_Congress_hand_logo.svg/320px-Indian_National_Congress_hand_logo.svg.png",
+    "GOVT": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png"
+}
+
+def get_fallback_media(title_or_text, category=""):
+    text = (title_or_text + " " + category).upper()
+    if any(k in text for k in ["VIJAY", "TVK", "விஜய்", "தவெக"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["TVK"], "caption": "தமிழக வெற்றிக் கழகம் (TVK Official Release)"}
+    elif any(k in text for k in ["STALIN", "UDHAYANIDHI", "DMK", "திமுக", "ஸ்டாலின்", "உதயநிதி"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["DMK"], "caption": "திராவிட முன்னேற்றக் கழகம் (DMK Official Statement)"}
+    elif any(k in text for k in ["EPS", "EDAPPADI", "AIADMK", "அதிமுக", "எடப்பாடி"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["AIADMK"], "caption": "அனைத்திந்திய அண்ணா திராவிட முன்னேற்றக் கழகம் (AIADMK Official Statement)"}
+    elif any(k in text for k in ["ANNAMALAI", "BJP", "பாஜக", "அண்ணாமலை"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["BJP"], "caption": "பாரதிய ஜனதா கட்சி (BJP State Statement)"}
+    elif any(k in text for k in ["SEEMAN", "NTK", "சீமான்", "நாம் தமிழர்"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["NTK"], "caption": "நாம் தமிழர் கட்சி (NTK Official Release)"}
+    elif any(k in text for k in ["THIRUMAVALAVAN", "VCK", "விசிக", "திருமாவளவன்"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["VCK"], "caption": "விடுதலைச் சிறுத்தைகள் கட்சி (VCK Release)"}
+    elif any(k in text for k in ["RAMADOSS", "ANBUMANI", "PMK", "பாமக"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["PMK"], "caption": "பாட்டாளி மக்கள் கட்சி (PMK Statement)"}
+    elif any(k in text for k in ["CONGRESS", "TNCC", "காங்கிரஸ்"]):
+        return {"media_type": "poster", "image_url": PARTY_BADGE_IMAGES["CONGRESS"], "caption": "தமிழ்நாடு காங்கிரஸ் கமிட்டி (TNCC Statement)"}
+    else:
+        return {"media_type": "official", "image_url": PARTY_BADGE_IMAGES["GOVT"], "caption": "தமிழ்நாடு அரசு / சட்டப்பேரவை அறிக்கை"}
+
 def fetch_5tier_sources():
     collected_items = []
     seen_titles = set()
@@ -238,7 +292,7 @@ def fetch_5tier_sources():
     for src in TIER_SOURCES:
         try:
             feed = feedparser.parse(src["url"])
-            for entry in feed.entries[:10]:
+            for entry in feed.entries[:12]:
                 title = clean_html(entry.get("title", ""))
                 norm_title = re.sub(r'[^a-zA-Z0-9\u0B80-\u0BFF]', '', title).lower()
                 if not norm_title or norm_title in seen_titles:
@@ -248,6 +302,11 @@ def fetch_5tier_sources():
                 summary = clean_html(entry.get("summary", entry.get("description", "")))
                 link = entry.get("link", "")
                 pub_date = entry.get("published", datetime.now().isoformat())
+                img_url = extract_image_from_entry(entry)
+
+                if not img_url:
+                    fallback = get_fallback_media(title + " " + summary, src["category"])
+                    img_url = fallback.get("image_url")
 
                 item = {
                     "id": f"tier{src['tier']}_{len(collected_items) + 1}",
@@ -257,6 +316,7 @@ def fetch_5tier_sources():
                     "title": title,
                     "summary": summary,
                     "url": link,
+                    "image_url": img_url,
                     "published_at": pub_date,
                     "fetched_at": datetime.now().isoformat()
                 }

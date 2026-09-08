@@ -1,4 +1,4 @@
-﻿"""
+"""
 Streamlit 5-Tier 360° Web Intelligence Dashboard for Tamil Nadu Politics, Assembly & Economy.
 Includes:
 - Tier Distribution Overview
@@ -292,19 +292,39 @@ with tab_highcmd:
             leader = stmt.get("leader_name", "Party Leader")
             party = stmt.get("party", "")
             target = stmt.get("target_party_or_issue", "General Public")
+            media = stmt.get("media", {})
+            img_url = media.get("image_url") if isinstance(media, dict) else None
 
-            st.markdown(f"""
-            <div class="high-cmd-card">
-                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
-                    <span class="badge-cmd">🏛️ {leader} [{party}]</span>
-                    <span style="font-size:0.8rem; color:#15803D; font-weight:600;">Target / Focus: {target}</span>
+            c1, c2 = st.columns([1, 4]) if img_url else (None, None)
+            if img_url:
+                with c1:
+                    st.image(img_url, caption=media.get("caption", leader), use_container_width=True)
+                with c2:
+                    st.markdown(f"""
+                    <div class="high-cmd-card">
+                        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+                            <span class="badge-cmd">🏛️ {leader} [{party}]</span>
+                            <span style="font-size:0.8rem; color:#15803D; font-weight:600;">Target / Focus: {target}</span>
+                        </div>
+                        <h4 style="margin:0 0 4px 0; color:#166534;">📜 {stmt.get('statement_headline_en', '')}</h4>
+                        <h5 style="margin:0 0 10px 0; color:#15803D; font-weight:normal;"><i>{stmt.get('statement_headline_ta', '')}</i></h5>
+                        <p style="margin-bottom:6px; color:#1F2937;"><b>Official Statement Points:</b> {stmt.get('core_message_en', '')}</p>
+                        <p style="margin-bottom:0; color:#14532D; font-style:italic;">{stmt.get('core_message_ta', '')}</p>
+                    </div>
+                    """, unsafe_allow_html=True)
+            else:
+                st.markdown(f"""
+                <div class="high-cmd-card">
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+                        <span class="badge-cmd">🏛️ {leader} [{party}]</span>
+                        <span style="font-size:0.8rem; color:#15803D; font-weight:600;">Target / Focus: {target}</span>
+                    </div>
+                    <h4 style="margin:0 0 4px 0; color:#166534;">📜 {stmt.get('statement_headline_en', '')}</h4>
+                    <h5 style="margin:0 0 10px 0; color:#15803D; font-weight:normal;"><i>{stmt.get('statement_headline_ta', '')}</i></h5>
+                    <p style="margin-bottom:6px; color:#1F2937;"><b>Official Statement Points:</b> {stmt.get('core_message_en', '')}</p>
+                    <p style="margin-bottom:0; color:#14532D; font-style:italic;">{stmt.get('core_message_ta', '')}</p>
                 </div>
-                <h4 style="margin:0 0 4px 0; color:#166534;">📜 {stmt.get('statement_headline_en', '')}</h4>
-                <h5 style="margin:0 0 10px 0; color:#15803D; font-weight:normal;"><i>{stmt.get('statement_headline_ta', '')}</i></h5>
-                <p style="margin-bottom:6px; color:#1F2937;"><b>Official Statement Points:</b> {stmt.get('core_message_en', '')}</p>
-                <p style="margin-bottom:0; color:#14532D; font-style:italic;">{stmt.get('core_message_ta', '')}</p>
-            </div>
-            """, unsafe_allow_html=True)
+                """, unsafe_allow_html=True)
 
 # TAB 3: PRIME-TIME YOUTUBE DEBATES
 with tab_debates:
@@ -315,11 +335,13 @@ with tab_debates:
     else:
         for deb in debates_list:
             panelists = ", ".join(deb.get("panelists_or_parties", []))
+            vid_url = deb.get("video_url", "")
+            
             st.markdown(f"""
             <div class="debate-card">
                 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
                     <span class="badge-channel">📺 {deb.get('channel', 'Tamil TV')} • {deb.get('show_name', 'Debate')}</span>
-                    <a href="{deb.get('video_url', '#')}" target="_blank" style="text-decoration:none; font-weight:bold; color:#C2410C;">▶️ Watch Program</a>
+                    <a href="{vid_url or '#'}" target="_blank" style="text-decoration:none; font-weight:bold; color:#C2410C;">▶️ Watch Program</a>
                 </div>
                 <h4 style="margin:0 0 4px 0; color:#C2410C;">🎙️ {deb.get('topic_en', '')}</h4>
                 <h5 style="margin:0 0 10px 0; color:#EA580C; font-weight:normal;"><i>{deb.get('topic_ta', '')}</i></h5>
@@ -328,6 +350,11 @@ with tab_debates:
                 <p style="margin-bottom:0; color:#431407; font-style:italic;">{deb.get('clash_summary_ta', '')}</p>
             </div>
             """, unsafe_allow_html=True)
+            if vid_url and "youtube.com" in vid_url:
+                try:
+                    st.video(vid_url)
+                except Exception:
+                    pass
 
 # TAB 4: CRITICISMS & REBUTTALS
 with tab_criticisms:

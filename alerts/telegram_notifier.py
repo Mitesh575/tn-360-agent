@@ -49,6 +49,30 @@ def send_telegram_chunk(text):
     except Exception as e:
         return False, str(e)
 
+def send_telegram_photo(photo_url, caption=""):
+    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+    if not bot_token or not chat_id or not photo_url:
+        return False, "Missing credentials or photo url"
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendPhoto"
+    payload = {
+        "chat_id": chat_id,
+        "photo": photo_url,
+        "caption": caption[:1024] if caption else "",
+        "parse_mode": "HTML"
+    }
+    try:
+        res = requests.post(url, json=payload, timeout=20)
+        data = res.json()
+        if not data.get("ok") and "can't parse entities" in data.get('description', '').lower():
+            payload["parse_mode"] = None
+            res = requests.post(url, json=payload, timeout=20)
+            data = res.json()
+        return data.get("ok", False), data.get("description", "OK")
+    except Exception as e:
+        return False, str(e)
+
 def split_into_safe_chunks(full_text, max_len=3600):
     if len(full_text) <= max_len:
         return [full_text]
@@ -237,13 +261,26 @@ def dispatch_full_report(report):
         print("[!] Dispatch aborted: Report is empty or incomplete.")
         return False
 
+    # Send Top Visual Media Cards (Posters / Letterhead / Debate previews)
+    high_cmds = report.get("high_command_direct_statements", [])
+    dispatched_photos = 0
+    for stmt in high_cmds[:3]:
+        media = stmt.get("media", {})
+        img_url = media.get("image_url")
+        if img_url and img_url.startswith("http"):
+            caption = f"📢 <b>{stmt.get('leader_name')} [{stmt.get('party')}]</b>\n\n<b>{stmt.get('statement_headline_en', '')}</b>\n<i>{stmt.get('statement_headline_ta', '')}</i>\n\n• {stmt.get('core_message_en', '')[:300]}"
+            ok, err = send_telegram_photo(img_url, caption)
+            if ok:
+                dispatched_photos += 1
+                time.sleep(0.5)
+
     raw_sections = build_full_mobile_sections(report)
     all_chunks = []
     for sec in raw_sections:
         all_chunks.extend(split_into_safe_chunks(sec, max_len=3800))
 
     total = len(all_chunks)
-    print(f"[*] Delivering 100% complete 5-tier report across {total} messages to Telegram...")
+    print(f"[*] Delivering 100% complete 5-tier report across {total} messages to Telegram (plus {dispatched_photos} photo cards)...")
     delivered = 0
 
     for idx, chunk in enumerate(all_chunks, 1):

@@ -70,7 +70,13 @@ Output strictly valid JSON conforming to this schema:
       "government_reply_en": "How the government/minister defended or replied",
       "outcome_en": "Walkout / Suspended / Speaker intervened / Passed",
       "details_ta": "சட்டமன்ற காரசார நிகழ்வு பற்றிய விரிவான தமிழாக்கம்.",
-      "intensity": "High"
+      "intensity": "High",
+      "media": {
+        "media_type": "youtube_video | poster | photo",
+        "url": "Video or article URL",
+        "thumbnail_url": "Image URL or YouTube thumbnail",
+        "caption": "Brief label describing the media"
+      }
     }
   ],
 
@@ -83,7 +89,12 @@ Output strictly valid JSON conforming to this schema:
       "core_message_en": "Direct points made in their signed letterhead / X post",
       "core_message_ta": "தலைமையின் அதிகாரப்பூர்வ அறிக்கை விவரம் தமிழில்",
       "target_party_or_issue": "Target party or public grievance",
-      "source_tier": "Tier 5 (Direct Official Handle)"
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "poster | photo",
+        "image_url": "Image or poster URL from source data or party badge",
+        "caption": "Party official letterhead / statement poster"
+      }
     }
   ],
 
@@ -95,7 +106,12 @@ Output strictly valid JSON conforming to this schema:
       "core_criticism_ta": "முன்வைக்கப்பட்ட குற்றச்சாட்டு அல்லது கண்டனம் தமிழில்",
       "rebuttal_or_defense_en": "Counter-reply given by the targeted party",
       "rebuttal_or_defense_ta": "எதிர்தரப்பு அல்லது அமைச்சரின் பதிலடி / விளக்கம்",
-      "political_significance": "Why this matters"
+      "political_significance": "Why this matters",
+      "media": {
+        "media_type": "poster | photo",
+        "image_url": "Image URL",
+        "caption": "Photo of critic or target"
+      }
     }
   ],
 
@@ -108,7 +124,8 @@ Output strictly valid JSON conforming to this schema:
       "panelists_or_parties": ["Party Reps and Analysts"],
       "clash_summary_en": "Key panel clashes and arguments",
       "clash_summary_ta": "விவாதத்தில் காரசாரமான வாதங்கள் மற்றும் முக்கிய கருத்துக்கள் தமிழில்",
-      "video_url": "URL if available"
+      "video_url": "https://www.youtube.com/watch?v=...",
+      "thumbnail_url": "https://img.youtube.com/vi/.../hqdefault.jpg"
     }
   ],
 
@@ -121,7 +138,12 @@ Output strictly valid JSON conforming to this schema:
       "location_district": "District / SIPCOT Park",
       "status": "MoU Signed / Plant Inauguration / Expansion",
       "details_en": "Brief description of the facility",
-      "details_ta": "முதலீட்டு விவரம் தமிழில்"
+      "details_ta": "முதலீட்டு விவரம் தமிழில்",
+      "media": {
+        "media_type": "photo",
+        "image_url": "Image URL if available",
+        "caption": "Facility or MoU signing photo"
+      }
     }
   ],
 
@@ -131,7 +153,12 @@ Output strictly valid JSON conforming to this schema:
       "topic_en": "Headline of political action",
       "topic_ta": "அரசியல் நிகழ்வு தலைப்பு",
       "analysis_en": "Factual context and alliance impact",
-      "analysis_ta": "அரசியல் நகர்வு விளக்கம்"
+      "analysis_ta": "அரசியல் நகர்வு விளக்கம்",
+      "media": {
+        "media_type": "poster | photo",
+        "image_url": "Image URL",
+        "caption": "Photo / Poster"
+      }
     }
   ],
 

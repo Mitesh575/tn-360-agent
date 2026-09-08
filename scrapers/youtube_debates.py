@@ -1,4 +1,4 @@
-﻿"""
+"""
 YouTube Debate & Floor Discussion Monitor for Tamil Nadu Politics.
 Monitors daily prime-time debate shows & Assembly uploads:
 1. Puthiyathalaimurai - Nerkonda Paarvai
@@ -59,10 +59,14 @@ def search_youtube_videos(query, max_results=3):
         vid_match = re.search(r"(?:v=|\/)([0-9A-Za-z_-]{11}).*", link)
         vid_id = vid_match.group(1) if vid_match else None
         
+        watch_url = f"https://www.youtube.com/watch?v={vid_id}" if vid_id else link
+        thumb_url = f"https://img.youtube.com/vi/{vid_id}/hqdefault.jpg" if vid_id else None
+
         videos.append({
             "title": title,
-            "url": link,
+            "url": watch_url,
             "video_id": vid_id,
+            "thumbnail_url": thumb_url,
             "published": entry.get("published", "")
         })
     return videos
