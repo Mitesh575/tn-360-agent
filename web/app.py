@@ -26,6 +26,24 @@ PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if PROJECT_ROOT not in sys.path:
     sys.path.insert(0, PROJECT_ROOT)
 
+ASSETS_DIR = os.path.join(PROJECT_ROOT, "web", "assets")
+
+def resolve_card_image(party, media):
+    # 1. Direct valid image from media
+    if isinstance(media, dict) and media.get("image_url"):
+        url = media["image_url"]
+        if "wikimedia.org" not in url:
+            return url
+    # 2. Local party badge asset
+    party_clean = (party or "").upper()
+    for k in ["TVK", "DMK", "AIADMK", "BJP", "NTK", "VCK", "PMK"]:
+        if k in party_clean:
+            local_path = os.path.join(ASSETS_DIR, f"{k.lower()}_badge.png")
+            if os.path.exists(local_path):
+                return local_path
+    govt_path = os.path.join(ASSETS_DIR, "govt_badge.png")
+    return govt_path if os.path.exists(govt_path) else None
+
 st.set_page_config(
     page_title="TN 5-Tier Intelligence Radar",
     page_icon="🏛️",
@@ -293,12 +311,12 @@ with tab_highcmd:
             party = stmt.get("party", "")
             target = stmt.get("target_party_or_issue", "General Public")
             media = stmt.get("media", {})
-            img_url = media.get("image_url") if isinstance(media, dict) else None
+            card_img = resolve_card_image(party, media)
 
-            c1, c2 = st.columns([1, 4]) if img_url else (None, None)
-            if img_url:
+            c1, c2 = st.columns([1, 4]) if card_img else (None, None)
+            if card_img:
                 with c1:
-                    st.image(img_url, caption=media.get("caption", leader), use_container_width=True)
+                    st.image(card_img, caption=media.get("caption", leader), use_container_width=True)
                 with c2:
                     st.markdown(f"""
                     <div class="high-cmd-card">
@@ -366,18 +384,39 @@ with tab_criticisms:
         for crit in criticisms:
             accuser = crit.get("accuser_leader_or_party", "Critic")
             target = crit.get("targeted_leader_or_party", "Target")
-            st.markdown(f"""
-            <div class="criticism-card">
-                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
-                    <span style="font-weight:700; color:#B45309;">{accuser} ➔ {target}</span>
+            media = crit.get("media", {})
+            card_img = resolve_card_image(accuser, media)
+
+            c1, c2 = st.columns([1, 4]) if card_img else (None, None)
+            if card_img:
+                with c1:
+                    st.image(card_img, caption=f"{accuser}", use_container_width=True)
+                with c2:
+                    st.markdown(f"""
+                    <div class="criticism-card">
+                        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+                            <span style="font-weight:700; color:#B45309;">{accuser} ➔ {target}</span>
+                        </div>
+                        <h4 style="margin:0 0 4px 0; color:#92400E;">⚠️ {crit.get('core_criticism_en', '')}</h4>
+                        <h5 style="margin:0 0 8px 0; color:#B45309; font-weight:normal;"><i>{crit.get('core_criticism_ta', '')}</i></h5>
+                        {"<p style='margin-bottom:6px; color:#065F46;'><b>🛡️ Rebuttal / Defense:</b> " + crit.get('rebuttal_or_defense_en') + "</p>" if crit.get('rebuttal_or_defense_en') else ""}
+                        {"<p style='margin-bottom:6px; color:#047857; font-style:italic;'><i>" + crit.get('rebuttal_or_defense_ta') + "</i></p>" if crit.get('rebuttal_or_defense_ta') else ""}
+                        {"<p style='margin-bottom:0; color:#6B7280; font-size:0.85rem;'><b>Context & Significance:</b> " + crit.get('political_significance') + "</p>" if crit.get('political_significance') else ""}
+                    </div>
+                    """, unsafe_allow_html=True)
+            else:
+                st.markdown(f"""
+                <div class="criticism-card">
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+                        <span style="font-weight:700; color:#B45309;">{accuser} ➔ {target}</span>
+                    </div>
+                    <h4 style="margin:0 0 4px 0; color:#92400E;">⚠️ {crit.get('core_criticism_en', '')}</h4>
+                    <h5 style="margin:0 0 8px 0; color:#B45309; font-weight:normal;"><i>{crit.get('core_criticism_ta', '')}</i></h5>
+                    {"<p style='margin-bottom:6px; color:#065F46;'><b>🛡️ Rebuttal / Defense:</b> " + crit.get('rebuttal_or_defense_en') + "</p>" if crit.get('rebuttal_or_defense_en') else ""}
+                    {"<p style='margin-bottom:6px; color:#047857; font-style:italic;'><i>" + crit.get('rebuttal_or_defense_ta') + "</i></p>" if crit.get('rebuttal_or_defense_ta') else ""}
+                    {"<p style='margin-bottom:0; color:#6B7280; font-size:0.85rem;'><b>Context & Significance:</b> " + crit.get('political_significance') + "</p>" if crit.get('political_significance') else ""}
                 </div>
-                <h4 style="margin:0 0 4px 0; color:#92400E;">⚠️ {crit.get('core_criticism_en', '')}</h4>
-                <h5 style="margin:0 0 8px 0; color:#B45309; font-weight:normal;"><i>{crit.get('core_criticism_ta', '')}</i></h5>
-                {"<p style='margin-bottom:6px; color:#065F46;'><b>🛡️ Rebuttal / Defense:</b> " + crit.get('rebuttal_or_defense_en') + "</p>" if crit.get('rebuttal_or_defense_en') else ""}
-                {"<p style='margin-bottom:6px; color:#047857; font-style:italic;'><i>" + crit.get('rebuttal_or_defense_ta') + "</i></p>" if crit.get('rebuttal_or_defense_ta') else ""}
-                {"<p style='margin-bottom:0; color:#6B7280; font-size:0.85rem;'><b>Context & Significance:</b> " + crit.get('political_significance') + "</p>" if crit.get('political_significance') else ""}
-            </div>
-            """, unsafe_allow_html=True)
+                """, unsafe_allow_html=True)
 
 # TAB 5: MoUs & INVESTMENTS
 with tab_investments:
