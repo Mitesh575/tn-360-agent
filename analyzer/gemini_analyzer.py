@@ -1,4 +1,4 @@
-﻿"""
+"""
 Gemini 5-Tier 360° Intelligence Analyzer for Tamil Nadu:
 Ingests 5 Tiers:
 - Tier 1: Official Bulletins, DIPR, Guidance TN & High Court
@@ -152,30 +152,44 @@ def analyze_tn_politics(raw_items, youtube_debates=[], api_key=None):
         print("[!] Warning: GEMINI_API_KEY is not configured.")
         return {}
 
-    try:
-        client = genai.Client(api_key=key)
-        # Select representative batch across all 5 tiers
-        tier_samples = []
-        for t in [1, 2, 3, 4, 5]:
-            tier_items = [i for i in raw_items if i.get("tier") == t][:12]
-            tier_samples.extend(tier_items)
+    # Candidate models to try in order of capability & speed
+    candidate_models = ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]
 
-        items_payload = {
-            "5_tier_multi_source_articles": tier_samples,
-            "youtube_tv_debates_and_livestreams": youtube_debates[:8]
-        }
-        items_text = json.dumps(items_payload, ensure_ascii=False, indent=2)
-        prompt = f"Here is today's 5-Tier intelligence ground data from Tamil Nadu:\n\n{items_text}\n\nSynthesize the complete, authoritative daily intelligence dossier across all 5 tiers adhering strictly to the JSON schema."
+    # Select representative batch across all 5 tiers
+    tier_samples = []
+    for t in [1, 2, 3, 4, 5]:
+        tier_items = [i for i in raw_items if i.get("tier") == t][:12]
+        tier_samples.extend(tier_items)
 
-        response = client.models.generate_content(
-            model="gemini-2.5-flash",
-            contents=[SYSTEM_PROMPT, prompt],
-            config={
-                "response_mime_type": "application/json"
-            }
-        )
-        data = json.loads(response.text)
-        return data
-    except Exception as e:
-        print(f"[!] Error invoking Gemini API: {e}")
-        return {}
+    items_payload = {
+        "5_tier_multi_source_articles": tier_samples,
+        "youtube_tv_debates_and_livestreams": youtube_debates[:8]
+    }
+    items_text = json.dumps(items_payload, ensure_ascii=False, indent=2)
+    prompt = f"Here is today's 5-Tier intelligence ground data from Tamil Nadu:\n\n{items_text}\n\nSynthesize the complete, authoritative daily intelligence dossier across all 5 tiers adhering strictly to the JSON schema."
+
+    client = genai.Client(api_key=key)
+
+    for model_name in candidate_models:
+        for attempt in range(1, 4):
+            try:
+                print(f"[*] Calling Gemini ({model_name}) - Attempt {attempt}/3...")
+                response = client.models.generate_content(
+                    model=model_name,
+                    contents=[SYSTEM_PROMPT, prompt],
+                    config={
+                        "response_mime_type": "application/json"
+                    }
+                )
+                if response and response.text:
+                    data = json.loads(response.text)
+                    if data.get("executive_tldr_en") or data.get("heated_assembly_moments"):
+                        print(f"[OK] Successfully synthesized dossier via {model_name}.")
+                        return data
+            except Exception as e:
+                print(f"[!] Warning on {model_name} (Attempt {attempt}): {e}")
+                time.sleep(3 * attempt)
+
+    print("[!] Error: All Gemini candidate models failed to generate content.")
+    return {}
+

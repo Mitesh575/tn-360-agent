@@ -1,4 +1,4 @@
-﻿"""
+"""
 Telegram Full-Fidelity Dispatcher for Tamil Nadu 5-Tier Intelligence.
 Delivers 100% of all gathered details without truncation across all 5 tiers:
 - Tier 1: Official Assembly Bulletins & Government Orders
@@ -233,6 +233,10 @@ def build_full_mobile_sections(report):
     return sections
 
 def dispatch_full_report(report):
+    if not report or (not report.get("executive_tldr_en") and not report.get("heated_assembly_moments")):
+        print("[!] Dispatch aborted: Report is empty or incomplete.")
+        return False
+
     raw_sections = build_full_mobile_sections(report)
     all_chunks = []
     for sec in raw_sections:
