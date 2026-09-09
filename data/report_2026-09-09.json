@@ -1,41 +1,112 @@
 {
   "date": "2026-09-09",
   "executive_tldr_en": [
-    "Tamil Nadu witnessed significant investment announcements, including a ₹15,037 crore solar manufacturing plant in Tirunelveli and a ₹300 crore auto components unit in Kanchipuram, along with an Australian university campus in Chennai, showcasing the state's economic development initiatives.",
-    "The Legislative Assembly saw heated exchanges, primarily between Chief Minister Vijay (TVK) and Deputy Chief Minister Udhayanidhi Stalin (DMK), particularly during debates on police demands and alleged \"false cases,\" highlighting the intense political rivalry.",
-    "Political discourse was marked by various criticisms, including H. Raja's comments on K. Annamalai's political future, and investigative reports of potential cabinet reshuffles and opposition parties' strategies for upcoming by-elections.",
-    "DMK ministers used social media to defend the party's legacy and respond to current political accusations, emphasizing historical struggles and current assembly dynamics."
+    "Tamil Nadu Assembly witnessed fierce debates between the ruling Tamilaga Vettri Kazhagam (TVK) and opposition Dravida Munnetra Kazhagam (DMK), with Chief Minister Vijay and Udhayanidhi Stalin engaging in sharp exchanges.",
+    "Significant investment MoUs were signed, including a major ₹15,037 crore solar manufacturing plant by Vikram Solar in Tirunelveli, creating 2,600 jobs, and a ₹300 crore auto parts unit in Kanchipuram, overseen by CM Vijay.",
+    "Political circles buzzed with internal party dynamics within PMK and AIADMK, while DMK ministers used X to counter criticisms and promote government initiatives.",
+    "Investigative media highlighted potential cabinet reshuffles by the Chief Minister, aggressive political pledges by opposition leaders Edappadi Palaniswami and T.T.V. Dhinakaran, and ongoing legal challenges like the dismissal of M.K. Stalin's Kolathur election case."
   ],
   "executive_tldr_ta": [
-    "தமிழ்நாடு இன்று ₹15,037 கோடி மதிப்பிலான சூரிய சக்தி உற்பத்தி ஆலை திருநெல்வேலியில் அமைத்தல் மற்றும் காஞ்சிபுரத்தில் ₹300 கோடி கார் உதிரிபாக உற்பத்தி பிரிவு, சென்னையின் ஆஸ்திரேலிய பல்கலைக்கழக வளாகம் உள்ளிட்ட முக்கிய முதலீட்டு ஒப்பந்தங்களைக் கண்டது, இது மாநிலத்தின் பொருளாதார வளர்ச்சி முயற்சிகளை எடுத்துக்காட்டுகிறது.",
-    "சட்டமன்றத்தில் முதல்வர் விஜய் (தவெக) மற்றும் துணை முதல்வர் உதயநிதி ஸ்டாலின் (திமுக) இடையே காவல்துறை மானியக் கோரிக்கை விவாதம் மற்றும் \"பொய்க்கேஸ்கள்\" குறித்த குற்றச்சாட்டுகள் தொடர்பாக கடுமையான வார்த்தைப் போர் ஏற்பட்டது, இது தீவிர அரசியல் போட்டியைக் குறிக்கிறது.",
-    "அரசியல் களத்தில், ஹெச். ராஜா அண்ணாமலையின் அரசியல் எதிர்காலம் குறித்த கருத்துக்கள், அமைச்சரவை மாற்றங்கள் பற்றிய விசாரணைக் கட்டுரைகள் மற்றும் வரவிருக்கும் இடைத்தேர்தல்கள் குறித்த எதிர்க்கட்சிகளின் வியூகங்கள் எனப் பல விமர்சனங்கள் எழுந்தன.",
-    "திமுக அமைச்சர்கள் சமூக ஊடகங்களைப் பயன்படுத்தி கட்சியின் பாரம்பரியத்தைப் பாதுகாத்தும், தற்போதைய அரசியல் குற்றச்சாட்டுகளுக்குப் பதிலளித்தும், வரலாற்றுப் போராட்டங்கள் மற்றும் சட்டமன்ற நிகழ்வுகளை வலியுறுத்தியும் அறிக்கைகளை வெளியிட்டனர்."
+    "தமிழக சட்டமன்றத்தில் ஆளும் தமிழக வெற்றிக் கழகம் (தவெக) மற்றும் எதிர்கட்சியான திராவிட முன்னேற்றக் கழகம் (திமுக) இடையே கடும் விவாதங்கள் நடைபெற்றன, முதல்வர் விஜய் மற்றும் உதயநிதி ஸ்டாலின் இடையே காரசாரமான கருத்துப் பரிமாற்றங்கள் நிகழ்ந்தன.",
+    "முக்கியமான முதலீட்டுப் புரிந்துணர்வு ஒப்பந்தங்கள் கையெழுத்தாகின. இதில், விக்ரம் சோலார் நிறுவனம் திருநெல்வேலியில் ₹15,037 கோடி முதலீட்டில் சூரிய மின்சக்தி உற்பத்தி ஆலையை அமைக்க ஒப்பந்தம் மேற்கொண்டது, இதனால் 2,600 பேருக்கு வேலைவாய்ப்பு உருவாகும். மேலும், காஞ்சிபுரம் சிப்காட்டில் ₹300 கோடியில் கார் உதிரிபாக உற்பத்தி நிலையம் அமைக்க முதல்வர் விஜய் முன்னிலையில் ஒப்பந்தம் கையெழுத்தானது.",
+    "பாமக மற்றும் அதிமுகவில் உள்ள உட்கட்சிப் பிரச்சனைகள் அரசியல் வட்டாரங்களில் பரபரப்பை ஏற்படுத்தின, அதே நேரத்தில் திமுக அமைச்சர்கள் X சமூக வலைத்தளத்தில் விமர்சனங்களுக்கு பதிலளித்து அரசுத் திட்டங்களை முன்னெடுத்தனர்.",
+    "புலனாய்வு ஊடகங்கள் முதலமைச்சரால் அமைச்சரவை மாற்றங்களுக்கான சாத்தியக்கூறுகள், எதிர்க்கட்சித் தலைவர்களான எடப்பாடி பழனிசாமி மற்றும் டி.டி.வி. தினகரன் ஆகியோரின் ஆக்ரோஷமான அரசியல் சபதங்கள், மற்றும் மு.க.ஸ்டாலினின் கொளத்தூர் தேர்தல் வழக்கு தள்ளுபடி போன்ற சட்டரீதியான சவால்கள் குறித்து கோடிட்டுக் காட்டின."
   ],
   "heated_assembly_moments": [
     {
-      "issue_en": "Clash between CM Vijay (TVK) and Udhayanidhi Stalin (DMK) during Police Demand Grants debate",
-      "issue_ta": "காவல்துறை மானியக் கோரிக்கை விவாதத்தின் போது முதல்வர் விஜய் (தவெக) மற்றும் உதயநிதி ஸ்டாலின் (திமுக) இடையே மோதல்",
-      "trigger_context": "Discussions on Police demand grants led to heated accusations and rebuttals, with DMK ministers alluding to 'false cases' and TVK leaders responding strongly.",
+      "issue_en": "Heated Confrontation between CM Vijay (TVK) and Udhayanidhi Stalin (DMK) during Assembly Debates",
+      "issue_ta": "சட்டமன்ற விவாதங்களில் முதல்வர் விஜய் (தவெக) மற்றும் உதயநிதி ஸ்டாலின் (திமுக) இடையே கடும் மோதல்",
+      "trigger_context": "Debates around various policy matters and political accusations led to direct clashes and high-intensity exchanges between the Chief Minister and the Leader of Opposition.",
       "parties_involved": [
         "TVK",
         "DMK"
       ],
       "key_speakers": [
         "CM Vijay",
-        "Udhayanidhi Stalin",
-        "Minister Rajmohan"
+        "Udhayanidhi Stalin"
       ],
-      "opposition_stance_en": "Udhayanidhi Stalin gave a strong reply to CM Vijay, implying that if he were to speak on all matters, the government might not be able to handle it, possibly in response to 'false cases' allegations related to DMK leaders.",
-      "government_reply_en": "CM Vijay delivered an 'angry speech' and 'swift reply' to Udhayanidhi Stalin's remarks, indicating a firm stance from the ruling party.",
-      "outcome_en": "Intense verbal clash and debates, laughter in the assembly due to Minister Rajmohan's speech.",
-      "details_ta": "காவல்துறை மானியக் கோரிக்கை விவாதத்தின் போது முதல்வர் விஜய் மற்றும் உதயநிதி ஸ்டாலின் இடையே கடும் வாக்குவாதங்கள் ஏற்பட்டன. திமுக அமைச்சர்கள் 'பொய்க்கேஸ்கள்' குறித்து மறைமுகமாக சுட்டிக்காட்ட, முதல்வர் விஜய் அதற்கு அதிரடியாக பதிலளித்தார். உதயநிதி ஸ்டாலின், 'அவையெல்லாம் பேச ஆரம்பித்தால் தாங்க மாட்டீர்கள்' என்று முதல்வர் விஜய்க்கு பதிலடி கொடுத்தார். அமைச்சர் ராஜ்மோகன் பேசியதால் சிரிப்பலைகள் எழுந்தன, ஆனால் விவாதம் காரசாரமாகவே இருந்தது.",
+      "opposition_stance_en": "DMK's Udhayanidhi Stalin challenged government claims and policies, leading to sharp replies from CM Vijay and subsequent walkouts by DMK members.",
+      "government_reply_en": "CM Vijay delivered strong rebuttals to DMK's criticisms, defending government's actions and policies.",
+      "outcome_en": "High-intensity debates, DMK walkouts reported, requiring speaker intervention.",
+      "details_ta": "சட்டமன்றத்தில் பல்வேறு கொள்கை மற்றும் அரசியல் குற்றச்சாட்டுகள் குறித்து விவாதங்கள் நடந்தபோது, முதல்வர் விஜய் மற்றும் எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின் இடையே நேரடியாக மோதல் ஏற்பட்டது. திமுகவின் விமர்சனங்களுக்கு முதல்வர் விஜய் கடும் பதிலடி கொடுத்தார், இதனால் திமுக உறுப்பினர்கள் வெளிநடப்பு செய்தனர். சபாநாயகர் தலையிட்டு நிலைமையை கட்டுக்குள் கொண்டுவர வேண்டியிருந்தது.",
       "intensity": "High",
       "media": {
         "media_type": "youtube_video",
         "url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
         "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg",
-        "caption": "TN Assembly Session - CM Vijay vs Udhayanidhi Stalin"
+        "caption": "TN Assembly Live: CM Vijay vs Udhayanidhi Stalin"
+      }
+    },
+    {
+      "issue_en": "Assembly Debate on Non-existent Tyre Factory Closure with subsequent clarification",
+      "issue_ta": "இல்லாத டயர் ஆலையை மூடுவது குறித்து சட்டமன்ற விவாதம் மற்றும் பின்னர் விளக்கம்",
+      "trigger_context": "An opposition member raised concerns about the closure of a tyre factory in the Assembly, which was subsequently clarified as a factual misrepresentation by a public figure on social media.",
+      "parties_involved": [
+        "Opposition (implied)",
+        "Government (implied)"
+      ],
+      "key_speakers": [
+        "Kirthana (clarified on X)"
+      ],
+      "opposition_stance_en": "Raised concerns about a non-existent factory closure, likely to criticize industrial policy or governance based on inaccurate information.",
+      "government_reply_en": "Clarification was issued, confirming the factory in question does not exist, and further explanations were provided by Keerthana on X.",
+      "outcome_en": "Clarification issued, the claim was debunked through public statements.",
+      "details_ta": "ஓர் எதிர்க்கட்சி உறுப்பினர் சட்டமன்றத்தில் ஒரு டயர் ஆலையை மூடுவது குறித்து கேள்வி எழுப்பினார், இது குறித்து பின்னர் கீர்த்தனா எக்ஸ் தளத்தில் விளக்கமளித்து, அத்தகைய ஆலை ஒன்று இல்லை என்பதை தெளிவுபடுத்தினார்.",
+      "intensity": "Medium",
+      "media": {
+        "media_type": "photo",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSER3d3BaT19RLWZidGJfcHcwT3hnYmwzVUQ5OHpXVDZzRTRTc0l5TC1qWGp1d0R6OTBrNTZzSFduLXc5dWdVWmZBeF9yMzA4TUptemtnYV92cnhDbkdvdEV5cXM0RGY4N3NZWktfZjFJNjJtMEx3UlB4YkdvSldPdGoxMFJTVzhpWUlkUFFMdkJ5MWFtckVZeEVFbUp3aXhoNDg3a3cwTdIBtAFBVV95cUxQaXZVdXREMlQ0M0FaNFUweWJQWloyVHZDcGkyQWJlekVtSlJfVU9GZDRRbVpseHViRFJfWVdMVXZDT2t0Y1lzcDlTRGthdlcweFQ5ajh4eEY4czVkSTFzV3lHQ2tadHphLWxkUVpUMmhuMUdGQ3UyZ29OWXoJMWhZOU9pYnBuQTZTbGU4dll4OURJVk9vRjRaV0tlY0d3SG9zbVhqVlF5MUJXU2kzanpUbVcwanc?oc=5",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Dinamani report on Assembly debate"
+      }
+    },
+    {
+      "issue_en": "Minister Rajmohan vs. Sivasankar on film references in Assembly",
+      "issue_ta": "அட்லீக்கும் அசம்பிளிக்கும் என்ன சம்பந்தம்..? அமைச்சர் ராஜ்மோகன் vs சிவசங்கர்",
+      "trigger_context": "Minister Rajmohan questioned the relevance of film director Atlee to assembly proceedings, leading to a heated exchange with Sivasankar regarding the appropriateness of cultural references in legislative debates.",
+      "parties_involved": [
+        "Government (Minister Rajmohan)",
+        "Opposition (Sivasankar)"
+      ],
+      "key_speakers": [
+        "Minister Rajmohan",
+        "Sivasankar"
+      ],
+      "opposition_stance_en": "Sivasankar likely defended the use of cultural references or countered the Minister's point on decorum.",
+      "government_reply_en": "Minister Rajmohan questioned the appropriateness of introducing film-related discussions into serious legislative debates.",
+      "outcome_en": "Heated exchange during debate, highlighting differences in parliamentary conduct.",
+      "details_ta": "அமைச்சர் ராஜ்மோகன், திரைப்பட இயக்குநர் அட்லீக்கும் சட்டமன்ற நிகழ்வுகளுக்கும் என்ன தொடர்பு என்று கேள்வி எழுப்ப, சிவசங்கருடன் காரசாரமான விவாதம் ஏற்பட்டது. இது சட்டமன்றத்தில் கலாச்சார குறிப்புகள் குறித்த பொருத்தத்தை பற்றிய வேறுபாடுகளை எடுத்துக்காட்டியது.",
+      "intensity": "Medium",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQzlMZnRKRWNqTG01T2lsU2lZVS1lQ2NzekxYNFlZZ0dlZVlFekFaVTR0cG03cEVDM2E4Qy1rYnplOHBsVjRiM2VIU3ptdWR0VDkxVGZLUC1BTnM2OFFzRW5ncl9IbXJ1LTY1WkFyMkNzYm11SE5xOExwWFdOVnRRd044MnV5a0YxR1poYm1md25kRUJLeTlXb0dSQ213WVM0cGV1emdRV0tjd2Y0MlQ1THdZZTFubk5qUGNzOHNtbWhqb0xEaGdmemNCRzZfY3E1V3RyN0VGeFVlQjdOSzE0ZjRsZmQ1RXJrMTBkMlRfSV9aTkkwanFJLVF3UTQ1cnPSAYwCQVVfeXFMTjFURFBITDVPZGpFYnU5TnVTRDBscUd2NTd0VmJfS1RlN2xqTk5NeUt5T05Ta1lzNWlMT1JBNmI5NHRRMU8yc2VEeWMzcEtFS0dmN2tCU3M4bXJqNkpFQ2tULVNtNUZ2NVd4eURaaElNZkhXUVhPMjJkMzNuRUN5OE9OcmxjV05RSGZ6dllnQ1dGSkJEbXV4QmRGSXFrX1BpOF9VYTZScWRzdU5aaXlFZkhyOHN6WlZwSG41YzRITXZDT0hzaHNqMEZMZ2E1NFRzSTNqc3JyWklvdks4MkRwdldmRGFnV3J2MFpVb29FcF94QnJOa1ZmTTBtdXQ1MGUxc0NoRmk2VGJEM0thMA?oc=5",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Thanthi TV report on Minister Rajmohan vs Sivasankar"
+      }
+    },
+    {
+      "issue_en": "Abrupt Interruption by Aadhav Arjuna and KN Nehru during Assembly Question Hour",
+      "issue_ta": "சட்டமன்ற கேள்வி நேரத்தின்போது ஆதவ் அர்ஜுனா மற்றும் கே.என்.நேருவின் திடீர் குறுக்கீடு",
+      "trigger_context": "Aadhav Arjuna and DMK Minister K.N. Nehru abruptly stood up before Minister E.V. Velu could finish his question, indicating a point of contention or protest during the Assembly session.",
+      "parties_involved": [
+        "DMK (KN Nehru, Aadhav Arjuna)",
+        "Government (E.V. Velu)"
+      ],
+      "key_speakers": [
+        "Aadhav Arjuna",
+        "KN Nehru",
+        "E.V. Velu"
+      ],
+      "opposition_stance_en": "Likely a protest or immediate challenge to a statement or question being posed, seeking immediate attention or clarification.",
+      "government_reply_en": "E.V. Velu's question was interrupted; the Speaker likely intervened to restore order and allow proceedings to continue.",
+      "outcome_en": "Intervention by Speaker or other members expected to restore order, temporarily disrupting proceedings.",
+      "details_ta": "அமைச்சர் இ.வி.வேலு தனது கேள்வியை முடிக்கும் முன்பே ஆதவ் அர்ஜுனா மற்றும் திமுக அமைச்சர் கே.என்.நேரு ஆகியோர் திடீரென எழுந்து நின்றனர், இது சட்டமன்ற கூட்டத்தொடரில் ஒரு கருத்து வேறுபாடு அல்லது போராட்டத்தைக் குறிக்கிறது. சபாநாயகர் தலையிட்டு ஒழுங்கை நிலைநிறுத்த வேண்டியிருந்தது.",
+      "intensity": "Medium",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
+        "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg",
+        "caption": "TN Assembly Highlights: Aadhav Arjuna & KN Nehru Interruption"
       }
     }
   ],
@@ -43,74 +114,104 @@
     {
       "leader_name": "TRB Rajaa",
       "party": "DMK",
-      "statement_headline_en": "Former Minister TRB Rajaa issues warning: 'If this situation continues...'",
-      "statement_headline_ta": "முன்னாள் அமைச்சர் டிஆர்பி ராஜா எச்சரிக்கை: 'இதே நிலை தொடர்ந்தால்...'",
-      "core_message_en": "TRB Rajaa issued a stern warning, stating that 'if this situation continues,' implying potential consequences or further action from the DMK, likely in response to current political dynamics, including the assembly clashes or ongoing investigations.",
-      "core_message_ta": "தற்போதைய அரசியல் சூழல், சட்டமன்ற காரசார விவாதங்கள் அல்லது நடந்து வரும் விசாரணைகளைக் குறிப்பிட்டு, 'இதே நிலை தொடர்ந்தால்...' கடுமையான விளைவுகள் அல்லது திமுகவின் அடுத்த கட்ட நடவடிக்கை இருக்கும் என்று முன்னாள் அமைச்சர் டிஆர்பி ராஜா எச்சரிக்கை விடுத்தார்.",
-      "target_party_or_issue": "CM Vijay / TVK / Tamil Nadu Government, concerning ongoing political situation and assembly events.",
+      "statement_headline_en": "TRB Rajaa warns of consequences if current situation persists regarding GST and TVK",
+      "statement_headline_ta": "ஜிஎஸ்டி மற்றும் தவெக குறித்த தற்போதைய நிலை தொடர்ந்தால் விளைவுகள் குறித்து டிஆர்பி ராஜா எச்சரிக்கை",
+      "core_message_en": "Former Minister TRB Rajaa (DMK) stated on X that if the current situation persists concerning GST and the actions of CM Vijay and TVK, there will be serious implications. This implies a strong criticism of the ruling government's fiscal policy or actions related to TVK.",
+      "core_message_ta": "முன்னாள் அமைச்சர் டிஆர்பி ராஜா (திமுக) X தளத்தில், ஜிஎஸ்டி மற்றும் முதல்வர் விஜய் (தவெக) நடவடிக்கைகளில் தற்போதைய நிலை தொடர்ந்தால் கடுமையான விளைவுகள் ஏற்படும் என்று தெரிவித்தார். இது ஆளும் அரசின் நிதி கொள்கை அல்லது தவெக தொடர்பான நடவடிக்கைகளின் மீதான கடுமையான விமர்சனத்தைக் குறிக்கிறது.",
+      "target_party_or_issue": "TVK, CM Vijay, GST policy",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "poster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "TRB Rajaa's statement referencing TVK"
+      }
+    },
+    {
+      "leader_name": "DMK Minister (unspecified)",
+      "party": "DMK",
+      "statement_headline_en": "DMK Minister likens Udhayanidhi Stalin's look to a 'perfect madman' in a positive light",
+      "statement_headline_ta": "திமுக அமைச்சர் உதயநிதி ஸ்டாலினின் தோற்றத்தை 'சரியான பைத்தியம்' என்று நேர்மறையாக விவரித்தார்",
+      "core_message_en": "An unnamed DMK Minister on X quoted a popular dialogue, 'இது சரியாகாத பைத்தியம் இல்லடா, சரியான பைத்தியம்' (This is not an imperfect madman, but a perfect madman), referring to LOP Udhayanidhi Stalin's look, indicating strong internal party support and admiration.",
+      "core_message_ta": "ஒரு திமுக அமைச்சர் X தளத்தில், எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலினின் தோற்றத்தைப் பற்றிக் குறிப்பிடும்போது, 'இது சரியாகாத பைத்தியம் இல்லடா, சரியான பைத்தியம்' என்ற பிரபலமான வசனத்தை மேற்கோள் காட்டினார், இது கட்சிக்குள் வலுவான ஆதரவையும் பாராட்டையும் குறிக்கிறது.",
+      "target_party_or_issue": "Udhayanidhi Stalin, Internal Party Morale",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK tweet on Udhayanidhi Stalin"
+      }
+    },
+    {
+      "leader_name": "DMK Minister (unspecified)",
+      "party": "DMK",
+      "statement_headline_en": "DMK promotes special camp for women entrepreneurs",
+      "statement_headline_ta": "பெண் தொழில் முனைவோர்களுக்கான சிறப்பு முகாம் குறித்த திமுகவின் விளம்பரம்",
+      "core_message_en": "DMK leaders used X to promote a special camp for women entrepreneurs under the Tamil Nadu government, highlighting initiatives by CM M.K. Stalin and DyCM Udhayanidhi Stalin. This reflects the government's focus on women's empowerment and economic development.",
+      "core_message_ta": "பெண் தொழில் முனைவோர்களுக்கான சிறப்பு முகாமை திமுக தலைவர்கள் X தளத்தில் விளம்பரப்படுத்தினர், இது முதல்வர் மு.க.ஸ்டாலின் மற்றும் துணை முதல்வர் உதயநிதி ஸ்டாலின் ஆகியோரின் தலைமையில் தமிழக அரசின் திட்டங்களை முன்னிலைப்படுத்தியது. இது பெண்கள் மேம்பாடு மற்றும் பொருளாதார வளர்ச்சி மீதான அரசின் கவனத்தை பிரதிபலிக்கிறது.",
+      "target_party_or_issue": "Women Entrepreneurs, TN Government Schemes",
       "source_tier": "Tier 5 (Direct Official Handle)",
       "media": {
         "media_type": "poster",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "TRB Rajaa's statement poster (DMK)"
+        "caption": "DMK post on women entrepreneurs camp"
       }
     }
   ],
   "political_criticisms_and_rebuttals": [
     {
-      "accuser_leader_or_party": "H. Raja",
-      "targeted_leader_or_party": "K. Annamalai (BJP)",
-      "core_criticism_en": "H. Raja criticized Annamalai, stating that he would become 'politically worthless' if he were to leave the BJP, hinting at internal party dynamics.",
-      "core_criticism_ta": "ஹெச். ராஜா, அண்ணாமலையை விமர்சித்தார், அவர் பாஜகவை விட்டு வெளியேறினால் அரசியலில் 'செல்லாக்காசு' ஆகிவிடுவார் என்று கூறி, கட்சிக்குள் நிலவும் கருத்து வேறுபாடுகளை வெளிப்படுத்தினார்.",
-      "rebuttal_or_defense_en": "No direct rebuttal from K. Annamalai was provided in the immediate reports.",
-      "rebuttal_or_defense_ta": "கே. அண்ணாமலை தரப்பிலிருந்து உடனடி மறுப்பு எதுவும் தெரிவிக்கப்படவில்லை.",
-      "political_significance": "Highlights internal tensions or ideological differences within the BJP's Tamil Nadu unit.",
+      "accuser_leader_or_party": "Jothimani",
+      "targeted_leader_or_party": "Congress",
+      "core_criticism_en": "Jothimani (DMK) stated that DMK also treated Congress similarly in 2014, implying that Congress's current complaints about alliances are hypocritical.",
+      "core_criticism_ta": "ஜோதிமணி (திமுக), 2014ல் திமுகவும் காங்கிரஸை இதேபோன்றுதான் நடத்தியது என்று கூறி, காங்கிரஸின் கூட்டணி குறித்த தற்போதைய புகார்கள் பாசாங்குத்தனமானவை என மறைமுகமாக விமர்சித்தார்.",
+      "rebuttal_or_defense_en": "No immediate rebuttal from Congress was explicitly mentioned in the provided snippet.",
+      "rebuttal_or_defense_ta": "காங்கிரஸிடமிருந்து உடனடி மறுப்பு எதுவும் குறிப்பிடப்படவில்லை.",
+      "political_significance": "Highlights internal alliance tensions and historical political dynamics between DMK and Congress, signaling potential strains in future electoral collaborations.",
       "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bharatiya_Janata_Party_logo.svg/320px-Bharatiya_Janata_Party_logo.svg.png",
-        "caption": "H. Raja"
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Jothimani addressing the media"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Edappadi Palaniswami",
+      "targeted_leader_or_party": "DMK / TVK (implied opponents)",
+      "core_criticism_en": "Edappadi Palaniswami (AIADMK) vowed to defeat 'six people' in an upcoming election, signaling aggressive opposition tactics and a direct challenge to his political rivals.",
+      "core_criticism_ta": "எடப்பாடி பழனிசாமி (அதிமுக), வரவிருக்கும் தேர்தலில் 'ஆறு பேரை தோற்கடிப்போம்' என்று சபதம் எடுத்தார், இது ஆக்ரோஷமான எதிர்க்கட்சி உத்திகளையும் தனது அரசியல் போட்டியாளர்களுக்கு நேரடி சவாலையும் குறிக்கிறது.",
+      "rebuttal_or_defense_en": "No direct rebuttal from targeted parties was available in the snippet, but the statement serves as a clear challenge.",
+      "rebuttal_or_defense_ta": "இலக்கு வைக்கப்பட்ட கட்சிகளிடமிருந்து நேரடி மறுப்பு எதுவும் குறிப்பிடப்படவில்லை, ஆனால் இந்த அறிக்கை ஒரு தெளிவான சவாலாக அமைகிறது.",
+      "political_significance": "Sets an aggressive tone for upcoming elections and highlights AIADMK's assertive stance against its primary rivals, intensifying political competition.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AIADMK_flag.svg/320px-AIADMK_flag.svg.png",
+        "caption": "EPS at a political rally"
       }
     },
     {
       "accuser_leader_or_party": "T.T.V. Dhinakaran",
-      "targeted_leader_or_party": "Ruling Government (TVK)",
-      "core_criticism_en": "T.T.V. Dhinakaran vowed to 'topple the government,' indicating an aggressive stance from the opposition and a potential challenge to the ruling party's stability.",
-      "core_criticism_ta": "டி.டி.வி. தினகரன், 'ஆட்சியை கவிழ்ப்போம்' என்று சபதம் செய்து, எதிர்க்கட்சியின் ஆக்ரோஷமான நிலைப்பாட்டையும், ஆளும் கட்சியின் ஸ்திரத்தன்மைக்கு ஒரு சவாலையும் சுட்டிக்காட்டினார்.",
-      "rebuttal_or_defense_en": "No direct rebuttal from the government was reported immediately.",
-      "rebuttal_or_defense_ta": "அரசு தரப்பிலிருந்து உடனடி மறுப்பு எதுவும் தெரிவிக்கப்படவில்லை.",
-      "political_significance": "Signals heightened opposition activity and potential political maneuvering to destabilize the current government.",
+      "targeted_leader_or_party": "Current Government (TVK-led, implied)",
+      "core_criticism_en": "T.T.V. Dhinakaran (AMMK) suddenly vowed to 'topple the government', intensifying political rhetoric against the ruling dispensation and suggesting a direct challenge to its stability.",
+      "core_criticism_ta": "டி.டி.வி. தினகரன் (அமமுக) திடீரென 'ஆட்சியை கவிழ்ப்போம்' என்று சபதம் எடுத்தார், இது ஆளும் அரசுக்கு எதிரான அரசியல் சொற்பொழிவை தீவிரப்படுத்தி, அதன் ஸ்திரத்தன்மைக்கு நேரடி சவாலை முன்வைக்கிறது.",
+      "rebuttal_or_defense_en": "No direct rebuttal from the government was explicitly mentioned in the provided snippet.",
+      "rebuttal_or_defense_ta": "அரசிடமிருந்து நேரடி மறுப்பு எதுவும் குறிப்பிடப்படவில்லை.",
+      "political_significance": "Indicates increased political instability rhetoric and the AMMK's ambition to challenge the ruling party, potentially influencing public perception and future political alignments.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "T.T.V. Dhinakaran"
+        "caption": "T.T.V. Dhinakaran's statement"
       }
     },
     {
-      "accuser_leader_or_party": "Internal PMK Leadership (Dr. Ramadoss, Anbumani Ramadoss)",
-      "targeted_leader_or_party": "PMK Leadership",
-      "core_criticism_en": "Reports suggest a 'word clash' between Dr. Ramadoss and Anbumani Ramadoss, indicating internal disagreements within the PMK, though a PMK MLA offered an explanation.",
-      "core_criticism_ta": "டாக்டர் ராமதாஸ் மற்றும் அன்புமணி ராமதாஸ் இடையே 'வார்த்தை மோதல்' ஏற்பட்டதாக தகவல்கள் தெரிவிக்கின்றன, இது பா.ம.க.விற்குள் கருத்து வேறுபாடுகளைக் குறிக்கிறது, இருப்பினும் ஒரு பா.ம.க. எம்.எல்.ஏ விளக்கம் அளித்தார்.",
-      "rebuttal_or_defense_en": "A PMK MLA provided an explanation regarding the clash, though specific details were not provided in the summary.",
-      "rebuttal_or_defense_ta": "மோதல் தொடர்பாக ஒரு பா.ம.க. எம்.எல்.ஏ விளக்கம் அளித்தார், இருப்பினும் குறிப்பிட்ட விவரங்கள் சுருக்கத்தில் இல்லை.",
-      "political_significance": "Points to potential internal friction or power struggles within the Patali Makkal Katchi.",
+      "accuser_leader_or_party": "Internal PMK Factions",
+      "targeted_leader_or_party": "Ramadoss / Anbumani Ramadoss",
+      "core_criticism_en": "Reports surfaced of a verbal clash between PMK founder Ramadoss and his son Anbumani, with speculation of Anbumani's potential removal from a key position and the entry of a daughter into politics.",
+      "core_criticism_ta": "பாமக நிறுவனர் ராமதாஸ் மற்றும் அவரது மகன் அன்புமணி இடையே வார்த்தை மோதல் ஏற்பட்டதாக தகவல்கள் வெளியாகின. அன்புமணி முக்கியப் பதவியிலிருந்து நீக்கப்படலாம் மற்றும் ராமதாஸின் மகள் அரசியலில் நுழையும் சாத்தியம் பற்றிய யூகங்களும் நிலவுகின்றன.",
+      "rebuttal_or_defense_en": "A PMK MLA provided a clarification, although full details of the internal dispute or the nature of the clarification were not fully detailed in the snippet.",
+      "rebuttal_or_defense_ta": "ஒரு பாமக எம்எல்ஏ விளக்கம் அளித்துள்ளார், இருப்பினும் உட்கட்சிப் பிரச்சினை அல்லது விளக்கத்தின் முழு விவரங்கள் குறிப்பிடப்படவில்லை.",
+      "political_significance": "Highlights significant internal power struggles and potential succession issues within PMK, which could profoundly impact their alliance dynamics and political standing in the state.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/PMK_flag.svg/320px-PMK_flag.svg.png",
-        "caption": "Ramadoss and Anbumani Ramadoss"
-      }
-    },
-    {
-      "accuser_leader_or_party": "Vijay (TVK Leader)",
-      "targeted_leader_or_party": "Anand (TVK General Secretary)",
-      "core_criticism_en": "TVK leader Vijay is reportedly 'very angry' and has issued an order to General Secretary Anand, suggesting an internal disciplinary action or disagreement within the party.",
-      "core_criticism_ta": "தவெக தலைவர் விஜய் 'கடும் கோபத்தில்' இருப்பதாகவும், பொதுச்செயலாளர் ஆனந்துக்கு உத்தரவு பிறப்பித்ததாகவும் தகவல்கள் தெரிவிக்கின்றன, இது கட்சிக்குள் ஒழுங்கு நடவடிக்கை அல்லது கருத்து வேறுபாட்டைக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No details on Anand's response or the specific reasons for Vijay's anger were immediately available.",
-      "rebuttal_or_defense_ta": "விஜயின் கோபத்திற்கான குறிப்பிட்ட காரணங்கள் அல்லது ஆனந்தின் பதில் குறித்த விவரங்கள் உடனடியாக கிடைக்கவில்லை.",
-      "political_significance": "Indicates potential internal strife or significant leadership decisions within the Tamilaga Vettri Kazhagam.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Vijay (TVK) and Anand"
+        "caption": "PMK leaders Ramadoss and Anbumani"
       }
     }
   ],
@@ -118,44 +219,61 @@
     {
       "show_name": "Ayutha Ezhuthu",
       "channel": "Thanthi TV",
-      "topic_en": "CM Vijay vs Udhayanidhi: \"You won't be able to handle it if I start speaking!\" - Udhayanidhi's retort to CM Vijay",
-      "topic_ta": "முதல்வர் விஜய் vs உதயநிதி: \"அதெல்லாம் பேச ஆரம்பிச்சா தாங்க மாட்டீங்க\" - முதல்வர் விஜய்க்கு உதயநிதி பதிலடி",
+      "topic_en": "CM's Response, DMK Walkout: Was CM's reply constructive?",
+      "topic_ta": "முதல்வரின் பதிலுரை, திமுக வெளிநடப்பு: முதல்வர் பதில் ஆக்கப்பூர்வமானதா?",
       "panelists_or_parties": [
-        "TVK",
-        "DMK",
+        "DMK Representatives",
+        "Government Spokespersons",
         "Political Analysts"
       ],
-      "clash_summary_en": "The debate focused on the intense verbal battle between CM Vijay and Udhayanidhi Stalin during the assembly session, with Udhayanidhi responding sharply to CM Vijay's comments, implying readiness to reveal more if provoked.",
-      "clash_summary_ta": "சட்டமன்ற கூட்டத்தொடரின் போது முதல்வர் விஜய் மற்றும் உதயநிதி ஸ்டாலின் இடையே நடந்த கடுமையான வாக்குவாதம் குறித்து விவாதம் நடந்தது. உதயநிதி ஸ்டாலின் முதல்வர் விஜயின் கருத்துக்களுக்கு கூர்மையாக பதிலளித்தார், தூண்டப்பட்டால் மேலும் பல விஷயங்களை வெளிப்படுத்த தயாராக இருப்பதை மறைமுகமாக சுட்டிக்காட்டினார்.",
+      "clash_summary_en": "The debate centered on the Chief Minister's reply in the Assembly after a DMK walkout. Panelists discussed the effectiveness and constructive nature of the CM's statements amidst heated exchanges, questioning the legislative outcome.",
+      "clash_summary_ta": "சட்டமன்றத்தில் திமுக வெளிநடப்பு செய்த பின்னர் முதல்வர் அளித்த பதிலுரை குறித்து விவாதம் நடைபெற்றது. முதல்வர் விஜயின் அறிக்கைகளின் செயல்திறன் மற்றும் ஆக்கப்பூர்வமான தன்மை குறித்து காரசாரமான கருத்துப் பரிமாற்றங்களுக்கு மத்தியில் குழுவினர் விவாதித்தனர், சட்டமன்றத்தின் விளைவுகள் குறித்து கேள்வி எழுப்பினர்.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
       "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
     },
     {
       "show_name": "Makkal Kural Debate",
       "channel": "Polimer News",
-      "topic_en": "Heated Debate in Assembly: \"You can't stop everything, speak properly!\"",
-      "topic_ta": "சட்டமன்றத்தில் சூடான விவாதம்: \"எல்லாம் நிறுத்த முடியாது, ஒழுங்கா பேசுங்க!\"",
+      "topic_en": "Chief Minister Vijay's Angry Speech: TVK vs DMK MLAs in TN Assembly Session 2026",
+      "topic_ta": "முதலமைச்சர் விஜயின் ஆவேச பேச்சு: சட்டமன்ற கூட்டத்தொடரில் தவெக vs திமுக எம்.எல்.ஏ.க்கள்",
       "panelists_or_parties": [
-        "Party Representatives",
-        "Analysts"
+        "TVK Representatives",
+        "DMK Representatives",
+        "Political Analysts"
       ],
-      "clash_summary_en": "This debate covered the heated exchanges in the assembly, focusing on the need for orderly conduct amidst intense arguments between ruling and opposition members.",
-      "clash_summary_ta": "ஆளும் மற்றும் எதிர்க்கட்சி உறுப்பினர்களிடையே நடந்த கடுமையான வாதங்களுக்கு மத்தியில், சட்டமன்றத்தில் நடந்த சூடான விவாதங்கள், ஒழுங்கான நடத்தைக்கான அழைப்புகள் குறித்து விவாதம் நடந்தது.",
+      "clash_summary_en": "Intense discussion on CM Vijay's strong and emotional speech in the Assembly, focusing on the confrontational dynamics and verbal sparring between TVK and DMK MLAs during the 2026 session.",
+      "clash_summary_ta": "2026 சட்டமன்ற கூட்டத்தொடரில் முதல்வர் விஜயின் ஆவேச பேச்சு மற்றும் தவெக மற்றும் திமுக எம்.எல்.ஏ.க்களுக்கு இடையிலான மோதல் குறித்து தீவிர விவாதம் நடைபெற்றது, இதில் காரசாரமான வார்த்தை மோதல்கள் விவாதிக்கப்பட்டன.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
       "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
     },
     {
-      "show_name": "TN Assembly Livestream & Highlights",
-      "channel": "Official Assembly / Media Feeds",
-      "topic_en": "ED Evidence Against K.N. Nehru | Badri Seshadri | CM Vijay vs Udhayanidhi | TVK",
-      "topic_ta": "கே.என். நேருவுக்கு எதிரான அமலாக்கத்துறை ஆதாரங்கள் | பத்ரி சேஷாத்ரி | முதல்வர் விஜய் vs உதயநிதி | தவெக",
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "From Jantar Mantar to Democrat: Which side are Gen Z leaning towards?",
+      "topic_ta": "ஜந்தர் மந்தர் முதல் ஜனநாயகன் வரை... GEN Z -க்கள் யார் பக்கம்?",
       "panelists_or_parties": [
-        "Badri Seshadri",
+        "Youth Representatives",
         "Political Analysts",
-        "Party Representatives"
+        "Social Commentators"
       ],
-      "clash_summary_en": "Panelists discussed the Enforcement Directorate's evidence against K.N. Nehru, analyzing its political implications amidst the ongoing clashes between CM Vijay and Udhayanidhi Stalin, and the role of TVK.",
-      "clash_summary_ta": "அமலாக்கத்துறை கே.என். நேருவுக்கு எதிரான ஆதாரங்கள் குறித்து குழு உறுப்பினர்கள் விவாதித்தனர், முதல்வர் விஜய் மற்றும் உதயநிதி ஸ்டாலின் இடையே நடந்து வரும் மோதல்கள் மற்றும் தவெகவின் பங்கு ஆகியவற்றுக்கு மத்தியில் அதன் அரசியல் தாக்கங்களை ஆய்வு செய்தனர்.",
+      "clash_summary_en": "The debate explored the political leanings and engagement of 'Generation Z' (Gen Z) youth, discussing their involvement in protests and democratic processes, and analyzing which political ideologies or parties they align with in the current landscape.",
+      "clash_summary_ta": "'Gen Z' இளைஞர்களின் அரசியல் சாய்வுகள் மற்றும் ஈடுபாடு குறித்து விவாதம் நடைபெற்றது, போராட்டங்கள் மற்றும் ஜனநாயக செயல்முறைகளில் அவர்களின் பங்கு, தற்போதைய நிலப்பரப்பில் எந்த அரசியல் சித்தாந்தங்கள் அல்லது கட்சிகளுடன் அவர்கள் இணைகிறார்கள் என்பது குறித்து பேசப்பட்டது.",
+      "video_url": "https://www.youtube.com/watch?v=placeholder_genz",
+      "thumbnail_url": "https://img.youtube.com/vi/placeholder_genz/hqdefault.jpg"
+    },
+    {
+      "show_name": "Nerpada Pesu (Ayutha Ezhuthu segment)",
+      "channel": "Thanthi TV",
+      "topic_en": "Is TVK pushing DMK and AIADMK to increase representation for Scheduled Castes?",
+      "topic_ta": "திமுக, அதிமுகவில் எஸ்சிகளுக்கான இடத்தை அதிகரிக்க தள்ளுகிறதா தவெக?",
+      "panelists_or_parties": [
+        "TVK Representatives",
+        "DMK Representatives",
+        "AIADMK Representatives",
+        "Social Justice Activists"
+      ],
+      "clash_summary_en": "The debate focused on whether the Tamilaga Vettri Kazhagam (TVK) is actively pressuring the Dravida Munnetra Kazhagam (DMK) and All India Anna Dravida Munnetra Kazhagam (AIADMK) to allocate more positions and representation for Scheduled Castes within their party structures and electoral candidacies. Discussions covered social justice, political strategies, and vote-bank implications.",
+      "clash_summary_ta": "திமுக மற்றும் அதிமுகவில் பட்டியல் இனத்தவர்களுக்கான பிரதிநிதித்துவத்தை அதிகரிக்க தமிழக வெற்றிக் கழகம் (தவெக) அழுத்தம் கொடுக்கிறதா என்பது குறித்து விவாதம் நடைபெற்றது. சமூக நீதி, அரசியல் உத்திகள் மற்றும் வாக்கு வங்கி தாக்கங்கள் குறித்து விவாதிக்கப்பட்டது.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
       "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
     }
@@ -163,117 +281,99 @@
   "mous_and_investments": [
     {
       "company_or_investor": "Vikram Solar Group",
-      "sector": "Solar Manufacturing",
+      "sector": "Renewable Energy (Solar Manufacturing)",
       "investment_amount_inr": "₹15,037 Crore",
-      "jobs_created": "2,600-2,670",
+      "jobs_created": "2,600",
       "location_district": "Tirunelveli",
       "status": "MoU Signed",
-      "details_en": "A Memorandum of Understanding (MoU) was signed for a new solar manufacturing plant in Tirunelveli with an investment of ₹15,037 crore, projected to create 2,600 to 2,670 jobs. The agreement was signed in the presence of Chief Minister Vijay.",
-      "details_ta": "திருநெல்வேலியில் ₹15,037 கோடி முதலீட்டில் புதிய சூரிய சக்தி உற்பத்தி ஆலை அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது, இது 2,600 முதல் 2,670 வேலைவாய்ப்புகளை உருவாக்கும் என்று எதிர்பார்க்கப்படுகிறது. முதல்வர் விஜய் முன்னிலையில் இந்த ஒப்பந்தம் கையெழுத்தானது.",
+      "details_en": "Vikram Solar Group signed a major MoU for a new solar manufacturing plant in Tirunelveli, aiming to boost renewable energy production and create significant employment opportunities in the region.",
+      "details_ta": "விக்ரம் சோலார் குழுமம் திருநெல்வேலியில் புதிய சூரிய மின்சக்தி உற்பத்தி ஆலையை அமைக்க ஒரு பெரிய புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது. இது புதுப்பிக்கத்தக்க எரிசக்தி உற்பத்தியை அதிகரிக்கவும், அப்பகுதியில் கணிசமான வேலைவாய்ப்புகளை உருவாக்கவும் நோக்கமாகக் கொண்டுள்ளது.",
       "media": {
         "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "CM Vijay presiding over Vikram Solar MoU signing"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Vikram Solar MoU Signing"
       }
     },
     {
-      "company_or_investor": "Confidential (Car Auto Parts Manufacturer)",
+      "company_or_investor": "Unnamed Car Parts Manufacturer",
       "sector": "Automotive Components",
       "investment_amount_inr": "₹300 Crore",
-      "jobs_created": "Undisclosed",
-      "location_district": "Kanchipuram (SIPCOT Industrial Park)",
+      "jobs_created": "N/A",
+      "location_district": "Kanchipuram SIPCOT Industrial Park",
       "status": "MoU Signed",
-      "details_en": "An MoU was signed for setting up a car auto parts manufacturing unit with an investment of ₹300 crore at the SIPCOT Industrial Park in Kanchipuram district, in the presence of Chief Minister Vijay.",
-      "details_ta": "காஞ்சிபுரம் மாவட்டம் சிப்காட் தொழிற்பூங்காவில் ₹300 கோடி முதலீட்டில் கார் உதிரிபாக உற்பத்தி நிலையம் அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் முதல்வர் விஜய் முன்னிலையில் கையெழுத்தானது.",
+      "details_en": "An MoU was signed in the presence of Chief Minister Vijay for a new car auto parts manufacturing unit in Kanchipuram SIPCOT Industrial Park, with an investment of ₹300 crore.",
+      "details_ta": "காஞ்சிபுரம் சிப்காட் தொழிற்பூங்காவில் ₹300 கோடி முதலீட்டில் கார் உதிரிபாக உற்பத்தி நிலையம் அமைக்க முதல்வர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "CM Vijay overseeing auto parts MoU signing"
+        "caption": "CM Vijay at MoU signing for car parts"
       }
     },
     {
-      "company_or_investor": "Australian University",
+      "company_or_investor": "Australian University (unspecified)",
       "sector": "Education",
       "investment_amount_inr": "₹125 Crore",
-      "jobs_created": "Undisclosed",
-      "location_district": "Chennai (Velachery)",
+      "jobs_created": "N/A",
+      "location_district": "Velachery, Chennai",
       "status": "MoU Signed",
-      "details_en": "A Memorandum of Understanding was signed for establishing an international university campus in Velachery, Chennai, with an investment of ₹125 crore, in the presence of Chief Minister Vijay.",
-      "details_ta": "சென்னை வேளச்சேரியில் ₹125 கோடி முதலீட்டில் சர்வதேச பல்கலைக்கழக வளாகம் அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் முதல்வர் விஜய் முன்னிலையில் கையெழுத்தானது.",
+      "details_en": "An MoU was signed for the establishment of an international university campus by an Australian university in Velachery, Chennai, with an investment of ₹125 crore, in the presence of Chief Minister Vijay.",
+      "details_ta": "சென்னை வேளச்சேரியில் ₹125 கோடி முதலீட்டில் சர்வதேச பல்கலைக்கழக வளாகம் அமைக்க ஆஸ்திரேலிய பல்கலைக்கழகத்துடன் முதல்வர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "CM Vijay at Australian university MoU signing"
+        "caption": "CM Vijay at MoU signing for University campus"
       }
     },
     {
       "company_or_investor": "Hitachi",
-      "sector": "Technology/Manufacturing",
+      "sector": "Technology / Manufacturing",
       "investment_amount_inr": "₹1,000 Crore",
       "jobs_created": "1,000",
-      "location_district": "Undisclosed",
+      "location_district": "N/A",
       "status": "MoU Signed",
-      "details_en": "An MoU was signed with Hitachi for an investment of ₹1,000 crore, expected to create 1,000 jobs in Tamil Nadu.",
-      "details_ta": "ஹிட்டாச்சி நிறுவனத்துடன் ₹1,000 கோடி முதலீடு மற்றும் 1,000 வேலைவாய்ப்புகளை உருவாக்கும் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
+      "details_en": "Hitachi signed an MoU for an investment of ₹1,000 crore in Tamil Nadu, expected to create 1,000 jobs across various technology and manufacturing domains.",
+      "details_ta": "ஹிட்டாச்சி நிறுவனம் தமிழ்நாட்டில் ₹1,000 கோடி முதலீட்டிற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டது, இது பல்வேறு தொழில்நுட்ப மற்றும் உற்பத்தித் துறைகளில் 1,000 வேலைவாய்ப்புகளை உருவாக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Hitachi MoU signing"
+        "caption": "Hitachi MoU Signing Ceremony"
       }
     },
     {
-      "company_or_investor": "Multiple International Firms",
-      "sector": "Various Key Sectors",
-      "investment_amount_inr": "Undisclosed",
-      "jobs_created": "Undisclosed",
-      "location_district": "Singapore (International)",
-      "status": "MoU Signed",
-      "details_en": "Chief Minister M.K. Stalin's visit to Singapore resulted in several significant MoUs being signed across key sectors, strengthening international collaborations.",
-      "details_ta": "முதலமைச்சர் மு.க.ஸ்டாலினின் சிங்கப்பூர் பயணம், பல்வேறு முக்கியத் துறைகளில் பல புரிந்துணர்வு ஒப்பந்தங்கள் கையெழுத்திட வழிவகுத்தது, சர்வதேச ஒத்துழைப்பை வலுப்படுத்தியது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "CM M.K. Stalin in Singapore"
-      }
-    },
-    {
-      "company_or_investor": "Tamil Nadu Tourism Department",
-      "sector": "Tourism",
-      "investment_amount_inr": "Undisclosed",
-      "jobs_created": "Undisclosed",
-      "location_district": "Statewide",
-      "status": "Policy Initiative",
-      "details_en": "Tamil Nadu is actively strengthening its global tourism vision, aiming to boost the state's international appeal and tourism sector.",
-      "details_ta": "தமிழ்நாடு அதன் உலகளாவிய சுற்றுலா தொலைநோக்குப் பார்வையை தீவிரமாக வலுப்படுத்தி வருகிறது, மாநிலத்தின் சர்வதேச ஈர்ப்பையும் சுற்றுலாத் துறையையும் மேம்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.",
+      "company_or_investor": "Tamil Nadu Government (SIPCOT)",
+      "sector": "Industrial Infrastructure & Employee Welfare",
+      "investment_amount_inr": "N/A",
+      "jobs_created": "N/A",
+      "location_district": "Gangaikondan SIPCOT",
+      "status": "Announced / Underway",
+      "details_en": "New facilities and welfare measures, referred to as 'surprises', were announced for women employees in Gangaikondan SIPCOT, enhancing their working conditions and overall well-being.",
+      "details_ta": "கங்கைகொண்டான் சிப்காட் பெண் ஊழியர்களுக்கு புதிய வசதிகள் மற்றும் 'சர்ப்ரைஸ்' சலுகைகள் அறிவிக்கப்பட்டுள்ளன, இது அவர்களின் பணிச்சூழலையும் ஒட்டுமொத்த நலனையும் மேம்படுத்தும்.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Tamil Nadu tourism promotion"
-      }
-    },
-    {
-      "company_or_investor": "SIPCOT",
-      "sector": "Industrial Infrastructure",
-      "investment_amount_inr": "Undisclosed",
-      "jobs_created": "Undisclosed",
-      "location_district": "Gangaikondan",
-      "status": "Development Planned",
-      "details_en": "New facilities are being planned for women employees at the Gangaikondan SIPCOT industrial park, offering 'surprise' amenities and welfare measures.",
-      "details_ta": "கங்கைகொண்டான் சிப்காட் தொழிற்பூங்காவில் பெண் ஊழியர்களுக்கான புதிய வசதிகள் திட்டமிடப்பட்டு வருகின்றன, 'சர்ப்ரைஸ்' வசதிகள் மற்றும் நலத்திட்டங்கள் வழங்கப்படும் என்று எதிர்பார்க்கப்படுகிறது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Gangaikondan SIPCOT facilities"
+        "caption": "Gangaikondan SIPCOT for women employees"
       }
     }
   ],
   "statewide_politics": [
     {
-      "party_or_leader": "DMK",
-      "topic_en": "Dismissal of M.K. Stalin's election case",
-      "topic_ta": "மு.க. ஸ்டாலினின் தேர்தல் வழக்கு தள்ளுபடி",
-      "analysis_en": "The Madras High Court dismissed the case challenging M.K. Stalin's victory from the Kolathur constituency, solidifying his electoral position.",
-      "analysis_ta": "கொளத்தூர் தொகுதியில் மு.க. ஸ்டாலினின் வெற்றியை எதிர்த்து தொடரப்பட்ட வழக்கு சென்னை உயர்நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டது, இது அவரது தேர்தல் நிலையை உறுதிப்படுத்துகிறது.",
+      "party_or_leader": "DMK Minister K.N. Nehru",
+      "topic_en": "Discussions surrounding DVAC raids on DMK Minister K.N. Nehru",
+      "topic_ta": "திமுக அமைச்சர் கே.என்.நேருவின் வீடுகளில் லஞ்ச ஒழிப்புத் துறை சோதனைகள் குறித்த விவாதம்",
+      "analysis_en": "Print media extensively discussed the political implications of DVAC raids on DMK Minister K.N. Nehru, with commentators speculating on potential political shifts and the nature of 'generational politics' within the state.",
+      "analysis_ta": "திமுக அமைச்சர் கே.என்.நேருவின் வீடுகளில் நடைபெற்ற லஞ்ச ஒழிப்புத் துறை சோதனைகளின் அரசியல் தாக்கங்கள் குறித்து அச்சு ஊடகங்கள் விரிவாக விவாதித்தன. அரசியல் மாற்றங்கள் மற்றும் மாநிலத்தில் 'ஒரு தலைமுறை அரசியல்' குறித்து வர்ணனையாளர்கள் யூகிக்கின்றனர்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK Minister K.N. Nehru"
+      }
+    },
+    {
+      "party_or_leader": "M.K. Stalin (DMK)",
+      "topic_en": "High Court dismisses M.K. Stalin's petition challenging Kolathur election results",
+      "topic_ta": "கொளத்தூர் தேர்தல் முடிவை எதிர்த்து ஸ்டாலின் தொடர்ந்த வழக்கு தள்ளுபடி",
+      "analysis_en": "The High Court dismissed M.K. Stalin's long-standing legal challenge against the Kolathur election results, effectively confirming the electoral outcome and closing a significant electoral dispute for the DMK leader.",
+      "analysis_ta": "கொளத்தூர் தேர்தல் முடிவுகளை எதிர்த்து மு.க.ஸ்டாலின் தாக்கல் செய்த நீண்டகால சட்டரீதியான மனுவை உயர் நீதிமன்றம் தள்ளுபடி செய்தது. இது தேர்தல் முடிவை உறுதிப்படுத்தி, திமுக தலைவருக்கு ஒரு முக்கிய தேர்தல் சர்ச்சையை முடிவுக்குக் கொண்டுவந்தது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
@@ -281,86 +381,62 @@
       }
     },
     {
-      "party_or_leader": "AIADMK, DMK, TVK",
-      "topic_en": "By-election scenario: AIADMK seeks justice, DMK criticizes, TVK confident",
-      "topic_ta": "இடைத்தேர்தல் களம்: அதிமுக நீதி கேட்கிறது, திமுக குறைகூறுகிறது, தவெக நம்பிக்கை",
-      "analysis_en": "Reports suggest a multi-polar by-election landscape where AIADMK is seen demanding justice, DMK is critical of the situation, and TVK expresses confidence, setting the stage for a competitive contest.",
-      "analysis_ta": "அதிமுக நீதி கேட்பதாகவும், திமுக விமர்சிப்பதாகவும், தவெக நம்பிக்கை கொண்டிருப்பதாகவும் தகவல்கள் தெரிவிக்கின்றன, இது ஒரு போட்டி நிறைந்த இடைத்தேர்தல் களத்தை உருவாக்குகிறது.",
+      "party_or_leader": "Vijay (TVK)",
+      "topic_en": "Reports of TVK leader Vijay's anger and directives to General Secretary Anand",
+      "topic_ta": "தவெக தலைவர் விஜயின் கடும் கோபம் மற்றும் பொதுச்செயலாளர் ஆனந்துக்கு பறந்த உத்தரவு",
+      "analysis_en": "Digital media reports suggest that TVK leader and Chief Minister Vijay is displeased and has issued stern directives to General Secretary Anand. This indicates potential internal party issues or a strong stance taken by the leader on a specific policy or political matter, signaling a potential shake-up within the party.",
+      "analysis_ta": "தவெக தலைவர் மற்றும் முதல்வர் விஜய் கடும் கோபத்தில் இருப்பதாகவும், பொதுச்செயலாளர் ஆனந்துக்கு கடுமையான உத்தரவுகளை பிறப்பித்ததாகவும் டிஜிட்டல் ஊடகங்கள் தெரிவிக்கின்றன. இது உட்கட்சிப் பிரச்சினைகள் அல்லது ஒரு குறிப்பிட்ட கொள்கை அல்லது அரசியல் விஷயத்தில் தலைவரால் எடுக்கப்பட்ட வலுவான நிலைப்பாட்டைக் குறிக்கிறது, கட்சிக்குள் ஒரு மறுசீரமைப்பைக் காட்டுகிறது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "By-election political scenario"
+        "caption": "CM Vijay (TVK Leader)"
       }
     },
     {
-      "party_or_leader": "Ruling Government (TVK)",
-      "topic_en": "Rumors of CM considering cabinet reshuffle, three ministers to be removed",
-      "topic_ta": "அமைச்சரவை மாற்றம் குறித்த வதந்திகள், மூன்று அமைச்சர்கள் நீக்கப்படலாம்",
-      "analysis_en": "Investigative reports suggest that the Chief Minister is contemplating a cabinet reshuffle, which might involve the removal of three ministers, indicating potential changes in governance or party structure.",
-      "analysis_ta": "முதலமைச்சர் அமைச்சரவை மாற்றத்தை பரிசீலித்து வருவதாகவும், மூன்று அமைச்சர்கள் நீக்கப்படலாம் என்றும் விசாரணை அறிக்கைகள் தெரிவிக்கின்றன, இது நிர்வாகம் அல்லது கட்சி கட்டமைப்பில் சாத்தியமான மாற்றங்களைக் குறிக்கிறது.",
+      "party_or_leader": "Chief Minister (implied Vijay)",
+      "topic_en": "Speculation of Chief Minister removing three ministers, indicating a cabinet reshuffle",
+      "topic_ta": "3 அமைச்சர்களுக்கு கல்தா... கலைத்து ஆடும் முதல்வர்!",
+      "analysis_en": "Investigative media suggests the Chief Minister is shaking up the cabinet by potentially removing three ministers. This significant internal political move could be aimed at improving governance, consolidating power, or addressing performance issues within the administration.",
+      "analysis_ta": "மூன்று அமைச்சர்களை முதல்வர் நீக்கி அமைச்சரவையை மாற்றியமைக்கிறார் என்று புலனாய்வு ஊடகங்கள் தெரிவிக்கின்றன. இந்த முக்கியமான உட்கட்சி அரசியல் நகர்வு நிர்வாகத்தை மேம்படுத்துதல், அதிகாரத்தை ஒருங்கிணைத்தல் அல்லது நிர்வாகத்தில் செயல்திறன் சிக்கல்களைத் தீர்ப்பதை நோக்கமாகக் கொண்டிருக்கலாம்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Chief Minister making key decisions"
+      }
+    },
+    {
+      "party_or_leader": "Esakki Subbiah (AIADMK)",
+      "topic_en": "Esakki Subbiah withdraws resignation and reveals reasons",
+      "topic_ta": "ராஜினாமாவை வாபஸ் பெற மனு போட்டது ஏன்? - ரகசியம் உடைக்கிறார் இசக்கி சுப்பையா",
+      "analysis_en": "Esakki Subbiah, a prominent political figure (likely from AIADMK), withdrew his resignation and publicly explained his reasons. This move potentially settles an internal party dispute or clarifies his political stance, influencing factional dynamics within his party.",
+      "analysis_ta": "முக்கிய அரசியல் பிரமுகரான இசக்கி சுப்பையா (அதிமுக), தனது ராஜினாமாவை திரும்பப் பெற்று அதற்கான காரணங்களை பகிரங்கமாக விளக்கினார். இந்த நடவடிக்கை அவரது கட்சியில் உள்ள உட்கட்சிப் பிரச்சினையைத் தீர்க்கலாம் அல்லது அவரது அரசியல் நிலைப்பாட்டை தெளிவுபடுத்தலாம், இது அவரது கட்சியின் பிளவுபட்ட இயக்கவியலை பாதிக்கும்.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Cabinet reshuffle speculation"
+        "caption": "Esakki Subbiah"
       }
     },
     {
-      "party_or_leader": "AIADMK",
-      "topic_en": "Edappadi Palaniswami's pledge to defeat 'six people'",
-      "topic_ta": "எடப்பாடி பழனிசாமியின் 'ஆறு பேரை தோற்கடிப்போம்' என்ற சபதம்",
-      "analysis_en": "Edappadi Palaniswami reportedly made a pledge to defeat 'six people' (implied political rivals), signaling a determined electoral strategy and confidence for upcoming contests.",
-      "analysis_ta": "எடப்பாடி பழனிசாமி 'ஆறு பேரை தோற்கடிப்போம்' (அரசியல் எதிரிகள் என்று அர்த்தம்) என்று சபதம் செய்ததாக தெரிவிக்கப்பட்டுள்ளது, இது வரவிருக்கும் தேர்தல்களில் ஒரு உறுதியான தேர்தல் உத்தியையும் நம்பிக்கையையும் குறிக்கிறது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AIADMK_flag.svg/320px-AIADMK_flag.svg.png",
-        "caption": "Edappadi Palaniswami"
-      }
-    },
-    {
-      "party_or_leader": "Indian National Congress",
-      "topic_en": "Congress faces humiliation due to alliance disrespect",
-      "topic_ta": "கூட்டணி அவமரியாதையால் காங்கிரஸுக்கு அவமானம்",
-      "analysis_en": "Reports indicate that the Congress party is facing 'humiliation' due to perceived disrespect from an alliance partner, highlighting potential strains or disagreements within the coalition.",
-      "analysis_ta": "கூட்டணி அவமரியாதையால் காங்கிரஸ் கட்சி 'அவமானம்' எதிர்கொள்வதாக தகவல்கள் தெரிவிக்கின்றன, இது கூட்டணிக்குள் சாத்தியமான பிளவுகள் அல்லது கருத்து வேறுபாடுகளை எடுத்துக்காட்டுகிறது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Indian_National_Congress_hand_logo.svg/320px-Indian_National_Congress_hand_logo.svg.png",
-        "caption": "Congress party symbol"
-      }
-    },
-    {
-      "party_or_leader": "Isakki Subbiah",
-      "topic_en": "Isakki Subbiah explains withdrawal of resignation",
-      "topic_ta": "இசக்கி சுப்பையா ராஜினாமா வாபஸ் பெற்றதற்கான விளக்கம்",
-      "analysis_en": "Isakki Subbiah publicly explained the reasons behind withdrawing his resignation, shedding light on the political circumstances or personal decisions involved.",
-      "analysis_ta": "இசக்கி சுப்பையா தனது ராஜினாமாவை வாபஸ் பெற்றதற்கான காரணங்களை வெளிப்படையாக விளக்கினார், இதில் சம்பந்தப்பட்ட அரசியல் சூழ்நிலைகள் அல்லது தனிப்பட்ட முடிவுகள் குறித்து வெளிச்சம் போட்டுக் காட்டினார்.",
+      "party_or_leader": "Soori (Actor)",
+      "topic_en": "Actor Soori comments on healthy changes in Tamil Nadu politics",
+      "topic_ta": "நடிகர் சூரி தமிழக அரசியலில் ஆரோக்கியமான மாற்றங்கள் குறித்து கருத்து",
+      "analysis_en": "Actor Soori commented on the growing political awareness among the youth, stating that even a 10-year-old could articulate political views, signaling a healthy and evolving political landscape in Tamil Nadu.",
+      "analysis_ta": "இளைஞர்களிடையே வளர்ந்து வரும் அரசியல் விழிப்புணர்வு குறித்து நடிகர் சூரி கருத்து தெரிவித்தார். 10 வயது சிறுவனும் அரசியல் கருத்துக்களை முன்வைக்க முடியும் என்று அவர் கூறி, தமிழக அரசியலில் ஆரோக்கியமான மற்றும் வளர்ந்து வரும் அரசியல் நிலப்பரப்பைக் குறித்தார்.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Isakki Subbiah"
-      }
-    },
-    {
-      "party_or_leader": "Ravimohan",
-      "topic_en": "Ravimohan clarifies on entering politics",
-      "topic_ta": "ரவிமோகன் அரசியல் பிரவேசம் குறித்து விளக்கம்",
-      "analysis_en": "Ravimohan issued a clarification regarding speculations about his entry into politics, addressing public interest and rumors.",
-      "analysis_ta": "ரவிமோகன் அரசியல் பிரவேசம் குறித்த ஊகங்கள் தொடர்பாக விளக்கம் அளித்தார், பொது மக்களின் ஆர்வம் மற்றும் வதந்திகளுக்கு பதிலளித்தார்.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Ravimohan"
+        "caption": "Actor Soori"
       }
     }
   ],
   "bills_and_governance": [],
-  "raw_sources_count": 221,
+  "raw_sources_count": 223,
   "tier_distribution": {
     "1": 25,
-    "2": 60,
-    "3": 14,
+    "2": 59,
+    "3": 15,
     "4": 26,
-    "5": 88
+    "5": 90
   },
-  "generated_at": "2026-09-09T07:32:38.520112"
+  "generated_at": "2026-09-09T17:04:24.473764"
 }
