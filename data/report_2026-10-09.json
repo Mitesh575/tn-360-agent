@@ -1,129 +1,69 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "executive_tldr_en": [
-    "Actor Vijay, leader of Tamilaga Vettri Kazhagam (TVK), is confirmed as the Chief Minister of Tamil Nadu, presiding over significant investment MoUs and facing strong opposition from the DMK.",
-    "The by-elections in Madurandhagam and Dharapuram constituencies are a major political focus, with results highly anticipated amidst allegations of campaign violations and intense debate over the outcomes.",
-    "The opposition DMK, led by M.K. Stalin and Udhayanidhi Stalin, has launched severe criticisms against the TVK government on issues ranging from tur dal procurement and power cuts to the handling of nurses' protests and alleged electoral malpractices.",
-    "The TVK government has announced new Memoranda of Understanding (MoUs) totaling over ₹17,000 crores in various sectors, including a major solar energy project and international university campuses, signaling a focus on industrial growth and education."
+    "Tamilaga Vettri Kazhagam (TVK), led by CM Vijay, secured decisive victories in the Maduranthagam and Dharapuram by-elections, demonstrating a significant shift in the political landscape and challenging traditional AIADMK strongholds.",
+    "The Tamil Nadu Legislative Assembly witnessed heated debates during a crucial floor test, where CM Vijay defended his government's mandate with a focus on 'Horse Speed, Not Horse Trading' against strong opposition from figures like Udhayanidhi Stalin, who now serves as the Opposition Leader.",
+    "Major investment announcements were made, including a ₹15,037 Crore solar manufacturing plant by Vikram Solar in Tirunelveli and a ₹1,000 Crore investment by Hitachi, alongside MoUs for an international university campus in Chennai.",
+    "DMK leaders, including M.K. Stalin and M.P. Kanimozhi, launched sharp criticisms against the 'reel government' (implying TVK), raising concerns over alleged breakdown in law and order, unfulfilled promises to nurses, and discrepancies in commodity procurement."
   ],
   "executive_tldr_ta": [
-    "நடிகர் விஜய், தமிழக வெற்றி கழகத்தின் (தவெக) தலைவராகவும், தமிழ்நாட்டின் முதலமைச்சராகவும் உறுதிப்படுத்தப்பட்டுள்ளார். இவர் முதலீட்டு புரிந்துணர்வு ஒப்பந்தங்களுக்கு தலைமை தாங்குகிறார் மற்றும் திமுகவின் கடுமையான எதிர்ப்பை எதிர்கொள்கிறார்.",
-    "மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல் முடிவுகள் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியுள்ளன. தேர்தல் பிரச்சார விதிமீறல் குற்றச்சாட்டுகள் மற்றும் முடிவுகள் குறித்த தீவிர விவாதங்கள் நிலவி வருகின்றன.",
-    "திமுக தலைவர் மு.க.ஸ்டாலின் மற்றும் உதயநிதி ஸ்டாலின் தலைமையிலான எதிர்க்கட்சி, துவரம் பருப்பு கொள்முதல், மின்வெட்டு, செவிலியர்கள் போராட்ட கையாளுதல் மற்றும் தேர்தல் முறைகேடுகள் போன்ற பல பிரச்சினைகளில் தவெக அரசை கடுமையாக விமர்சித்துள்ளது.",
-    "தவெக அரசு, சூரிய ஆற்றல் திட்டம் மற்றும் சர்வதேச பல்கலைக்கழக வளாகங்கள் உள்ளிட்ட பல்வேறு துறைகளில் ₹17,000 கோடிக்கும் அதிகமான புதிய புரிந்துணர்வு ஒப்பந்தங்களை அறிவித்துள்ளது, இது தொழில் வளர்ச்சி மற்றும் கல்வி மீதான அதன் கவனத்தை எடுத்துக்காட்டுகிறது."
+    "முதலமைச்சர் விஜய் தலைமையிலான தமிழக வெற்றி கழகம் (தவெக), மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல்களில் தீர்க்கமான வெற்றிகளைப் பெற்று, அரசியல் களத்தில் குறிப்பிடத்தக்க மாற்றத்தையும், அதிமுகவின் பாரம்பரிய கோட்டைகளுக்கு சவாலையும் ஏற்படுத்தியுள்ளது.",
+    "தமிழ்நாடு சட்டமன்றத்தில் நடைபெற்ற முக்கியமான நம்பிக்கை வாக்கெடுப்பின் போது காரசாரமான விவாதங்கள் நடந்தன. இதில் முதல்வர் விஜய் தனது அரசின் ஆணையை, 'குதிரை வேகத்தில், குதிரை பேரமில்லா' ஆட்சி எனப் பாதுகாத்து பேசினார். உதயநிதி ஸ்டாலின் எதிர்க்கட்சித் தலைவராக செயல்பட்டு வலுவான எதிர்ப்பை வெளிப்படுத்தினார்.",
+    "முக்கிய முதலீட்டு அறிவிப்புகள் வெளியிடப்பட்டன. இதில் விக்ரம் சோலார் குழுமத்தின் ரூ.15,037 கோடி மதிப்பிலான சூரிய மின் உற்பத்தி ஆலை திருநெல்வேலியில் அமைப்பது மற்றும் ஹிட்டாச்சி நிறுவனத்தின் ரூ.1,000 கோடி முதலீடு ஆகியவை அடங்கும். மேலும், சென்னையில் சர்வதேச பல்கலைக்கழக வளாகத்திற்கான புரிந்துணர்வு ஒப்பந்தங்களும் கையெழுத்தாகின.",
+    "திமுக தலைவர்களான மு.க. ஸ்டாலின் மற்றும் எம்.பி. கனிமொழி ஆகியோர் 'ரீல் அரசு' (தவெக அரசைக் குறிக்கிறது) மீது கடுமையான விமர்சனங்களை முன்வைத்தனர். சட்டம்-ஒழுங்கு சீர்கேடு, செவிலியர்களுக்கு நிறைவேற்றப்படாத வாக்குறுதிகள் மற்றும் அத்தியாவசியப் பொருட்கள் கொள்முதலில் உள்ள முறைகேடுகள் ஆகியவை குறித்த கவலைகளை அவர்கள் எழுப்பினர்."
   ],
   "heated_assembly_moments": [
     {
-      "issue_en": "DMK vs TVK Clashes over By-election Allegations & Governance",
-      "issue_ta": "இடைத்தேர்தல் குற்றச்சாட்டுகள் மற்றும் ஆட்சி குறித்து திமுக vs தவெக மோதல்கள்",
-      "trigger_context": "Disputes during legislative assembly sessions, fueled by criticisms from opposition leader Udhayanidhi Stalin and general secretary Anand, and strong rebuttals from the ruling TVK regarding recent by-elections and governance issues.",
+      "issue_en": "Majority Test & Floor Debate in Tamil Nadu Legislative Assembly",
+      "issue_ta": "தமிழ்நாடு சட்டமன்றத்தில் நம்பிக்கை வாக்கெடுப்பு மற்றும் காரசாரமான விவாதம்",
+      "trigger_context": "Following recent by-election results and a shift in political power (TVK forming government), the Assembly convened for a crucial session, likely including a trust vote. The opposition challenged the government's mandate and actions.",
       "parties_involved": [
         "TVK",
-        "DMK"
+        "DMK",
+        "AIADMK"
       ],
       "key_speakers": [
         "CM Vijay",
-        "Udhayanidhi Stalin",
-        "Anand (TVK General Secretary)"
+        "Udhayanidhi Stalin"
       ],
-      "opposition_stance_en": "The DMK accused the TVK government of electoral malpractices in the Madurandhagam and Dharapuram by-elections, inefficient governance leading to issues like power cuts and increased violence, and using police force against protesting nurses. Udhayanidhi Stalin faced a case regarding campaign violations.",
-      "government_reply_en": "The TVK, led by CM Vijay, defended its governance record, highlighted development initiatives, and dismissed the opposition's allegations as politically motivated. TVK Minister Nirmalkumar specifically countered Udhayanidhi Stalin's criticisms.",
-      "outcome_en": "Fiery debates and confrontations witnessed in the assembly, with a focus on by-election outcomes and government policies.",
-      "details_ta": "சட்டமன்றக் கூட்டத்தொடர்களில் தவெக மற்றும் திமுக இடையே கடுமையான மோதல்கள் வெடித்தன. சமீபத்திய இடைத்தேர்தல் முடிவுகள் மற்றும் ஆளும் தவெக அரசின் நிர்வாகம் குறித்து எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின் மற்றும் பொதுச்செயலாளர் ஆனந்த் ஆகியோரின் விமர்சனங்கள் மோதலுக்கு வழிவகுத்தன. திமுக இடைத்தேர்தல் முறைகேடுகள், மின்வெட்டு, வன்முறை அதிகரிப்பு மற்றும் செவிலியர்கள் போராட்டத்தில் காவல்துறை நடவடிக்கை எடுத்தது போன்ற குற்றச்சாட்டுகளை முன்வைத்தது. முதலமைச்சர் விஜய் தலைமையிலான தவெக, தனது ஆட்சியைப் பாதுகாத்து, எதிர்க்கட்சியின் குற்றச்சாட்டுகளை அரசியல் நோக்கம் கொண்டவை என்று நிராகரித்தது.",
+      "opposition_stance_en": "The opposition, represented by Udhayanidhi Stalin (identified as Opposition Leader in some reports), aggressively challenged the government during the floor test, implying questions about its legitimacy or performance. They are reported to have 'descended' during the test, indicating a strong confrontational posture.",
+      "government_reply_en": "CM Vijay delivered a significant speech, emphasizing 'Horse Speed, Not Horse Trading' to defend his government's swift and legitimate formation and actions, likely refuting allegations of unethical political maneuvers.",
+      "outcome_en": "Heated debates, likely a successful floor test for the CM Vijay-led government, despite strong opposition challenges.",
+      "details_ta": "சமீபத்திய இடைத்தேர்தல் முடிவுகளுக்குப் பிறகு (தவெக அரசு அமைத்ததால்) சட்டமன்றத்தில் நம்பிக்கை வாக்கெடுப்பு நடைபெற்றது. எதிர்க்கட்சித் தலைவர் உதயநிதி ஸ்டாலின் உள்ளிட்டோர் அரசின் பெரும்பான்மையையும், செயல்பாடுகளையும் கேள்வி எழுப்பி காரசாரமாக விவாதித்தனர். முதல்வர் விஜய், 'குதிரை வேகத்தில், குதிரை பேரமில்லா' ஆட்சி என தனது அரசின் நியாயமான அமைப்பையும் வேகமான செயல்பாடுகளையும் பாதுகாத்துப் பேசினார்.",
       "intensity": "High",
       "media": {
         "media_type": "youtube_video",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXkyeDl5Qkh4ZzNTbmF4dTZJOURZYllyOEZid1RGMklWZWtnT01BZFotRjJ4T0Rxc05wd2FNeG1pNno4M1dfR1NwZm85X1VBUi1nbFdlNDlxT2p3RXNjckRFM1FBWXB1RDEzTW1MQW5MZ2ZBWWZPMzdNczJ6X0llQTl5bWhLNXBEeFVNenhNY2lndkZKSE51RjZMWFZ3RjFyTUJxWkZFR3JVUGQxbDZaQ21mRzlSUF9NNlh5VzJIWmjSAc4BQVVfeXFMTW82endPWWRxQmJ2UzFSZWhyRHNKS1VJTEJrWFFOMzZhREM3YXNVUUljU1lJaDFZVUlGS0RiaWFXU2d1b1ZHblNmOGJYSHVmbjlrbmxsQkxRZUU1b3FBZk9aeDlRanZZM19lcEpFQ3Fac19KMnV2c2VYMjNXVGRBRVBza2taRERQZVVRUDhxZXBtWW4zN0xTWC1DWDhZbnNRdmVFVWJST0Zzd1NPLU5GMWMzbWtfY3MyeDJVbjd2MnBra2pfMkZSZ1UzZnVuX3c?oc=5",
+        "url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
         "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Thanthi TV Live: TVK vs DMK - தீப்பிடிக்கும் பேரவை"
+        "caption": "CM Vijay in TN Assembly during floor test"
       }
     }
   ],
   "high_command_direct_statements": [
     {
-      "leader_name": "Kanimozhi",
+      "leader_name": "M.K. Stalin",
       "party": "DMK",
-      "statement_headline_en": "Kanimozhi Condemns TVK Government's Action Against Protesting Nurses",
-      "statement_headline_ta": "போராடும் செவிலியர்கள் மீது தவெக அரசின் நடவடிக்கையை கனிமொழி கண்டனம்",
-      "core_message_en": "MP Kanimozhi criticized the 'reel government' (TVK) for deceiving nurses and taking harsh police action against them who were protesting for permanent jobs and equal pay for equal work.",
-      "core_message_ta": "பணி நிரந்தரம் மற்றும் சம வேலைக்கு சம ஊதியம் கோரி போராடும் செவிலியர்களை ஏமாற்றி, அவர்கள் மீது கண்மூடித்தனமான காவல்துறை நடவடிக்கையை எடுத்த 'ரீல் அரசு' (தவெக) குறித்து எம்.பி. கனிமொழி கண்டனம் தெரிவித்தார்.",
-      "target_party_or_issue": "TVK Government, Nurses' Protest",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK MP Kanimozhi's statement on X"
-      }
-    },
-    {
-      "leader_name": "Udhayanidhi Stalin",
-      "party": "DMK",
-      "statement_headline_en": "Case Registered Against Udhayanidhi Stalin for Campaign Violation",
-      "statement_headline_ta": "பிரச்சார விதிமீறல் தொடர்பாக உதயநிதி ஸ்டாலின் மீது வழக்குப்பதிவு",
-      "core_message_en": "A case has been registered against DMK leader Udhayanidhi Stalin regarding alleged campaign violations during the Dharapuram by-election. The details of the specific violation are under investigation.",
-      "core_message_ta": "தாராபுரம் இடைத்தேர்தல் பிரச்சாரத்தில் விதிமீறல்கள் தொடர்பாக திமுக தலைவர் உதயநிதி ஸ்டாலின் மீது வழக்குப்பதிவு செய்யப்பட்டுள்ளது. குறிப்பிட்ட விதிமீறல் குறித்த விவரங்கள் விசாரணையில் உள்ளன.",
-      "target_party_or_issue": "Dharapuram By-election, Campaign Conduct",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "News regarding Udhayanidhi Stalin's case from X"
-      }
-    },
-    {
-      "leader_name": "Nirmalkumar",
-      "party": "TVK",
-      "statement_headline_en": "Minister Nirmalkumar Responds to Udhayanidhi Stalin's Criticisms",
-      "statement_headline_ta": "உதயநிதி ஸ்டாலின் விமர்சனங்களுக்கு அமைச்சர் நிர்மல்குமார் பதிலடி",
-      "core_message_en": "TVK Minister Nirmalkumar vehemently responded to criticisms from DMK leader Udhayanidhi Stalin, indicating a strong political confrontation between the two parties.",
-      "core_message_ta": "திமுக தலைவர் உதயநிதி ஸ்டாலினின் விமர்சனங்களுக்கு தவெக அமைச்சர் நிர்மல்குமார் ஆவேசமாக பதிலளித்தார், இரு கட்சிகளுக்கும் இடையே கடுமையான அரசியல் மோதல் நிலவுகிறது.",
-      "target_party_or_issue": "Udhayanidhi Stalin, DMK criticisms",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Minister Nirmalkumar's statement on X"
-      }
-    },
-    {
-      "leader_name": "DMK Leader (Unspecified)",
-      "party": "DMK",
-      "statement_headline_en": "DMK Accuses TVK Government of Poor Tur Dal Procurement",
-      "statement_headline_ta": "துவரம் பருப்பு கொள்முதலில் தவெக அரசு மோசமாக செயல்பட்டதாக திமுக குற்றச்சாட்டு",
-      "core_message_en": "A DMK leader criticized the current 'clown government' (TVK) for procuring tur dal at ₹77.89 per kg, significantly lower than the ₹109 per kg during the previous DMK regime, implying mismanagement or corruption.",
-      "core_message_ta": "திமுக ஆட்சியில் கிலோ ₹109க்கு கொள்முதல் செய்யப்பட்ட துவரம் பருப்பை இந்த கோமாளி அரசு (தவெக) ₹77.89க்கு வாங்கியுள்ளதாகவும், இதனால் இந்த ஆட்சியில் நிர்வாக சீர்கேடு அல்லது ஊழல் நடந்திருக்கலாம் என்றும் ஒரு திமுக தலைவர் விமர்சித்தார்.",
-      "target_party_or_issue": "TVK Government, Price Control & Procurement",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK statement on X"
-      }
-    }
-  ],
-  "political_criticisms_and_rebuttals": [
-    {
-      "accuser_leader_or_party": "M.K. Stalin (DMK)",
-      "targeted_leader_or_party": "CM Vijay (TVK Government)",
-      "core_criticism_en": "Stalin harshly criticized CM Vijay during the Dharapuram by-election campaign, specifically highlighting issues like increased power cuts and a rise in violent incidents ('arival velttu') under the TVK rule, contrasting it with the perceived stability of the previous government.",
-      "core_criticism_ta": "தாராபுரம் இடைத்தேர்தல் பிரச்சாரத்தில் முதல்வர் விஜயை ஸ்டாலின் கடுமையாக விமர்சித்தார். தவெக ஆட்சியில் மின்வெட்டு அதிகரிப்பு மற்றும் அரிவாள் வெட்டு சம்பவங்கள் போன்ற வன்முறை நிகழ்வுகள் அதிகரித்துள்ளதாகக் குறிப்பிட்டார்.",
-      "rebuttal_or_defense_en": "CM Vijay and the TVK government have largely dismissed these criticisms as politically motivated attempts to discredit their administration, emphasizing their focus on development and investment.",
-      "rebuttal_or_defense_ta": "முதலமைச்சர் விஜய் மற்றும் தவெக அரசு இந்தக் குற்றச்சாட்டுகளை தங்கள் நிர்வாகத்தை அவதூறு செய்ய மேற்கொள்ளப்பட்ட அரசியல் நோக்கம் கொண்ட முயற்சிகள் என்று நிராகரித்து, தங்கள் வளர்ச்சி மற்றும் முதலீட்டு முயற்சிகளை வலியுறுத்தினர்.",
-      "political_significance": "This indicates a deepening political rivalry between the DMK and the ruling TVK, especially in the context of critical by-elections, aiming to sway public opinion through strong rhetoric.",
+      "statement_headline_en": "By-election victory is a temporary win for betrayal, says Stalin",
+      "statement_headline_ta": "இடைத்தேர்தல் வெற்றி துரோகத்துக்குக் கிடைத்த இடைக்கால வெற்றி: ஸ்டாலின்",
+      "core_message_en": "M.K. Stalin criticized the recent by-election results, particularly TVK's wins, calling them a 'temporary victory gained through betrayal.' He also criticized the current government for increasing violence, stating it 'surpasses power cuts'.",
+      "core_message_ta": "மு.க. ஸ்டாலின் சமீபத்திய இடைத்தேர்தல் முடிவுகளை, குறிப்பாக தவெக-வின் வெற்றிகளை, 'துரோகத்துக்குக் கிடைத்த இடைக்கால வெற்றி' என்று விமர்சித்தார். மேலும், தற்போதுள்ள அரசு அதிகரித்து வரும் வன்முறையை 'மின்வெட்டை மிஞ்சும் அளவுக்கு' இருப்பதாகக் கண்டனம் தெரிவித்தார்.",
+      "target_party_or_issue": "TVK government and recent by-election outcomes",
+      "source_tier": "Tier 2 (Dinamani), Tier 4 (Vikatan)",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "M.K. Stalin criticizing CM Vijay"
+        "caption": "M.K. Stalin's official statement"
       }
     },
     {
-      "accuser_leader_or_party": "CM Vijay (TVK)",
-      "targeted_leader_or_party": "DMK, AIADMK",
-      "core_criticism_en": "CM Vijay mocked the DMK and AIADMK for 'complaining' even before the elections, implying their pre-emptive dissatisfaction with the electoral process or anticipated results.",
-      "core_criticism_ta": "தேர்தலுக்கு முன்பே திமுக, அதிமுக புலம்புவதாக முதல்வர் விஜய் கிண்டல் செய்தார், தேர்தல் செயல்முறை அல்லது எதிர்பார்க்கப்படும் முடிவுகள் குறித்து அவர்களின் முன்கூட்டிய அதிருப்தியைக் குறிப்பதாக அமைகிறது.",
-      "rebuttal_or_defense_en": "DMK and AIADMK leaders countered by raising specific allegations of electoral misconduct and governance issues against the TVK, asserting their complaints were legitimate.",
-      "rebuttal_or_defense_ta": "திமுக மற்றும் அதிமுக தலைவர்கள், தவெக மீது தேர்தல் முறைகேடுகள் மற்றும் ஆட்சி தொடர்பான குறிப்பிட்ட குற்றச்சாட்டுகளை முன்வைத்து, தங்கள் புகார்கள் நியாயமானவை என்று வலியுறுத்தினர்.",
-      "political_significance": "Highlights CM Vijay's confidence and direct confrontation with established parties, framing their criticisms as weakness before election results.",
+      "leader_name": "Vijay (TVK)",
+      "party": "TVK",
+      "statement_headline_en": "By-election victory is a fitting reply to 'animalistic talk'",
+      "statement_headline_ta": "இடைத்தேர்தல் வெற்றி 'மிருகக் குணப் பேச்சுக்கு' கிடைத்த தகுந்த பதிலடி: முதல்வர் விஜய்",
+      "core_message_en": "Following TVK's by-election victories, Chief Minister Vijay stated that the public's mandate is a 'fitting reply to animalistic talk' from the opposition, affirming popular support for his party.",
+      "core_message_ta": "தவெக-வின் இடைத்தேர்தல் வெற்றிகளை அடுத்து, முதல்வர் விஜய், எதிர்க்கட்சிகளின் 'மிருகக் குணப் பேச்சுக்கு' மக்கள் தகுந்த பதிலடி தந்துள்ளனர் என்று கூறி, தனது கட்சிக்கு மக்கள் ஆதரவு இருப்பதை உறுதிப்படுத்தினார்.",
+      "target_party_or_issue": "Opposition's criticism and TVK's public support",
+      "source_tier": "Tier 4 (Vikatan)",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
@@ -131,31 +71,105 @@
       }
     },
     {
-      "accuser_leader_or_party": "Tamilisai Soundararajan (BJP)",
-      "targeted_leader_or_party": "TVK",
-      "core_criticism_en": "Tamilisai accused TVK of buying MLAs and distributing money to voters, directly alleging corruption and unethical practices in securing political power and electoral advantage.",
-      "core_criticism_ta": "தவெக எம்எல்ஏக்களை விலைக்கு வாங்கியதாகவும், வாக்காளர்களுக்கு பணம் வினியோகம் செய்ததாகவும் தமிழிசை குற்றம் சாட்டினார். இதன் மூலம் அரசியல் அதிகாரத்தையும், தேர்தல் ஆதாயத்தையும் பெற ஊழல் மற்றும் அறமற்ற நடைமுறைகளில் ஈடுபட்டதாக நேரடியாக குற்றம் சுமத்தினார்.",
-      "rebuttal_or_defense_en": "The TVK has not issued a direct, publicly reported rebuttal to these specific allegations from Tamilisai in the provided data.",
-      "rebuttal_or_defense_ta": "இந்த குறிப்பிட்ட குற்றச்சாட்டுகளுக்கு தவெக நேரடியாகவோ, பொதுவெளியிலோ எந்த மறுப்பையும் வெளியிடவில்லை.",
-      "political_significance": "A significant allegation from a prominent BJP leader, potentially damaging TVK's public image and raising questions about their political ascent.",
+      "leader_name": "Edappadi Palaniswami",
+      "party": "AIADMK",
+      "statement_headline_en": "Alliance strategies depend on political circumstances, says EPS",
+      "statement_headline_ta": "கூட்டணி அமைப்பது அரசியல் சூழ்நிலைக்கு தக்கவாறு மாறுபடும்: எடப்பாடி பழனிசாமி",
+      "core_message_en": "Edappadi Palaniswami reiterated that alliance formations and strategies are dynamic and will adapt according to the prevailing political circumstances, possibly hinting at future electoral approaches given TVK's rise.",
+      "core_message_ta": "அரசியல் கூட்டணி அமைப்பதும், வியூகங்களும் மாறும் தன்மையுடையவை என்றும், நிலவும் அரசியல் சூழ்நிலைக்கு ஏற்ப அவை மாற்றியமைக்கப்படும் என்றும் எடப்பாடி பழனிசாமி தெரிவித்தார். இது தவெக-வின் எழுச்சிக்கு மத்தியில் எதிர்கால தேர்தல் அணுகுமுறைகளைக் குறிப்பதாக இருக்கலாம்.",
+      "target_party_or_issue": "Alliance politics and future electoral strategy",
+      "source_tier": "Tier 4 (Vikatan)",
       "media": {
         "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Tamilisai's accusation against TVK"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AIADMK_flag.svg/320px-AIADMK_flag.svg.png",
+        "caption": "Edappadi Palaniswami's statement"
       }
     },
     {
-      "accuser_leader_or_party": "K. Annamalai (BJP)",
-      "targeted_leader_or_party": "TVK Government",
-      "core_criticism_en": "Annamalai hinted that 'The Leaders' (possibly a new political entity or an alliance) might contest local elections, while also making an ambiguous statement praising the TVK government. This suggests a complex and potentially evolving political stance.",
-      "core_criticism_ta": "அண்ணாமலை 'வி த லீடர்ஸ்' (ஒரு புதிய அரசியல் அமைப்பு அல்லது கூட்டணி) உள்ளாட்சித் தேர்தலில் போட்டியிடுமா என்று சூசகமாகக் குறிப்பிட்டார். அதே நேரத்தில் தவெக அரசைப் பாராட்டும் விதமாக ஒரு தெளிவற்ற அறிக்கையையும் வெளியிட்டார். இது ஒரு சிக்கலான மற்றும் மாறிவரும் அரசியல் நிலைப்பாட்டைக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No specific rebuttal from TVK or other parties is noted, as the statement from Annamalai appears to be a mixed signal.",
-      "rebuttal_or_defense_ta": "அண்ணாமலையின் அறிக்கை கலவையான சமிக்ஞையாகத் தோன்றுவதால், தவெக அல்லது பிற கட்சிகளிடமிருந்து குறிப்பிட்ட மறுப்பு எதுவும் குறிப்பிடப்படவில்லை.",
-      "political_significance": "Annamalai's comments signal BJP's strategic considerations for local elections and their nuanced (or ambiguous) relationship with the ruling TVK.",
+      "leader_name": "Udhayanidhi Stalin",
+      "party": "DMK",
+      "statement_headline_en": "Udhayanidhi Stalin functions as Opposition Leader in Assembly",
+      "statement_headline_ta": "உதயநிதி ஸ்டாலின் சட்டமன்றத்தில் எதிர்க்கட்சித் தலைவராக செயல்படுகிறார்",
+      "core_message_en": "X posts by DMK ministers and related articles refer to Udhayanidhi Stalin as the 'Honorable Opposition Leader,' indicating his prominent role in challenging the government within the legislative assembly.",
+      "core_message_ta": "திமுக அமைச்சர்களின் எக்ஸ் பதிவுகள் மற்றும் தொடர்புடைய கட்டுரைகள் உதயநிதி ஸ்டாலினை 'மாண்புமிகு எதிர்க்கட்சித் தலைவர்' என்று குறிப்பிடுகின்றன. இது சட்டமன்றத்தில் அரசுக்கு சவால் விடுவதில் அவரது முக்கிய பங்கை குறிக்கிறது.",
+      "target_party_or_issue": "DMK's role in opposition; Assembly proceedings",
+      "source_tier": "Tier 5 (Direct Official Handle)",
       "media": {
         "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Annamalai's statement"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Udhayanidhi Stalin as Opposition Leader"
+      }
+    }
+  ],
+  "political_criticisms_and_rebuttals": [
+    {
+      "accuser_leader_or_party": "M.K. Stalin",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "The TVK government is criticized for an alarming rise in violence ('arival vetu' - knife attacks) which has now overshadowed the issue of power cuts, implying a severe breakdown in law and order.",
+      "core_criticism_ta": "மின்வெட்டை மிஞ்சும் அளவுக்கு அரிவாள் வெட்டு சம்பவங்கள் அதிகரித்துவிட்டதாக தவெக அரசு விமர்சிக்கப்பட்டுள்ளது. இது சட்டம்-ஒழுங்கு சீர்கேட்டைக் குறிக்கிறது.",
+      "rebuttal_or_defense_en": "While no direct rebuttal to this specific criticism is provided, CM Vijay generally asserted that the public's by-election vote was a 'fitting reply to animalistic talk' from the opposition, implying a rejection of their critiques.",
+      "rebuttal_or_defense_ta": "இந்த குறிப்பிட்ட விமர்சனத்திற்கு நேரடி பதிலடி இல்லை என்றாலும், முதல்வர் விஜய் பொதுவாக எதிர்க்கட்சிகளின் 'மிருகக் குணப் பேச்சுக்கு' மக்கள் பதிலடி தந்துள்ளதாகக் கூறி, எதிர்க்கட்சிகளின் விமர்சனங்களை நிராகரித்தார்.",
+      "political_significance": "Highlights a major opposition concern regarding law and order under the new government, potentially undermining public trust and a key campaigning point for DMK.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "M.K. Stalin criticizes TVK"
+      }
+    },
+    {
+      "accuser_leader_or_party": "M.P. Kanimozhi",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Accused the 'reel government' (implying TVK) of deceiving nurses by not fulfilling their demands for permanent employment and equal pay for equal work, despite their ongoing protests.",
+      "core_criticism_ta": "செவிலியர்களின் பணி நிரந்தரம் மற்றும் சம வேலைக்கு சம ஊதியம் போன்ற கோரிக்கைகளை நிறைவேற்றாமல் 'ரீல் அரசு' (தவெக அரசைக் குறிக்கிறது) ஏமாற்றுவதாக குற்றம் சாட்டினார்.",
+      "rebuttal_or_defense_en": "No direct rebuttal or defense from the government has been explicitly reported in the provided data regarding this specific issue.",
+      "rebuttal_or_defense_ta": "இந்த குறிப்பிட்ட பிரச்சினை குறித்து அரசிடம் இருந்து நேரடி மறுப்பு அல்லது விளக்கம் தரப்பட்டதாக கிடைத்த தரவுகளில் குறிப்பிடப்படவில்லை.",
+      "political_significance": "Raises concerns about the government's handling of public sector employee demands and could mobilize support among healthcare workers against the ruling party.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "M.P. Kanimozhi criticizes government on nurses' issue"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Manickam Tagore",
+      "targeted_leader_or_party": "CM Vijay",
+      "core_criticism_en": "Criticized CM Vijay for campaigning door-to-door, suggesting it stemmed from a 'fear of defeat' rather than confidence, ahead of the by-elections.",
+      "core_criticism_ta": "இடைத்தேர்தலுக்கு முன்னதாக முதல்வர் விஜய் வீடு வீடாகச் சென்று பிரச்சாரம் செய்தது 'தோல்வி பயத்தின்' காரணமாகவே அன்றி நம்பிக்கையினால் அல்ல என்று மாணிக்கம் தாகூர் விமர்சித்தார்.",
+      "rebuttal_or_defense_en": "CM Vijay's subsequent victories in the by-elections serve as an indirect rebuttal to the claims of 'fear of defeat,' demonstrating public support.",
+      "rebuttal_or_defense_ta": "முதல்வர் விஜயின் இடைத்தேர்தல் வெற்றிகள், 'தோல்வி பயம்' குறித்த விமர்சனங்களுக்கு மறைமுகமான பதிலாக அமைந்தன. இது அவருக்கு மக்கள் ஆதரவு இருப்பதை நிரூபித்தது.",
+      "political_significance": "Highlights the intense nature of the by-election campaign and the opposition's attempts to portray the ruling party as vulnerable, despite the eventual outcome.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Manickam Tagore's statement"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Election Commission (Case Filed)",
+      "targeted_leader_or_party": "Udhayanidhi Stalin (DMK)",
+      "core_criticism_en": "A case has been registered against Udhayanidhi Stalin for alleged election campaign violations in Dharapuram.",
+      "core_criticism_ta": "தாராபுரத்தில் தேர்தல் பிரச்சார விதிமீறல்கள் தொடர்பாக உதயநிதி ஸ்டாலின் மீது வழக்கு பதிவு செய்யப்பட்டுள்ளது.",
+      "rebuttal_or_defense_en": "No rebuttal or defense from Udhayanidhi Stalin or DMK is explicitly reported in the provided data regarding this specific case.",
+      "rebuttal_or_defense_ta": "இந்த குறிப்பிட்ட வழக்கு தொடர்பாக உதயநிதி ஸ்டாலின் அல்லது திமுக தரப்பில் இருந்து எந்தவித மறுப்பு அல்லது விளக்கமும் தரப்பட்டதாக கிடைத்த தரவுகளில் குறிப்பிடப்படவில்லை.",
+      "political_significance": "A legal challenge impacting a prominent opposition leader, potentially affecting his public image and the party's campaign narrative.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Case registered against Udhayanidhi Stalin"
+      }
+    },
+    {
+      "accuser_leader_or_party": "DMK Ministers (via X)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "DMK ministers criticized the current 'Komali government' (joker government) for procuring tur dal at Rs. 77.89 per kg, which was bought at Rs. 109 per kg during the previous DMK rule, implying financial mismanagement or inefficiency.",
+      "core_criticism_ta": "திமுக அமைச்சர்கள், தற்போதைய 'கோமாளி அரசு' துவரம் பருப்பை கிலோ ரூ.77.89-க்கு கொள்முதல் செய்வதாக விமர்சித்தனர். இது முந்தைய கழக ஆட்சியில் ரூ.109-க்கு கொள்முதல் செய்யப்பட்டது என்றும், இது நிதி நிர்வாகத்தில் உள்ள தவறுகளைக் குறிப்பதாகவும் குறிப்பிட்டனர்.",
+      "rebuttal_or_defense_en": "No direct rebuttal or defense from the government has been explicitly reported in the provided data regarding this specific procurement price comparison.",
+      "rebuttal_or_defense_ta": "இந்த குறிப்பிட்ட கொள்முதல் விலை ஒப்பீடு குறித்து அரசிடமிருந்து நேரடி மறுப்பு அல்லது விளக்கம் தரப்பட்டதாக கிடைத்த தரவுகளில் குறிப்பிடப்படவில்லை.",
+      "political_significance": "Highlights alleged discrepancies in government procurement practices and fuels narratives of inefficiency or corruption against the ruling party.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK criticizes tur dal procurement"
       }
     }
   ],
@@ -163,133 +177,174 @@
     {
       "show_name": "Ayutha Ezhuthu",
       "channel": "Thanthi TV",
-      "topic_en": "By-Election Results: Did TVK win due to SIR? Political vs Evidence in Election Commission Issue",
-      "topic_ta": "இடைத்தேர்தல் முடிவுகள்: SIR-ஆல் வென்றதா தவெக? தேர்தல்ஆணைய விவகாரம்.. அரசியலா ஆதாரமா?",
+      "topic_en": "Did TVK win due to SIR? Election Commission issue: Politics or Proof?",
+      "topic_ta": "SIR-ஆல் வென்றதா தவெக? தேர்தல்ஆணைய விவகாரம்: அரசியலா ஆதாரமா?",
       "panelists_or_parties": [
-        "TVK Representatives",
-        "DMK Representatives",
+        "DMK",
+        "TVK",
+        "AIADMK",
         "Political Analysts"
       ],
-      "clash_summary_en": "Debate focused on whether TVK's victory in by-elections was influenced by the 'SIR' factor (likely referring to the Sympathy, Image, or Reputation of CM Vijay) and escalating issues concerning the Election Commission. Saiyadhai Sadiq presented data, arguing over political narratives versus factual evidence.",
-      "clash_summary_ta": "இடைத்தேர்தல்களில் தவெகவின் வெற்றி 'SIR' காரணியால் (முதலமைச்சர் விஜயின் அனுதாபம், பிம்பம் அல்லது நற்பெயர்) பாதிக்கப்பட்டதா மற்றும் தேர்தல் ஆணையம் தொடர்பான அதிகரித்து வரும் பிரச்சினைகள் குறித்து விவாதம் நடைபெற்றது. சைய்தை சாதிக் தரவுகளை முன்வைத்து, அரசியல் விவரிப்புகளுக்கு எதிராக உண்மை ஆதாரங்கள் குறித்து வாதிட்டார்.",
-      "video_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOYktZV1djQmdmOE1oODBRQ3I5Vy1yTE5xcks4MUxnRjE0b05ubllJb0dCNWFQdVFhN0sxc0QzeWZHM2JKa3lWbGVSZ1BsTXVXZmk1UFp4WWdhdHVxQlY5bTV6UUJDV0V2WmlBT3p0X2pva1poUjNNR1BDdzYwV0NncFZXNEp4aHhYamFUZUhEYVdlVFRoaHBuaHZqMnVoS2dJN1pKbGp3WGpzY1djRF9FNDBxYzlRSGFTM3dhS0V0Tk9zSDhxRnhSb1pPNkNzMzN6ZkVBclBadllTbDhrWHI2eDk3TkZabWN6SFYxVEliSnY1VTDSAfMBQVVfeXFMTmJLWVdXY0JnZjhNaDgwUUNyOVctckxOcXJLODFMZ0YxNG9Obm5ZSW9HQjVhUHVRYTdLMXNEM3lmRzNiSmt5VmxlUmdQbE11V2ZpNVBaeFlnYXR1cUJWOW01elFCQ1dFdlppQU96dF9qb2taaFIzTUdQQ3c2MFdDZ3BWVzRKeGh4WGphVGVIRGFXZVRUaGhwbmh2ajJ1aEtnSTdaSmxqd1hqc2NXY0RfRTQwcWM5UUhhUzN3YUtFdE5Pc0g4cUZ4Um9aTzZDczMzemZFQXJQWnZZU2w4a1hyNng5N05GWm1jekhWMVRJYkp2NVUw?oc=5",
-      "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
+      "clash_summary_en": "Debate focused on the role of the Election Commission (SIR - Special Investigation Report?) in TVK's by-election victories. Arguments centered on whether the results were a genuine reflection of public mandate or influenced by political maneuvering and EC decisions.",
+      "clash_summary_ta": "தவெக-வின் இடைத்தேர்தல் வெற்றிகளில் தேர்தல் ஆணையத்தின் (SIR - சிறப்பு புலனாய்வு அறிக்கை?) பங்கு குறித்து விவாதம் நடைபெற்றது. தேர்தல் முடிவுகள் மக்கள் ஆணையின் உண்மையான பிரதிபலிப்பா அல்லது அரசியல் சூழ்ச்சிகள் மற்றும் தேர்தல் ஆணையத்தின் முடிவுகளால் பாதிக்கப்பட்டதா என்பதில் வாதங்கள் குவிந்தன.",
+      "video_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hV21JQWVmZF9uOFBRUWVoRDF5WUk3WmpsOFlYcGZnTXVwaXBlOFJ6WXh1c3VTajEzZHFhd2ExUnBWelB2S0dmYnBydU80dXBLM24yMnY4ZVVi KempJpxenVwbGtIVlpiRUJGdDNSbGRqRFpRZk1R?oc=5",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png"
     },
     {
       "show_name": "Ayutha Ezhuthu",
       "channel": "Thanthi TV",
-      "topic_en": "By-Election Results Anticipation: Who will win Madurandhagam and Dharapuram?",
-      "topic_ta": "இடைத்தேர்தல் முடிவுகள் எதிர்பார்ப்பு: மதுராந்தகம், தாராபுரம் யாருக்கு?",
+      "topic_en": "By-Election Results: Who will win Maduranthagam, Dharapuram?",
+      "topic_ta": "இடைத்தேர்தல் முடிவுகள்: மதுராந்தகம், தாராபுரம் யாருக்கு?",
       "panelists_or_parties": [
-        "Party Representatives",
-        "Journalists",
-        "Election Strategists"
+        "DMK",
+        "TVK",
+        "AIADMK",
+        "Political Analysts"
       ],
-      "clash_summary_en": "The debate centered on the highly anticipated results of the Madurandhagam and Dharapuram by-elections, with panelists discussing various predictions, voter turnout, and the potential impact on the political landscape. Speculation was rife on which party would emerge victorious.",
-      "clash_summary_ta": "மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல் முடிவுகள் குறித்த பெரும் எதிர்பார்ப்பை மையமாக வைத்து விவாதம் நடைபெற்றது. அரசியல் நிலப்பரப்பில் இதன் சாத்தியமான தாக்கம், வாக்காளர் பங்களிப்பு மற்றும் எந்த கட்சி வெற்றிபெறும் என்பது குறித்து விவாதிக்கப்பட்டது.",
+      "clash_summary_en": "A pre-results and post-results debate analyzing the potential and actual outcomes of the Maduranthagam and Dharapuram by-elections, with various party representatives and analysts presenting their viewpoints and predictions.",
+      "clash_summary_ta": "மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல்களின் சாத்தியமான மற்றும் உண்மையான முடிவுகளை பகுப்பாய்வு செய்யும் தேர்தல் முடிவுக்கு முந்தைய மற்றும் பிந்தைய விவாதம். இதில் பல்வேறு கட்சிப் பிரதிநிதிகள் மற்றும் ஆய்வாளர்கள் தங்கள் கருத்துக்களையும் கணிப்புகளையும் முன்வைத்தனர்.",
       "video_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94TWYyUmdnQjBuclVRWlprYXgycVJfV3ZHMjhWQUpDYlg5ZFFnVExrMnZ5cEhlajVxRGtfdklvS0d4ZUZVa3ZIbGRzbHZQcTl2bjdNblJid3hManA5OUdpa3BJWDNIS3lsRzczQkNXUmpKNFZQdUF2eNIBeEFVX3lxTE94TWYyUmdnQjBuclVRWlprYXgycVJfV3ZHMjhWQUpDYlg5ZFFnVExrMnZ5cEhlajVxRGtfdklvS0d4ZUZVa3ZIbGRzbHZQcTl2bjdNblJid3hManA5OUdpa3BJWDNIS3lsRzczQkNXUmpKNFZQdUF2eA?oc=5",
-      "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png"
     },
     {
       "show_name": "Makkal Kural Debate",
       "channel": "Polimer News",
-      "topic_en": "Dharapuram Highlight: DMK and AIADMK's firm stance in heated debate",
-      "topic_ta": "தாராபுரம்தான் ஹைலைட்டே-'ஒரு விசயத்தில் உறுதியாக இருந்த திமுக, அதிமுக' -அனல் பறந்த விவாதம்",
+      "topic_en": "Analysis of Maduranthagam, Dharapuram By-Election Results",
+      "topic_ta": "மதுராந்தகம், தாராபுரம் இடைத்தேர்தல் முடிவுகள் பற்றிய பகுப்பாய்வு",
       "panelists_or_parties": [
-        "DMK Representatives",
-        "AIADMK Representatives",
+        "DMK",
+        "TVK",
+        "AIADMK",
         "Political Analysts"
       ],
-      "clash_summary_en": "A fiery debate focusing on the Dharapuram constituency, where both DMK and AIADMK maintained firm stances on a particular issue (details unspecified in snippet but likely related to election conduct or local development). The discussion was characterized by intense arguments and strong opinions from all sides.",
-      "clash_summary_ta": "தாராபுரம் தொகுதியை மையமாக வைத்து அனல் பறந்த விவாதம் நடைபெற்றது. திமுக மற்றும் அதிமுக ஆகிய இரு கட்சிகளும் ஒரு குறிப்பிட்ட விஷயத்தில் (துண்டு செய்தியில் குறிப்பிடப்படாதது, ஆனால் தேர்தல் நடத்தை அல்லது உள்ளூர் வளர்ச்சி தொடர்பாக இருக்கலாம்) உறுதியான நிலைப்பாடுகளைக் கொண்டிருந்தன. விவாதம் தீவிரமான வாதங்கள் மற்றும் அனைத்து தரப்பினரின் வலுவான கருத்துக்களால் நிரப்பப்பட்டது.",
+      "clash_summary_en": "Panelists discussed the implications of the by-election results in Maduranthagam and Dharapuram, analyzing the performance of TVK, DMK, and AIADMK, and the factors contributing to CM Vijay's party's success.",
+      "clash_summary_ta": "மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல் முடிவுகளின் தாக்கங்கள் குறித்து விவாதிக்கப்பட்டது. தவெக, திமுக மற்றும் அதிமுகவின் செயல்பாடு மற்றும் முதல்வர் விஜயின் கட்சியின் வெற்றிக்கு காரணமான காரணிகள் பகுப்பாய்வு செய்யப்பட்டன.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
-      "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png"
+    },
+    {
+      "show_name": "Nerkonda Paarvai",
+      "channel": "Puthiyathalaimurai TV",
+      "topic_en": "Political networks ensnaring actor Ajith",
+      "topic_ta": "நடிகர் அஜித்தை பின்னும் அரசியல் வலைகள்",
+      "panelists_or_parties": [
+        "Film Industry Analysts",
+        "Political Commentators"
+      ],
+      "clash_summary_en": "The debate explored the speculation and real-world political efforts to draw popular actor Ajith Kumar into politics, discussing the potential impact of his entry on Tamil Nadu's political landscape.",
+      "clash_summary_ta": "பிரபல நடிகர் அஜித் குமாரை அரசியலுக்குள் கொண்டு வரும் முயற்சிகள் மற்றும் அது குறித்த ஊகங்கள் குறித்து விவாதம் நடைபெற்றது. அரசியலில் அவரது நுழைவு தமிழக அரசியல் களத்தில் ஏற்படுத்தக்கூடிய தாக்கம் குறித்து பேசப்பட்டது.",
+      "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png"
     }
   ],
   "mous_and_investments": [
     {
-      "company_or_investor": "Singapore National University",
-      "sector": "Education & Research",
-      "investment_amount_inr": "Undisclosed",
-      "jobs_created": "Undisclosed",
-      "location_district": "Tamil Nadu",
-      "status": "MoU Signed",
-      "details_en": "Tamil Nadu government signed a Memorandum of Understanding with Singapore National University to enhance collaboration in education and research sectors, aiming to bring international academic standards and opportunities to the state. This MoU was part of CM M.K. Stalin's Singapore visit in May 2023.",
-      "details_ta": "கல்வி மற்றும் ஆராய்ச்சித் துறைகளில் ஒத்துழைப்பை மேம்படுத்த சிங்கப்பூர் தேசியப் பல்கலைக்கழகத்துடன் தமிழக அரசு ஒரு புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டது. இது சர்வதேச கல்வித் தரங்களையும் வாய்ப்புகளையும் மாநிலத்திற்கு கொண்டு வரும் நோக்கம் கொண்டது. இந்த புரிந்துணர்வு ஒப்பந்தம் மே 2023 இல் முதல்வர் மு.க. ஸ்டாலினின் சிங்கப்பூர் பயணத்தின் ஒரு பகுதியாக இருந்தது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "MoU signing with Singapore National University"
-      }
-    },
-    {
       "company_or_investor": "Vikram Solar Group",
-      "sector": "Solar Energy",
+      "sector": "Renewable Energy (Solar Manufacturing)",
       "investment_amount_inr": "₹15,037 Crore",
       "jobs_created": "2,600",
       "location_district": "Tirunelveli",
       "status": "MoU Signed",
-      "details_en": "A new solar energy plant will be established in Tirunelveli with an investment of ₹15,037 crores by Vikram Solar Group, projected to create 2,600 employment opportunities. This MoU was signed in the presence of Chief Minister Vijay.",
-      "details_ta": "திருநெல்வேலியில் விக்ரம் சோலார் குழுமம் ₹15,037 கோடி முதலீட்டில் புதிய சூரிய ஆற்றல் ஆலையை அமைக்கும். இது 2,600 வேலைவாய்ப்புகளை உருவாக்கும் என்று எதிர்பார்க்கப்படுகிறது. இந்த புரிந்துணர்வு ஒப்பந்தம் முதலமைச்சர் விஜய் முன்னிலையில் கையெழுத்தானது.",
+      "details_en": "A significant Memorandum of Understanding signed for setting up a new solar manufacturing plant in Tirunelveli, projecting substantial job creation. The agreement was made in the presence of Chief Minister Vijay.",
+      "details_ta": "திருநெல்வேலியில் புதிய சூரிய மின் உற்பத்தி ஆலை அமைப்பதற்காக ₹15,037 கோடி முதலீட்டில் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது. இது 2,600 வேலைவாய்ப்புகளை உருவாக்கும் என எதிர்பார்க்கப்படுகிறது. முதல்வர் விஜய் முன்னிலையில் இந்த ஒப்பந்தம் கையெழுத்தானது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Vikram Solar Group MoU signing with CM Vijay"
-      }
-    },
-    {
-      "company_or_investor": "International / Australian University",
-      "sector": "Higher Education",
-      "investment_amount_inr": "₹125 Crore",
-      "jobs_created": "Undisclosed",
-      "location_district": "Velachery, Chennai",
-      "status": "MoU Signed",
-      "details_en": "An international university campus (also referred to as an Australian University campus) will be established in Velachery, Chennai, with an investment of ₹125 crores. This agreement was signed in the presence of Chief Minister Vijay.",
-      "details_ta": "சென்னை வேளச்சேரியில் ₹125 கோடி முதலீட்டில் ஒரு சர்வதேச பல்கலைக்கழக வளாகம் (ஆஸ்திரேலிய பல்கலைக்கழக வளாகம் என்றும் குறிப்பிடப்படுகிறது) அமைக்கப்படும். இந்த ஒப்பந்தம் முதலமைச்சர் விஜய் முன்னிலையில் கையெழுத்தானது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "International University campus MoU signing with CM Vijay"
+        "caption": "MoU signing for Vikram Solar plant"
       }
     },
     {
       "company_or_investor": "Hitachi",
-      "sector": "Technology / Manufacturing",
+      "sector": "Manufacturing / Technology",
       "investment_amount_inr": "₹1,000 Crore",
       "jobs_created": "1,000",
-      "location_district": "Undisclosed (Tamil Nadu)",
+      "location_district": "Not Specified",
       "status": "MoU Signed",
-      "details_en": "Hitachi company signed an MoU with the Tamil Nadu government for a ₹1,000 crore investment, expected to create 1,000 jobs in the state.",
-      "details_ta": "ஹிட்டாச்சி நிறுவனம் தமிழக அரசுடன் ₹1,000 கோடி முதலீட்டில் புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டது, இது மாநிலத்தில் 1,000 வேலைவாய்ப்புகளை உருவாக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
+      "details_en": "Hitachi signed a Memorandum of Understanding for a ₹1,000 Crore investment, which is expected to create 1,000 job opportunities in Tamil Nadu.",
+      "details_ta": "ஹிட்டாச்சி நிறுவனம் ₹1,000 கோடி முதலீட்டிற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளது. இது தமிழ்நாட்டில் 1,000 வேலைவாய்ப்புகளை உருவாக்கும் என எதிர்பார்க்கப்படுகிறது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Hitachi MoU signing"
+        "caption": "MoU signing with Hitachi"
+      }
+    },
+    {
+      "company_or_investor": "Australian University",
+      "sector": "Education",
+      "investment_amount_inr": "₹125 Crore",
+      "jobs_created": "Not Specified",
+      "location_district": "Velachery, Chennai",
+      "status": "MoU Signed",
+      "details_en": "A Memorandum of Understanding was signed for establishing an international university campus in Velachery, Chennai, with an investment of ₹125 Crore, in the presence of Chief Minister Vijay.",
+      "details_ta": "சென்னை வேளச்சேரியில் ₹125 கோடி முதலீட்டில் சர்வதேச பல்கலைக்கழக வளாகம் அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் முதல்வர் விஜய் முன்னிலையில் கையெழுத்தானது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "MoU for Australian University campus"
+      }
+    },
+    {
+      "company_or_investor": "Singapore National University",
+      "sector": "Education / Research",
+      "investment_amount_inr": "Not Specified",
+      "jobs_created": "Not Specified",
+      "location_district": "Not Specified",
+      "status": "MoU Signed",
+      "details_en": "The Tamil Nadu government signed a Memorandum of Understanding with the National University of Singapore, indicating collaboration in education or research sectors.",
+      "details_ta": "தமிழக அரசு சிங்கப்பூர் தேசியப் பல்கலைக்கழகத்துடன் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்திட்டது. இது கல்வி அல்லது ஆராய்ச்சித் துறைகளில் ஒத்துழைப்பைச் சுட்டிக்காட்டுகிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "MoU with Singapore National University"
       }
     },
     {
       "company_or_investor": "Multiple Companies",
-      "sector": "Various",
+      "sector": "Various Industries",
       "investment_amount_inr": "₹24,307 Crore",
-      "jobs_created": "Undisclosed",
-      "location_district": "Tamil Nadu",
-      "status": "MoU Signed",
-      "details_en": "Multiple Memoranda of Understanding totaling ₹24,307 crores were signed in the presence of former Chief Minister M.K. Stalin, indicating significant investments made under the previous administration.",
-      "details_ta": "முன்னாள் முதலமைச்சர் மு.க. ஸ்டாலின் முன்னிலையில் ₹24,307 கோடி மதிப்பிலான பல புரிந்துணர்வு ஒப்பந்தங்கள் கையெழுத்தாகின, இது முந்தைய நிர்வாகத்தின் கீழ் செய்யப்பட்ட குறிப்பிடத்தக்க முதலீடுகளைக் குறிக்கிறது.",
+      "jobs_created": "Not Specified",
+      "location_district": "Statewide",
+      "status": "MoUs Signed",
+      "details_en": "Multiple Memoranda of Understanding were signed for a cumulative investment of ₹24,307 Crore in the presence of then-Chief Minister M.K. Stalin. (Note: This refers to an older event from 2025, during previous administration).",
+      "details_ta": "முன்னாள் முதலமைச்சர் மு.க.ஸ்டாலின் முன்னிலையில் ₹24,307 கோடி மதிப்பிலான பல புரிந்துணர்வு ஒப்பந்தங்கள் கையெழுத்தாகின. (குறிப்பு: இது 2025ல் நடைபெற்ற முந்தைய நிர்வாகத்தின் நிகழ்வாகும்).",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "MoU signings under former CM M.K. Stalin"
+        "caption": "MoUs signed under previous DMK administration"
       }
     }
   ],
   "statewide_politics": [
     {
+      "party_or_leader": "Tamilaga Vettri Kazhagam (TVK)",
+      "topic_en": "TVK secures decisive by-election victories in Maduranthagam and Dharapuram",
+      "topic_ta": "மதுராந்தகம் மற்றும் தாராபுரத்தில் தவெக தீர்க்கமான இடைத்தேர்தல் வெற்றிகளைப் பதிவு செய்தது",
+      "analysis_en": "The TVK, led by CM Vijay, achieved significant wins in the Maduranthagam and Dharapuram by-elections, historically considered AIADMK strongholds. This outcome is a major political shift, signaling TVK's growing influence and validating CM Vijay's leadership.",
+      "analysis_ta": "முதல்வர் விஜய் தலைமையிலான தவெக, மதுராந்தகம் மற்றும் தாராபுரம் இடைத்தேர்தல்களில் குறிப்பிடத்தக்க வெற்றிகளைப் பெற்றது. இவை வரலாற்று ரீதியாக அதிமுகவின் கோட்டைகளாகக் கருதப்பட்டன. இந்த முடிவு ஒரு பெரிய அரசியல் மாற்றத்தைக் குறிக்கிறது, தவெகவின் வளர்ந்து வரும் செல்வாக்கையும் முதல்வர் விஜயின் தலைமைத்துவத்தையும் உறுதிப்படுத்துகிறது.",
+      "media": {
+        "media_type": "poster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "TVK by-election victory"
+      }
+    },
+    {
+      "party_or_leader": "DMK, AIADMK, TVK",
+      "topic_en": "Intense political debate surrounding TVK's by-election victory and Election Commission's role",
+      "topic_ta": "தவெகவின் இடைத்தேர்தல் வெற்றி மற்றும் தேர்தல் ஆணையத்தின் பங்கு குறித்து தீவிர அரசியல் விவாதம்",
+      "analysis_en": "Following TVK's victories, intense debates erupted regarding the role of the Election Commission (specifically mentioned as 'SIR'). Opposition parties like DMK raised questions about the fairness of the election process, while TVK celebrated the results as a popular mandate.",
+      "analysis_ta": "தவெகவின் வெற்றிகளைத் தொடர்ந்து, தேர்தல் ஆணையத்தின் (குறிப்பாக 'SIR' என்று குறிப்பிடப்பட்டது) பங்கு குறித்து தீவிர விவாதங்கள் வெடித்தன. திமுக போன்ற எதிர்க்கட்சிகள் தேர்தல் செயல்முறையின் நியாயம் குறித்து கேள்விகளை எழுப்பின, அதேசமயம் தவெக இந்த முடிவுகளை மக்கள் ஆணையாகக் கொண்டாடியது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "By-election debate"
+      }
+    },
+    {
       "party_or_leader": "Dhanush",
-      "topic_en": "Speculation Surrounds Actor Dhanush Launching 'Thamizhaga Ezhuchi Kazhagam'",
-      "topic_ta": "நடிகர் தனுஷ் 'தமிழக எழுச்சிக் கழகம்' என்ற பெயரில் கட்சி துவங்குவாரா? என்ற ஊகங்கள்",
-      "analysis_en": "Reports suggest actor Dhanush might be starting a new political party named 'Thamizhaga Ezhuchi Kazhagam'. This indicates a potential entry of another celebrity into Tamil Nadu's political landscape, which could influence future electoral dynamics.",
-      "analysis_ta": "நடிகர் தனுஷ் 'தமிழக எழுச்சிக் கழகம்' என்ற பெயரில் ஒரு புதிய அரசியல் கட்சியைத் தொடங்கக்கூடும் என்று தகவல்கள் தெரிவிக்கின்றன. இது தமிழக அரசியல் களத்தில் மற்றொரு பிரபலத்தின் நுழைவைக் குறிக்கிறது, இது எதிர்கால தேர்தல் இயக்கவியலை பாதிக்கலாம்.",
+      "topic_en": "Speculation mounts over actor Dhanush launching a new political party",
+      "topic_ta": "நடிகர் தனுஷ் புதிய அரசியல் கட்சி தொடங்குவாரா என்ற ஊகங்கள்",
+      "analysis_en": "Rumors are circulating that popular actor Dhanush might launch a new political party named 'தமிழக எழுச்சிக் கழகம்' (Tamilaga Ezhuchi Kazhagam), potentially indicating another celebrity entry into Tamil Nadu politics.",
+      "analysis_ta": "பிரபல நடிகர் தனுஷ் 'தமிழக எழுச்சிக் கழகம்' என்ற பெயரில் ஒரு புதிய அரசியல் கட்சியைத் தொடங்கலாம் என்று வதந்திகள் பரவி வருகின்றன. இது தமிழ்நாட்டு அரசியலில் மற்றொரு பிரபலத்தின் வருகையைச் சுட்டிக்காட்டுகிறது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
@@ -297,50 +352,63 @@
       }
     },
     {
-      "party_or_leader": "Sivakarthikeyan",
-      "topic_en": "Sivakarthikeyan's Welfare Movement Meeting Resembles Political Conference",
-      "topic_ta": "சிவகார்த்திகேயன் நற்பணி இயக்க நிர்வாகிகள் சந்திப்பு விழா அரசியல் மாநாடு போல் நடந்தது",
-      "analysis_en": "A meeting of actor Sivakarthikeyan's welfare movement functionaries was noted for its resemblance to a political conference, raising speculation about his potential entry into active politics, similar to other actors in the state.",
-      "analysis_ta": "நடிகர் சிவகார்த்திகேயன் நற்பணி இயக்க நிர்வாகிகள் சந்திப்பு விழா ஒரு அரசியல் மாநாடு போல் நடந்ததாகக் குறிப்பிடப்பட்டது. இது மாநிலத்தில் உள்ள மற்ற நடிகர்களைப் போலவே அவரும் தீவிர அரசியலில் நுழையக்கூடும் என்ற ஊகத்தை எழுப்பியுள்ளது.",
+      "party_or_leader": "TVK",
+      "topic_en": "Internal challenges within TVK: Leader Vijay's alleged anger at General Secretary Anand",
+      "topic_ta": "தவெகவுக்குள் உள்ளக சவால்கள்: பொதுச்செயலாளர் ஆனந்த் மீது தலைவர் விஜயின் கோபம்",
+      "analysis_en": "Reports suggest internal discord within the TVK, with leader Vijay allegedly expressing severe anger towards General Secretary Anand. This internal tension could affect the party's cohesion following its recent electoral successes.",
+      "analysis_ta": "தவெகவுக்குள் உட்கட்சிப் பூசல்கள் இருப்பதாக செய்திகள் தெரிவிக்கின்றன, தலைவர் விஜய் பொதுச்செயலாளர் ஆனந்த் மீது கடும் கோபத்தில் இருப்பதாக கூறப்படுகிறது. இந்த உள்நாட்டு பதற்றம் கட்சியின் சமீபத்திய தேர்தல் வெற்றிகளுக்குப் பிறகு அதன் ஒற்றுமையை பாதிக்கலாம்.",
       "media": {
         "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Sivakarthikeyan at an event"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "TVK internal politics"
       }
     },
     {
-      "party_or_leader": "Edappadi Palaniswami (AIADMK)",
-      "topic_en": "EPS States Alliance Formations are Subject to Political Situations",
-      "topic_ta": "கூட்டணி அமைப்புகள் அரசியல் சூழ்நிலைக்கு ஏற்றவாறு மாறும் என எடப்பாடி பழனிசாமி கருத்து",
-      "analysis_en": "AIADMK leader Edappadi Palaniswami stated that alliances would change according to the prevailing political situation. This indicates a flexible approach to coalition building, possibly keeping options open for future elections and realignments.",
-      "analysis_ta": "அரசியல் சூழ்நிலைக்கு ஏற்றவாறு கூட்டணி அமைப்புகள் மாறும் என்று அதிமுக தலைவர் எடப்பாடி பழனிசாமி தெரிவித்தார். இது கூட்டணி உருவாக்கத்தில் ஒரு நெகிழ்வான அணுகுமுறையைக் குறிக்கிறது, எதிர்கால தேர்தல்கள் மற்றும் மறுசீரமைப்புகளுக்கு வாய்ப்புகளைத் திறந்து வைக்கிறது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AIADMK_flag.svg/320px-AIADMK_flag.svg.png",
-        "caption": "Edappadi Palaniswami"
-      }
-    },
-    {
-      "party_or_leader": "Nanjil Sampath",
-      "topic_en": "Nanjil Sampath Expresses Dissatisfaction with Current Political Developments",
-      "topic_ta": "தற்போதைய அரசியல் நிகழ்வுகளில் நாஞ்சில் சம்பத் அதிருப்தி",
-      "analysis_en": "Veteran politician Nanjil Sampath gave an interview expressing his dissatisfaction with current political developments, indicating potential shifts in allegiance or growing dissent within political circles. He stated, 'What I have posted is enough to understand... I am dissatisfied!'",
-      "analysis_ta": "அரசியல் மூத்த தலைவர் நாஞ்சில் சம்பத், தற்போதைய அரசியல் நிகழ்வுகள் குறித்து தனது அதிருப்தியை ஒரு பேட்டியில் வெளிப்படுத்தினார். இது அரசியல் வட்டாரங்களில் சாத்தியமான விசுவாச மாற்றங்கள் அல்லது வளர்ந்து வரும் அதிருப்தியைக் குறிக்கிறது. 'பதிவு போட்டேன்ல அதுபோதும் புரியறதுக்கு... அதிருப்தியிலதான் இருக்கேன்!' என்று அவர் தெரிவித்தார்.",
+      "party_or_leader": "Election Commission",
+      "topic_en": "Supreme Court takes action against Chief Election Commissioner, Election Commission dismisses opposition claims",
+      "topic_ta": "தலைமை தேர்தல் ஆணையர் மீது உச்ச நீதிமன்ற அதிரடி, எதிர்க்கட்சிகளின் தேர்தல் குற்றச்சாட்டுகளை தேர்தல் ஆணையம் நிராகரித்தது",
+      "analysis_en": "The Supreme Court initiated proceedings against Chief Election Commissioner Gnanesh Kumar, indicating a significant legal development. Separately, the Election Commission issued a statement to 'end the opposition's election drama,' asserting its neutrality and discrediting opposition claims of electoral irregularities.",
+      "analysis_ta": "தலைமை தேர்தல் ஆணையர் ஞானேஷ் குமார் மீது உச்ச நீதிமன்றம் அதிரடி நடவடிக்கை எடுத்தது. இதற்கிடையில், தேர்தல் ஆணையம் ஒரு அறிக்கை வெளியிட்டு, 'எதிர்க்கட்சிகளின் தேர்தல் உருட்டை' முடிவுக்கு கொண்டு வந்ததாகவும், அதன் நடுநிலைத்தன்மையை வலியுறுத்தி தேர்தல் முறைகேடுகள் குறித்த எதிர்க்கட்சிகளின் குற்றச்சாட்டுகளை நிராகரித்ததாகவும் கூறியது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Nanjil Sampath interview"
+        "caption": "Election Commission news"
+      }
+    },
+    {
+      "party_or_leader": "TVK",
+      "topic_en": "Minister Nirmal Kumar predicts TVK victory in all future elections",
+      "topic_ta": "அமைச்சர் நிர்மல் குமார் தவெக அனைத்து தேர்தல்களிலும் வெற்றி பெறும் என்று கணிப்பு",
+      "analysis_en": "Following the by-election successes, Minister Nirmal Kumar boldly predicted that the TVK would emerge victorious in all future elections, reflecting high confidence within the ruling party.",
+      "analysis_ta": "இடைத்தேர்தல் வெற்றிகளைத் தொடர்ந்து, அமைச்சர் நிர்மல் குமார், தவெக எதிர்காலத்தில் நடைபெறவிருக்கும் அனைத்து தேர்தல்களிலும் வெற்றி பெறும் என்று தைரியமாகக் கணித்துள்ளார். இது ஆளும் கட்சிக்குள் உள்ள மிகுந்த நம்பிக்கையைப் பிரதிபலிக்கிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Minister Nirmal Kumar's statement"
       }
     }
   ],
-  "bills_and_governance": [],
-  "raw_sources_count": 226,
+  "bills_and_governance": [
+    {
+      "title_en": "Government's Stance on Nurses' Permanent Employment and Equal Pay",
+      "title_ta": "செவிலியர்களின் பணி நிரந்தரம் மற்றும் சம ஊதியம் குறித்த அரசின் நிலைப்பாடு",
+      "impact_en": "The government is facing criticism for allegedly misleading nurses regarding their demands for permanent employment and equal pay. This issue, highlighted by MP Kanimozhi, indicates ongoing discontent among healthcare workers and potential policy shortcomings in addressing their grievances.",
+      "impact_ta": "செவிலியர்களின் பணி நிரந்தரம் மற்றும் சம ஊதியம் குறித்த கோரிக்கைகளை அரசு தவறாக வழிநடத்தியதாக விமர்சனங்கள் எழுந்துள்ளன. எம்.பி. கனிமொழியால் சுட்டிக்காட்டப்பட்ட இந்த பிரச்சினை, சுகாதாரப் பணியாளர்களிடையே நிலவும் அதிருப்தியையும், அவர்களின் குறைகளை நிவர்த்தி செய்வதில் கொள்கை ரீதியான குறைபாடுகளையும் காட்டுகிறது."
+    },
+    {
+      "title_en": "Tur Dal Procurement Policy and Price Discrepancies",
+      "title_ta": "துவரம் பருப்பு கொள்முதல் கொள்கை மற்றும் விலை முரண்பாடுகள்",
+      "impact_en": "The government's procurement of tur dal at a significantly lower price (₹77.89 per kg) compared to the previous administration's (₹109 per kg) has drawn criticism from DMK ministers, who label it as a 'Komali government' (joker government) due to alleged financial mismanagement or inefficiency. This points to ongoing debates over public procurement and expenditure.",
+      "impact_ta": "முந்தைய நிர்வாகத்துடன் ஒப்பிடுகையில் (கிலோ ₹109) தற்போதைய அரசு துவரம் பருப்பை கணிசமாக குறைந்த விலையில் (கிலோ ₹77.89) கொள்முதல் செய்தது திமுக அமைச்சர்களின் விமர்சனத்திற்கு உள்ளானது. அவர்கள் இதனை 'கோமாளி அரசு' என்று முத்திரை குத்தி, நிதி மேலாண்மையில் உள்ள குறைபாடுகளைச் சுட்டிக்காட்டினர். இது பொது கொள்முதல் மற்றும் செலவினங்கள் குறித்த தொடர்ச்சியான விவாதங்களை சுட்டிக்காட்டுகிறது."
+    }
+  ],
+  "raw_sources_count": 225,
   "tier_distribution": {
-    "1": 26,
-    "2": 60,
+    "1": 27,
+    "2": 59,
     "3": 14,
     "4": 25,
-    "5": 93
+    "5": 92
   },
-  "generated_at": "2026-10-09T09:29:19.479122"
+  "generated_at": "2026-10-09T18:41:09.381126"
 }
