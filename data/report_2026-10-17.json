@@ -1,0 +1,608 @@
+{
+  "date": "2026-10-16",
+  "executive_tldr_en": [
+    "The TVK government led by Chief Minister Vijay faced strong criticism from both DMK and AIADMK leaders regarding issues such as power cuts, electricity procurement, and alleged administrative mismanagement.",
+    "Tamil Nadu secured significant investments and signed multiple MoUs, particularly in the solar, automotive, and education sectors, with notable projects including a ₹15,037 Crore solar investment in Tirunelveli and new university campuses.",
+    "The Tamil Nadu Assembly experienced heated debates on sensitive topics, including the National Anthem issue and 'Sanatanam,' while reports indicated protests and a potential no-confidence motion against CM Vijay.",
+    "DMK ministers highlighted government achievements in inaugurating a ₹290 Crore science center and a major drug seizure, but also used social media to accuse the TVK government of unprecedented corruption.",
+    "The political landscape is abuzz with discussions about new alliances, actors' potential entry into politics, and strategic moves between major parties ahead of upcoming elections."
+  ],
+  "executive_tldr_ta": [
+    "முதல்வர் விஜய் தலைமையிலான தவெக அரசு, மின்வெட்டு, மின் கொள்முதல் மற்றும் நிர்வாகத் திறமையின்மை தொடர்பான குற்றச்சாட்டுகள் குறித்து திமுக மற்றும் அதிமுக தலைவர்களிடமிருந்து கடும் விமர்சனங்களை எதிர்கொண்டது.",
+    "தமிழ்நாடு குறிப்பிடத்தக்க முதலீடுகளை ஈர்த்ததுடன், சூரிய சக்தி, வாகன உதிரிபாகங்கள் மற்றும் கல்வித் துறைகளில் பல புரிந்துணர்வு ஒப்பந்தங்களை மேற்கொண்டது. இதில் திருநெல்வேலியில் ₹15,037 கோடி சூரிய சக்தி முதலீடு மற்றும் புதிய பல்கலைக்கழக வளாகங்கள் குறிப்பிடத்தக்கவை.",
+    "தமிழக சட்டமன்றத்தில் தேசிய கீதம் மற்றும் 'சனாதனம்' தொடர்பான விவாதங்கள் காரசாரமாக நடைபெற்றன. மேலும், முதல்வர் விஜய்க்கு எதிராக திமுக எம்எல்ஏ-க்களின் போராட்டங்கள் மற்றும் நம்பிக்கையில்லா தீர்மானம் குறித்த செய்திகள் வெளிவந்தன.",
+    "திமுக அமைச்சர்கள் ₹290 கோடி மதிப்பிலான அறிவியல் மையத் திறப்பு மற்றும் பெரிய அளவிலான போதைப்பொருள் பறிமுதல் போன்ற அரசு சாதனைகளை முன்னிலைப்படுத்தினர். அதே சமயம், சமூக ஊடகங்கள் வழியாக தவெக அரசின் மீது முன் எப்போதும் இல்லாத ஊழல் குற்றச்சாட்டுகளை முன்வைத்தனர்.",
+    "புதிய கூட்டணிகள், நடிகர்களின் அரசியல் பிரவேசம் மற்றும் வரவிருக்கும் தேர்தலை முன்னிட்டு முக்கிய கட்சிகளுக்கு இடையிலான மூலோபாய நகர்வுகள் குறித்த விவாதங்கள் அரசியல் அரங்கில் சூடுபிடித்துள்ளன."
+  ],
+  "heated_assembly_moments": [
+    {
+      "issue_en": "Assembly Ruckus: DMK MLAs Protest",
+      "issue_ta": "சட்டமன்ற அமளி: திமுக எம்எல்ஏக்கள் எதிர்ப்பு",
+      "trigger_context": "DMK MLAs sat on the floor, raised slogans, and surrounded the Speaker’s chair in protest, indicating high tensions in the assembly.",
+      "parties_involved": [
+        "DMK",
+        "TVK"
+      ],
+      "key_speakers": [
+        "CM Vijay"
+      ],
+      "opposition_stance_en": "DMK MLAs engaged in aggressive protest, raising slogans and disrupting proceedings.",
+      "government_reply_en": "Not explicitly detailed, but implied Speaker intervention to manage the ruckus.",
+      "outcome_en": "Speaker intervened, DMK MLAs sat on the floor, continued protest.",
+      "details_ta": "சட்டமன்றத்தில் திமுக எம்எல்ஏக்கள் தரையில் அமர்ந்து கோஷமிட்டும், சபாநாயகர் இருக்கையை முற்றுகையிட்டும் போராட்டத்தில் ஈடுபட்டனர். முதல்வர் விஜய் முன்னிலையில் இந்த நிகழ்வுகள் பரபரப்பை ஏற்படுத்தின.",
+      "intensity": "High",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+        "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg",
+        "caption": "TN Assembly Ruckus: DMK MLAs Sit On Floor"
+      }
+    },
+    {
+      "issue_en": "Debate on National Anthem Issue",
+      "issue_ta": "தேசிய கீதம் விவகாரம் குறித்த விவாதம்",
+      "trigger_context": "A heated discussion erupted over the National Anthem within the legislative assembly.",
+      "parties_involved": [],
+      "key_speakers": [],
+      "opposition_stance_en": "Not specified, but implies strong viewpoints leading to heated exchanges.",
+      "government_reply_en": "Not specified.",
+      "outcome_en": "Heated debate.",
+      "details_ta": "சட்டப்பேரவையில் தேசிய கீதம் தொடர்பான விவகாரம் சூடுபிடித்தது, காரசாரமான விவாதம் நடைபெற்றது.",
+      "intensity": "High",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlRRdVZ0c2FuamZDZk1FNzlyUHpnbFVYZlNnYmtXRVgtME5ySFpGaUxKcVBJcVBUaGRUdkVuTk13bUN6LUlTY2NHM1FJRnFzVWs5RG5Rc2IweFY2eTZpTG1NVDkwYmFQNnVaLXN5djh2Q21FNExfSWxkSjU2X3podEhTRmtyWG8yU1BFRFlrVlozSF9qY2IwNk1ZWFVRbF9HNzRCWHVTRDg3aG5lMk5fcTBIUGVHOW9BWDc40gHIAUFVX3lxTFBIc3R0a3RFVnJmWEJsY0R2QWlzNWtXWWdzdHBtLWV4bFF4WmpqMlFTMXJFRUxOTjZZNnR2ZHN5bHUxRjRqLS1IUS1ZWVdWTEkxVEExWUV3Q0IwMTN0bUpNWUFFWEpZZ1F4ZjlZZEZQM3laZ2RSWE9xZ1RWMVRVLWdQT2EyX0Zhb1BQXzRycmloNFdJT3VCdmxQNGFHWUNtcngxcU50dTJZNjBBc3lJUkJMTTRGd180Zlo0UTlqUGFEYzRrbU1GcEZP?oc=5",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "National Anthem Issue in Assembly"
+      }
+    },
+    {
+      "issue_en": "Ultimate Heated Debate on 'Sanatanam'",
+      "issue_ta": "‘சனாதனம்’ குறித்து உச்சகட்ட காரசார விவாதம்",
+      "trigger_context": "The topic of 'Sanatanam' led to an ultimate heated debate in the assembly, indicating deep ideological divisions.",
+      "parties_involved": [],
+      "key_speakers": [],
+      "opposition_stance_en": "Not specified, but suggests strong ideological opposition.",
+      "government_reply_en": "Not specified.",
+      "outcome_en": "Ultimate heated debate.",
+      "details_ta": "சட்டப்பேரவையில் சனாதனம் குறித்து உச்சகட்ட காரசாரமான விவாதம் நடைபெற்றது.",
+      "intensity": "High",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWFF2UnN6MnFvT3pzdjB4aU5MTGRfLUNGNi02bGpRQ2N4U21nY2puMDh3ZDVxMlQ0anJPQm9VQ25aRnM3dERKa3pZZ25Qb0hYX09JaGxpUzZMaXp2MFdoSVkwdWFqLU5nbTZub254MkNrVG5VdUdQbERsaW50OTgtNHp1b2c3UllTdkg3V0FmZjZRb2VwYUpxOGM1X3JNUk1NTFRfU3R4Y1BvQWhQ0gG6AUFVX3lxTFAzVjk4LUJYZkJTdDAxbnU4c1NDMnZXU0Z0RVBhTGw2bTVsY3NTQ28yV0l2TXVLcWVxbzl0b0N2bTNtSkZEaWhpRVZ5Y19iV2NWWC1kVmxWVHJuVHdNekZLenJxeE1EYmQyMUtiTVZjOU5fM2dGZG5DWTA3UW1ObFV1Szc4Z1J3QTBRSG9HY1kyaFVvVEdDZ1RiOVpRdFN0MW1BRG5mSXh5UUVpa3prQmxqZW9qbGxya1BjUQ?oc=5",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Sanatanam Debate in Assembly"
+      }
+    },
+    {
+      "issue_en": "Speculation of Confidence Vote & EPS's 'Political Bomb'",
+      "issue_ta": "நம்பிக்கை வாக்கெடுப்பு குறித்த ஊகம் மற்றும் இபிஎஸ்-ன் 'அரசியல் குண்டு'",
+      "trigger_context": "Amidst political tensions, EPS hinted at a major political move, leading to speculation about a confidence vote against CM Vijay.",
+      "parties_involved": [
+        "AIADMK",
+        "TVK"
+      ],
+      "key_speakers": [
+        "Edappadi Palaniswami"
+      ],
+      "opposition_stance_en": "EPS's statement was seen as a significant challenge to the ruling TVK government.",
+      "government_reply_en": "Not detailed, but implies heightened political alert.",
+      "outcome_en": "Heightened political drama, anticipation of major political developments.",
+      "details_ta": "முதல்வர் விஜய்-க்கு எதிராக நம்பிக்கைத் தீர்மானம் குறித்த யூகங்கள் எழுந்தன. கடைசி நேரத்தில் இபிஎஸ் வீசிய 'அரசியல் குண்டு' பரபரப்பை ஏற்படுத்தியது.",
+      "intensity": "High",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+        "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg",
+        "caption": "CM Vijay | TN Assembly | EPS Political Bomb"
+      }
+    }
+  ],
+  "high_command_direct_statements": [
+    {
+      "leader_name": "Udhayanidhi Stalin",
+      "party": "DMK",
+      "statement_headline_en": "Inauguration of Revenue and Disaster Management Department Building",
+      "statement_headline_ta": "வருவாய் மற்றும் பேரிடர் மேலாண்மை துறை அலுவலகம் திறப்பு",
+      "core_message_en": "Deputy Chief Minister Thiru. Udhayanidhi Stalin today (20.02.2025) inaugurated a new office building for the Revenue and Disaster Management Department in Shenoy Nagar, Chennai.",
+      "core_message_ta": "மாண்புமிகு துணை முதலமைச்சர் திரு.உதயநிதி ஸ்டாலின் அவர்கள் இன்று (20.02.2025), சென்னை - செனாய் நகரில் வருவாய் மற்றும் பேரிடர் மேலாண்மை துறை சார்ந்த அலுவலகத்தை திறந்து வைத்தார்.",
+      "target_party_or_issue": "Governance / Public Service",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Udhayanidhi Stalin inaugurates new department building"
+      }
+    }
+  ],
+  "political_criticisms_and_rebuttals": [
+    {
+      "accuser_leader_or_party": "Jyothimani",
+      "targeted_leader_or_party": "DMK",
+      "core_criticism_en": "DMK treated Congress similarly in 2014, implying a double standard in current political dynamics.",
+      "core_criticism_ta": "”2014-ல் திமுகவும் இதைத்தான் காங்கிரஸுக்கு செய்தது..”",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Highlights historical tensions and potential hypocrisy in alliance politics.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Jyothimani criticizes DMK"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Kanimozhi",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Criticisms against the TVK government are being suppressed on Instagram, implying censorship or undue influence on social media platforms.",
+      "core_criticism_ta": "\"இன்ஸ்டாவில் தவெக அரசுக்கு எதிரான விமர்சனங்கள் முடக்கப்படுகிறது\"",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Raises concerns about freedom of speech and transparency of the ruling government.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Kanimozhi's letter to Union Minister"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Aadav Arjuna",
+      "targeted_leader_or_party": "M.K. Stalin",
+      "core_criticism_en": "You (Stalin) lost because you announced schemes and then engaged in corruption during their implementation.",
+      "core_criticism_ta": "\"திட்டங்களை அறிவித்து, அதில் ஊழல்கள் செய்ததால்தான் தோற்றீர்கள்\"",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "A direct attack on Stalin's governance record and electoral performance.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Aadav Arjuna criticizes Stalin"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Seeman",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Questions if the TVK government's decision to buy electricity from private entities again is for 'kickbacks' (bribes).",
+      "core_criticism_ta": "\"மீண்டும் தனியாரிடம் மின்சாரம் வாங்குவது கையூட்டிற்காகவா?\"",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Raises serious allegations of corruption and mismanagement in energy procurement.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-TamilNadu_Flag.png",
+        "caption": "Seeman questions TVK govt on power purchase"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Sengottaiyan",
+      "targeted_leader_or_party": "TVK",
+      "core_criticism_en": "Dismisses the defection of 15 AIADMK members to TVK, likening it to an 'elephant shrinking to an ant' and asserting AIADMK's resilience.",
+      "core_criticism_ta": "'அதிமுகவிலிருந்து 15 பேர் தவெக வருவார்கள்; யானை தேய்ந்து கட்டெறும்பாக போன கதையாக.!'",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Undermines TVK's attempts to poach members and reaffirms AIADMK's strong base.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Sengottaiyan on AIADMK defections to TVK"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Edappadi Palaniswami",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Criticizes the TVK government as a 'dummy government' highlighting failures from electricity procurement to road tenders.",
+      "core_criticism_ta": "``மின்சாரக் கொள்முதல் முதல் சாலை டெண்டர் வரை... இது டம்மி அரசு\"'",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Accuses the ruling government of inefficiency and poor administration across key sectors.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Edappadi Palaniswami criticizes TVK government"
+      }
+    },
+    {
+      "accuser_leader_or_party": "M.K. Stalin",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Compares the TVK cabinet to a 'group of monkeys with burning tails', implying chaos and incompetence.",
+      "core_criticism_ta": "``வாலில் தீப்பற்றிய குரங்குக் கூட்டம் போல அமைச்சரவை...\"'",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "A sharp, metaphorical criticism targeting the TVK government's perceived disarray.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "M.K. Stalin criticizes TVK cabinet"
+      }
+    },
+    {
+      "accuser_leader_or_party": "M.K. Stalin",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Questions the high electricity price of ₹35 per unit, asking whose money is being spent, hinting at fiscal mismanagement or corruption.",
+      "core_criticism_ta": "\"யூனிட்டுக்கு 35 ரூபாய்க்கு மின்சாரமா? இது யார் வீட்டுக் காசு சார்?\"",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Accuses the government of burdening citizens with exorbitant electricity costs.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "M.K. Stalin questions electricity price"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Anbumani Ramadoss",
+      "targeted_leader_or_party": "Tamil Nadu Government",
+      "core_criticism_en": "The Tamil Nadu government is facing significant confusion and struggles in administrative matters.",
+      "core_criticism_ta": "'நிர்வாகம் தொடர்பான விஷயங்களில் தமிழக அரசு பெரும் தடுமாற்றத்தில் இருக்கிறது'",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "A general critique of the state's governance, likely directed at the ruling TVK.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Anbumani Ramadoss criticizes TN administration"
+      }
+    },
+    {
+      "accuser_leader_or_party": "DMK Leadership",
+      "targeted_leader_or_party": "TVK",
+      "core_criticism_en": "Accusations of unprecedented corruption, hashtagging '#TVKFails'.",
+      "core_criticism_ta": "வரலாறு காணாத ஊழல்! #TVKFails",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Direct and strong accusation of corruption from the opposition, amplified via social media.",
+      "media": {
+        "media_type": "poster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "DMK criticizes TVK for corruption"
+      }
+    },
+    {
+      "accuser_leader_or_party": "DMK Leadership",
+      "targeted_leader_or_party": "TVK",
+      "core_criticism_en": "The TVK government is unable to solve the power cut problem in Tamil Nadu and is making daily excuses about lack of wind and rain.",
+      "core_criticism_ta": "தமிழ்நாட்டில் நிலவும் மின்வெட்டுப் பிரச்சனையைத் தீர்க்க முடியாமல், காற்று இல்லை, மழை இல்லை, என தினமும் கதையடித்துவிட்டுக் கொண்ட",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Highlights perceived failure in energy management and lack of accountability from the ruling party.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK Minister on power cuts"
+      }
+    },
+    {
+      "accuser_leader_or_party": "DMK Leadership",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Criticism of the government's style of arresting youth protesting electoral irregularities, comparing it to 'owners' suppressing dissent.",
+      "core_criticism_ta": "தேர்தல் முறைகேடுகளுக்கு எதிராக டெல்லிக்கு போராட செல்லும் இளைஞர்களை ஆங்காங்கே கைது செய்யும் ஓனர்களின் பாணியில்...",
+      "rebuttal_or_defense_en": "Not available in provided data.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் இல்லை.",
+      "political_significance": "Accusation of suppressing democratic protests and human rights violations.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK Minister criticizes protest arrests"
+      }
+    }
+  ],
+  "prime_time_debates": [
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Delimitation, Cauvery, Mullaiperiyar, Chief Ministers' Conference Outcomes",
+      "topic_ta": "Delimitation, காவிரி, முல்லை பெரியாறு பலனளித்ததா முதல்வர்கள் மாநாடு?",
+      "panelists_or_parties": [],
+      "clash_summary_en": "Debate on critical state and national issues including electoral delimitation, inter-state water disputes (Cauvery, Mullaiperiyar), and the effectiveness of the Chief Ministers' conference.",
+      "clash_summary_ta": "தேர்தல் தொகுதி மறுசீரமைப்பு, காவிரி மற்றும் முல்லை பெரியாறு போன்ற மாநிலங்களுக்கு இடையேயான நதிநீர் தகராறுகள் மற்றும் முதல்வர்கள் மாநாட்டின் பலன்கள் குறித்து காரசாரமான விவாதம் நடைபெற்றது.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Congress + TVK Alliance: A move in Kerala?",
+      "topic_ta": "காங்., + தவெக கூட்டணி - கேரளாவில் நடக்கும் மூவ்..?",
+      "panelists_or_parties": [],
+      "clash_summary_en": "Discussion and analysis regarding a potential alliance formation between Congress and TVK, specifically examining its implications or moves in Kerala.",
+      "clash_summary_ta": "காங்கிரஸ் மற்றும் தவெக கூட்டணி அமைப்பது குறித்து, குறிப்பாக கேரளாவில் அதன் தாக்கங்கள் அல்லது நகர்வுகள் குறித்து விவாதம் மற்றும் பகுப்பாய்வு செய்யப்பட்டது.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "Thanthi TV Debate",
+      "channel": "Thanthi TV",
+      "topic_en": "VCK's statements vs Vijay's comments: Is it a mockery?",
+      "topic_ta": "``விசிக சொல்லலாம்; விஜய் சொன்னால் கேலிகூத்து?’’..",
+      "panelists_or_parties": [
+        "VCK",
+        "TVK"
+      ],
+      "clash_summary_en": "A heated debate questioning the credibility and perception of political statements made by VCK versus those made by Vijay, implying a double standard in how their remarks are received.",
+      "clash_summary_ta": "விசிக சொல்வதற்கும், விஜய் சொல்வதற்கும் இடையே உள்ள நம்பகத்தன்மை மற்றும் அரசியல் விமர்சனங்களின் ஏற்புத்தன்மை குறித்து காரசாரமான விவாதம் நடைபெற்றது.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "TN Assembly Livestream & Highlights",
+      "channel": "Official Assembly / Media Feeds",
+      "topic_en": "TN Assembly Ruckus: DMK MLAs Sit On Floor, Raise Slogans",
+      "topic_ta": "தமிழக சட்டப்பேரவை அமளி: திமுக எம்எல்ஏக்கள் தரையில் அமர்ந்து கோஷமிட்டனர்",
+      "panelists_or_parties": [
+        "DMK",
+        "TVK"
+      ],
+      "clash_summary_en": "Footage and discussion of DMK MLAs causing a ruckus in the assembly, sitting on the floor, raising slogans, and surrounding the Speaker’s chair.",
+      "clash_summary_ta": "திமுக எம்எல்ஏக்கள் சட்டசபையில் அமளியில் ஈடுபட்டு, தரையில் அமர்ந்து கோஷமிட்டு, சபாநாயகர் இருக்கையை முற்றுகையிட்டனர்.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "TN Assembly Livestream & Highlights",
+      "channel": "Official Assembly / Media Feeds",
+      "topic_en": "CM Vijay & TN Assembly: Confidence Vote? EPS's Political Bomb",
+      "topic_ta": "முதல்வர் விஜய் | TN சட்டப்பேரவை: நம்பிக்கை வாக்கெடுப்பு? - இபிஎஸ்-ன் அரசியல் குண்டு",
+      "panelists_or_parties": [
+        "TVK",
+        "AIADMK"
+      ],
+      "clash_summary_en": "Analysis of EPS's sudden 'political bomb' and its implications for CM Vijay's government, including speculation about a possible confidence vote in the assembly.",
+      "clash_summary_ta": "இபிஎஸ்-ன் திடீர் 'அரசியல் குண்டு' மற்றும் முதல்வர் விஜய் அரசின் மீதான அதன் தாக்கம், சட்டசபையில் நம்பிக்கை வாக்கெடுப்புக்கான சாத்தியக்கூறுகள் பற்றிய பகுப்பாய்வு.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Minister Vignesh's thanks and CM Vijay's reaction",
+      "topic_ta": "அமைச்சர் விக்னேஷின் நன்றி மற்றும் முதல்வர் விஜயின் எதிர்வினை",
+      "panelists_or_parties": [
+        "Minister Vignesh",
+        "CM Vijay"
+      ],
+      "clash_summary_en": "Discussion surrounding Minister Vignesh's repeated expressions of gratitude and CM Vijay's reaction during an event or assembly session.",
+      "clash_summary_ta": "அமைச்சர் விக்னேஷின் தொடர்ச்சியான நன்றியுரைகள் மற்றும் அதற்கு முதல்வர் விஜயின் எதிர்வினை குறித்து விவாதம்.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Thiruma's speech confusion and Shyam's explanation",
+      "topic_ta": "திருமா பேச்சில் குழப்பம் - விளக்கும் ஷ்யாம்",
+      "panelists_or_parties": [
+        "VCK",
+        "DMK",
+        "M.K. Stalin"
+      ],
+      "clash_summary_en": "Debate dissecting perceived ambiguities or confusion in Thirumavalavan's speech and Shyam's attempt to clarify or interpret it in the context of VCK, DMK, and M.K. Stalin.",
+      "clash_summary_ta": "திருமாவளவனின் பேச்சில் உள்ள குழப்பங்கள் மற்றும் அதை ஷ்யாம் விளக்கம் அளித்த விவாதம், விசிக, திமுக, மற்றும் ஸ்டாலின் கருத்துக்களின் பின்னணியில்.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "Makkal Kural Debate",
+      "channel": "Polimer News",
+      "topic_en": "Major changes in AIADMK - EPS's bold actions",
+      "topic_ta": "அதிமுக-வில் தலைகீழ் மாற்றம் - ''இனிமே ஆக்ஷன்தானாம்\" EPS அதிரடி",
+      "panelists_or_parties": [
+        "AIADMK",
+        "Edappadi Palaniswami"
+      ],
+      "clash_summary_en": "Discussion on significant internal shifts within AIADMK and Edappadi Palaniswami's assertive stance, hinting at proactive 'action' within the party.",
+      "clash_summary_ta": "அதிமுக-வில் நடக்கும் முக்கிய மாற்றங்கள் மற்றும் எடப்பாடி பழனிசாமியின் அதிரடி நடவடிக்கைகள் குறித்து விவாதம், எதிர்கால கட்சி நகர்வுகள் பற்றிய குறிப்புகள்.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    },
+    {
+      "show_name": "Makkal Kural Debate",
+      "channel": "Polimer News",
+      "topic_en": "Mayor Priya's statement on heavy rain due to El Nino",
+      "topic_ta": "மேயர் பிரியா: “எல்நினோவால் இந்த ஆண்டு கடும் மழை இருக்கும்”",
+      "panelists_or_parties": [
+        "Mayor Priya"
+      ],
+      "clash_summary_en": "Discussion and public reaction to Mayor Priya's forecast of heavy rainfall this year attributed to the El Nino phenomenon, impacting city planning and disaster preparedness.",
+      "clash_summary_ta": "எல்நினோ காரணமாக இந்த ஆண்டு கடும் மழை பெய்யும் என்ற மேயர் பிரியாவின் அறிவிப்பு மற்றும் அதன் தாக்கம், நகர திட்டமிடல் மற்றும் பேரிடர் மேலாண்மை குறித்த விவாதம்.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_ID",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_ID/hqdefault.jpg"
+    }
+  ],
+  "mous_and_investments": [
+    {
+      "company_or_investor": "Singapore National University",
+      "sector": "Education & Research",
+      "investment_amount_inr": "Not Specified",
+      "jobs_created": "Not specified",
+      "location_district": "Tamil Nadu",
+      "status": "MoU Signed",
+      "details_en": "Tamil Nadu Government signed a Memorandum of Understanding with the National University of Singapore for collaboration in education and research.",
+      "details_ta": "சிங்கப்பூர் தேசியப் பல்கலைக்கழகத்துடன் தமிழக அரசு புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டுள்ளது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "TN Govt signs MoU with Singapore National University"
+      }
+    },
+    {
+      "company_or_investor": "Vikram Solar Group",
+      "sector": "Solar Energy",
+      "investment_amount_inr": "₹15,037 Crore",
+      "jobs_created": "2,600",
+      "location_district": "Tirunelveli",
+      "status": "MoU Signed",
+      "details_en": "Vikram Solar Group signed an MoU for a new plant in Tirunelveli with an investment of ₹15,037 Crore, projected to create 2,600 jobs, in the presence of CM Vijay.",
+      "details_ta": "திருநெல்வேலியில் ரூ.15,037 கோடி முதலீட்டில் புதிய சோலார் ஆலை அமைப்பதற்காக முதல்வர் விஜய் முன்னிலையில் விக்ரம் சோலார் குழுமம் ஒப்பந்தம் செய்தது. 2,600 பேருக்கு வேலைவாய்ப்பு கிடைக்கும்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay oversees Vikram Solar Group MoU in Tirunelveli"
+      }
+    },
+    {
+      "company_or_investor": "Unspecified Company",
+      "sector": "Automotive Parts",
+      "investment_amount_inr": "₹300 Crore",
+      "jobs_created": "Not specified",
+      "location_district": "Kancheepuram SIPCOT",
+      "status": "MoU Signed",
+      "details_en": "A new car spare parts production unit with an investment of ₹300 Crore will be set up in Kancheepuram district's SIPCOT Industrial Park, signed in the presence of CM Vijay.",
+      "details_ta": "காஞ்சிபுரம் மாவட்டம் சிப்காட் தொழிற்பூங்காவில் ரூ.300 கோடி முதலீட்டில் கார் உதிரிபாகம் உற்பத்தி நிலையம் அமைக்க, முதல்வர் விஜய் முன்னிலையில் ஒப்பந்தம்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay for Auto Parts Unit in Kancheepuram"
+      }
+    },
+    {
+      "company_or_investor": "Australian University",
+      "sector": "Higher Education",
+      "investment_amount_inr": "Not Specified",
+      "jobs_created": "Not specified",
+      "location_district": "Tamil Nadu",
+      "status": "MoU Signed",
+      "details_en": "An MoU was signed for setting up an Australian University campus in Tamil Nadu, in the presence of Chief Minister Vijay.",
+      "details_ta": "தமிழ்நாட்டில் ஆஸ்திரேலிய பல்கலை வளாகம் அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் முதல்வர் விஜய் முன்னிலையில் கையெழுத்தானது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay for Australian University campus"
+      }
+    },
+    {
+      "company_or_investor": "Hitachi",
+      "sector": "Technology/Manufacturing",
+      "investment_amount_inr": "₹1,000 Crore",
+      "jobs_created": "1,000",
+      "location_district": "Not specified",
+      "status": "MoU Signed",
+      "details_en": "Hitachi signed a Memorandum of Understanding for an investment of ₹1,000 Crore, expected to create 1,000 jobs.",
+      "details_ta": "ரூ.1,000 கோடி முதலீடு... 1,000 பேருக்கு வேலை... ஹிட்டாச்சி நிறுவனத்துடன் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Hitachi MoU with TN Government"
+      }
+    },
+    {
+      "company_or_investor": "MRF",
+      "sector": "Tire Manufacturing",
+      "investment_amount_inr": "Not Specified",
+      "jobs_created": "Not specified",
+      "location_district": "Sivaganga SIPCOT, Iluppaikudi",
+      "status": "MoU Signed",
+      "details_en": "MRF company signed an MoU for setting up a new tire manufacturing plant at the SIPCOT Industrial Park in Iluppaikudi, Sivaganga district.",
+      "details_ta": "சிவகங்கை மாவட்டம், சிப்காட்- இலுப்பைக்குடி தொழிற் பூங்காவில் புதிய டயர் உற்பத்தி ஆலை அமைப்பதற்கு MRF நிறுவனம் புரிந்துணர்வு ஒப்பந்தம் செய்தது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "MRF MoU for new tire plant"
+      }
+    },
+    {
+      "company_or_investor": "Unspecified Institution",
+      "sector": "Higher Education",
+      "investment_amount_inr": "₹125 Crore",
+      "jobs_created": "Not specified",
+      "location_district": "Velachery, Chennai",
+      "status": "MoU Signed",
+      "details_en": "An MoU was signed for establishing an international university campus in Velachery, Chennai, with an investment of ₹125 Crore, in the presence of Chief Minister Vijay.",
+      "details_ta": "சென்னை வேளச்சேரியில் ரூ.125 கோடியில் சர்வதேச பல்கலைக்கழக வளாகம் அமைக்க முதல்வர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay for International University campus in Chennai"
+      }
+    }
+  ],
+  "statewide_politics": [
+    {
+      "party_or_leader": "Actor Dhanush",
+      "topic_en": "Dhanush's fan club to transform into a political movement",
+      "topic_ta": "நடிகர் தனுஷ் ரசிகர் மன்றம் அரசியல் இயக்கமாக மாற்றம்",
+      "analysis_en": "The transformation of actor Dhanush's fan club into a political movement signals his potential entry into politics, adding another celebrity face to Tamil Nadu's political landscape.",
+      "analysis_ta": "நடிகர் தனுஷின் ரசிகர் மன்றம் அரசியல் இயக்கமாக மாறுவது, தமிழக அரசியலில் மற்றொரு பிரபலத்தின் சாத்தியமான பிரவேசத்தைக் குறிக்கிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Dhanush's fan club entering politics"
+      }
+    },
+    {
+      "party_or_leader": "TVK",
+      "topic_en": "TVK's ambiguous participation in SIR protest",
+      "topic_ta": "எஸ்ஐஆர் போராட்டத்தில் தவெக-வின் மழுப்பலான பங்கேற்பு",
+      "analysis_en": "TVK's participation in the protest against the Chief Election Commissioner (SIR) was described as ambiguous, suggesting a strategic move to show support without fully committing, similar to 'water on a lotus leaf'.",
+      "analysis_ta": "தலைமை தேர்தல் ஆணையர் (எஸ்ஐஆர்) போராட்டத்தின் மீதான தவெக-வின் பங்கேற்பு 'தாமரை இலை மேல் தண்ணீர் போல' என்று விவரிக்கப்பட்டது, இது முழுமையாக ஈடுபடாமல் ஆதரவை வெளிப்படுத்தும் ஒரு மூலோபாய நகர்வைக் குறிக்கிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "TVK's stance on SIR protest"
+      }
+    },
+    {
+      "party_or_leader": "VCK (Thirumavalavan)",
+      "topic_en": "Thirumavalavan clarifies on PMK-TVK alliance rumors",
+      "topic_ta": "பாமக-தவெக கூட்டணி வதந்திகள் குறித்து திருமாவளவன் விளக்கம்",
+      "analysis_en": "Thirumavalavan addressed rumors about a potential alliance between PMK and TVK, indicating the speculative nature of political alignments and VCK's position amidst them.",
+      "analysis_ta": "பாமக மற்றும் தவெக கூட்டணி குறித்த வதந்திகள் குறித்து திருமாவளவன் விளக்கம் அளித்தார். இது அரசியல் கூட்டணி ஊகங்களின் தன்மை மற்றும் அவற்றுக்கிடையே விசிகவின் நிலைப்பாட்டைக் குறிக்கிறது.",
+      "media": {
+        "media_type": "poster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Thirumavalavan on alliance rumors"
+      }
+    },
+    {
+      "party_or_leader": "DMK, VCK, TVK",
+      "topic_en": "Stalin vs Thiruma: TVK's strategy against DMK in Trichy East",
+      "topic_ta": "ஸ்டாலின் vs திருமா: திருச்சி கிழக்கில் திமுக-வுக்கு எதிராக தவெக-வின் திட்டம்",
+      "analysis_en": "Analysis of the political dynamics between M.K. Stalin and Thirumavalavan, focusing on TVK's strategic moves against DMK, particularly in the Trichy East constituency.",
+      "analysis_ta": "எம்.கே.ஸ்டாலின் மற்றும் திருமாவளவன் இடையேயான அரசியல் இயக்கவியல் பற்றிய பகுப்பாய்வு, குறிப்பாக திருச்சி கிழக்கு தொகுதியில் திமுக-வுக்கு எதிராக தவெக-வின் மூலோபாய நகர்வுகள்.",
+      "media": {
+        "media_type": "poster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Stalin vs Thiruma on TVK strategy"
+      }
+    },
+    {
+      "party_or_leader": "Edappadi Palaniswami (AIADMK)",
+      "topic_en": "EPS asserts AIADMK's strength amidst political shifts",
+      "topic_ta": "அரசியல் மாற்றங்களுக்கு மத்தியில் அதிமுகவின் பலத்தை இபிஎஸ் உறுதிப்படுத்துகிறார்",
+      "analysis_en": "Edappadi Palaniswami's strong statement, 'AIADMK is my lifeblood! Cadres are my lifeline!', reaffirms his leadership and the party's resilience amidst attempts by other parties (like TVK) to poach its members.",
+      "analysis_ta": "எடப்பாடி பழனிசாமியின் வலுவான அறிக்கை, 'அதிமுகவே எனது உயிர்மூச்சு! தொண்டர்களே எனது உயிர்நாடி!' அவரது தலைமை மற்றும் கட்சியின் மீள்திறனை உறுதிப்படுத்துகிறது. குறிப்பாக மற்ற கட்சிகள் (தவெக போன்றவை) அதன் உறுப்பினர்களை கவர்ந்திழுக்கும் முயற்சிகளுக்கு மத்தியில் இது வெளிவந்துள்ளது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/All_India_Anna_Dravida_Munnetra_Kazhagam_logo.svg/320px-All_India_Anna_Dravida_Munnetra_Kazhagam_logo.svg.png",
+        "caption": "EPS reaffirms AIADMK strength"
+      }
+    }
+  ],
+  "bills_and_governance": [
+    {
+      "title_en": "Periyar Knowledge and Science Centre Inauguration in Coimbatore",
+      "title_ta": "கோயம்புத்தூரில் பெரியார் அறிவுலகம் மற்றும் அறிவியல் மையம் திறப்பு",
+      "impact_en": "Inauguration of the Periyar Knowledge and Science Centre, built at a cost of ₹290 Crore under the Dravidian Model governance, enhancing educational and scientific infrastructure in Coimbatore.",
+      "impact_ta": "திராவிட மாடல் ஆட்சியில் ரூ.290 கோடி மதிப்பில் கோவையில் கட்டியெழுப்பப்பட்டுள்ள பெரியார் அறிவுலகம் மற்றும் அறிவியல் மையம் திறக்கப்பட்டது, கோவையில் கல்வி மற்றும் அறிவியல் உள்கட்டமைப்பை மேம்படுத்துகிறது."
+    },
+    {
+      "title_en": "Record Methamphetamine Drug Seizure in Vedaranyam",
+      "title_ta": "வேதாரண்யத்தில் வரலாறு காணாத மெத்தபெட்டமைன் போதைப்பொருள் பறிமுதல்",
+      "impact_en": "Seizure of approximately 135 kg of methamphetamine worth hundreds of crores in Vedaranyam, marking the largest such operation in Tamil Nadu and demonstrating strong law enforcement efforts against drug trafficking.",
+      "impact_ta": "வேதாரண்யத்தில் பல நூறு கோடி ரூபாய் மதிப்பிலான சுமார் 135 கிலோ மெத்தபெட்டமைன் போதைப்பொருள் பறிமுதல் செய்யப்பட்டது. இது தமிழ்நாட்டின் மிகப்பெரிய பறிமுதல் ஆகும், போதைப்பொருள் கடத்தலுக்கு எதிரான வலுவான சட்ட அமலாக்க முயற்சிகளை காட்டுகிறது."
+    },
+    {
+      "title_en": "Inauguration of Revenue and Disaster Management Department Building in Chennai",
+      "title_ta": "சென்னையில் வருவாய் மற்றும் பேரிடர் மேலாண்மை துறை அலுவலகம் திறப்பு",
+      "impact_en": "Deputy Chief Minister Udhayanidhi Stalin inaugurated a new office building for the Revenue and Disaster Management Department in Shenoy Nagar, Chennai, aimed at improving administrative efficiency.",
+      "impact_ta": "மாண்புமிகு துணை முதலமைச்சர் திரு.உதயநிதி ஸ்டாலின் அவர்கள் சென்னை செனாய் நகரில் வருவாய் மற்றும் பேரிடர் மேலாண்மை துறை சார்ந்த புதிய அலுவலக கட்டிடத்தை திறந்து வைத்தார், இது நிர்வாகத் திறனை மேம்படுத்தும் நோக்குடன் மேற்கொள்ளப்பட்டது."
+    }
+  ],
+  "raw_sources_count": 222,
+  "tier_distribution": {
+    "1": 27,
+    "2": 59,
+    "3": 13,
+    "4": 25,
+    "5": 90
+  },
+  "generated_at": "2026-10-17T07:09:24.384224"
+}
