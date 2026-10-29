@@ -1,373 +1,264 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "executive_tldr_en": [
-    "Tamil Nadu secured significant investments exceeding ₹15,000 Crore, notably from Vikram Solar in Tirunelveli and MRF in Sivaganga, alongside international university campuses in Chennai, with several MoUs signed in CM Vijay's presence.",
-    "The State Assembly experienced heated exchanges, particularly between TVK and DMK, concerning topics like the National Anthem issue and allegations of political vendetta in arrests, widely covered by TV debates and live streams.",
-    "Actor Dhanush's growing political influence and the Tamilaga Vettri Kazhagam's (TVK) strategic decision to allocate 15% of local body election seats to allies signal evolving statewide political alignments.",
-    "DMK leaders, including M.K. Stalin, Udhayanidhi Stalin, and Kanimozhi, intensified their criticisms against the TVK government across multiple fronts, encompassing law and order failures (Madurai child death, Chennai youth murder, prison escapes), administrative lapses, and alleged political targeting in the Anbil Mahesh arrest."
+    "Political tensions escalated with the DMK vehemently criticizing the ruling TVK government on multiple fronts, including allegations of administrative failure, political vendetta in arrests (notably former minister Anbil Mahesh), neglect of public safety, and authoritarian tendencies.",
+    "The TVK government announced significant investment MoUs, including a major Vikram Solar plant in Tirunelveli (₹15,037 Crore, 2,600 jobs) and an MRF tyre factory in Sivagangai, emphasizing economic development and job creation.",
+    "Speculation intensified around actor Dhanush's potential entry into politics, with reports of him actively meeting women's wing executives, holding a mini-conference, and discussing alliance strategies for local elections, possibly challenging existing political equations.",
+    "Heated debates characterized both the Legislative Assembly sessions and prime-time TV discussions, focusing on government performance, accusations of corruption, the Cauvery water dispute, and inter-party rivalries.",
+    "The Madras High Court dismissed a petition filed by former MLA Esakki Subbaiah in an election-related case, while DMK leaders condemned the TVK government's handling of law and order and welfare policies."
   ],
   "executive_tldr_ta": [
-    "தமிழகம் ₹15,000 கோடிக்கும் அதிகமான முதலீடுகளை ஈர்த்துள்ளது. திருநெல்வேலியில் விக்ரம் சோலார் மற்றும் சிவகங்கையில் MRF போன்ற நிறுவனங்கள் முதலீடு செய்துள்ளன. சென்னையிலும் சர்வதேச பல்கலைக்கழக வளாகங்கள் அமைக்க ஒப்பந்தங்கள் கையெழுத்தாகின. இதில் முதலமைச்சர் விஜய் முன்னிலையில் பல புரிந்துணர்வு ஒப்பந்தங்கள் நடைபெற்றன.",
-    "சட்டமன்றத்தில் தேசிய கீதம் விவகாரம் மற்றும் அன்பில் மகேஷ் கைது போன்ற விவகாரங்கள் குறித்து தவெக மற்றும் திமுக இடையே காரசாரமான விவாதங்கள் நடைபெற்றன. இது தொலைக்காட்சி விவாதங்கள் மற்றும் நேரடி ஒளிபரப்புகளில் தீவிரமாக இடம்பெற்றது.",
-    "நடிகர் தனுஷின் வளர்ந்து வரும் அரசியல் செல்வாக்கு மற்றும் உள்ளாட்சித் தேர்தலில் கூட்டணி கட்சிகளுக்கு 15% இடங்களை ஒதுக்க தவெக எடுத்த முடிவு மாநில அரசியலில் புதிய மாற்றங்களை உணர்த்துகிறது.",
-    "திமுக தலைவர்களான மு.க. ஸ்டாலின், உதயநிதி ஸ்டாலின், கனிமொழி ஆகியோர் தவெக அரசின் மீது பல்வேறு குற்றச்சாட்டுகளை முன்வைத்தனர். சட்டம் ஒழுங்கு சீர்கேடு (மதுரை சிறுவன் மரணம், சென்னை இளைஞர் கொலை, சிறைக்கைதிகள் தப்பியது), நிர்வாக குளறுபடிகள், அன்பில் மகேஷ் கைது விவகாரத்தில் அரசியல் பழிவாங்கல் போன்ற குற்றச்சாட்டுகள் முன்வைக்கப்பட்டன."
+    "ஆளும் தவெக அரசின் மீது திமுக, நிர்வாக சீர்கேடுகள், அரசியல் பழிவாங்கும் கைதுகள் (முன்னாள் அமைச்சர் அன்பில் மகேஷ்), பொதுப் பாதுகாப்பு அலட்சியம் மற்றும் எதேச்சாதிகாரப் போக்குகள் உள்ளிட்ட பல விஷயங்களில் கடும் கண்டனம் தெரிவித்து அரசியல் பதட்டங்கள் அதிகரித்தன.",
+    "திருநெல்வேலியில் விக்ரம் சோலார் ஆலை (₹15,037 கோடி, 2,600 வேலைவாய்ப்புகள்) மற்றும் சிவகங்கையில் MRF டயர் தொழிற்சாலை உட்பட குறிப்பிடத்தக்க முதலீட்டு புரிந்துணர்வு ஒப்பந்தங்களை தவெக அரசு அறிவித்தது, பொருளாதார மேம்பாடு மற்றும் வேலைவாய்ப்பை வலியுறுத்தியது.",
+    "நடிகர் தனுஷின் அரசியல் பிரவேசம் குறித்த ஊகங்கள் அதிகரித்துள்ளன. அவர் மகளிர் அணி நிர்வாகிகளை சந்தித்து, ஒரு சிறிய மாநாட்டை நடத்தி, உள்ளாட்சித் தேர்தலுக்கான கூட்டணி உத்திகள் குறித்து விவாதித்து வருவதாக தகவல்கள் வெளியாகியுள்ளன, இது தற்போதுள்ள அரசியல் சமன்பாடுகளை சவால் செய்யலாம்.",
+    "சட்டமன்ற அமர்வுகள் மற்றும் பிரைம்-டைம் தொலைக்காட்சி விவாதங்கள் அரசு செயல்திறன், ஊழல் குற்றச்சாட்டுகள், காவிரி நீர் தகராறு மற்றும் கட்சிக்கு இடையேயான போட்டி குறித்து காரசாரமாக அமைந்தன.",
+    "முன்னாள் எம்.எல்.ஏ இசக்கி சுப்பையா தாக்கல் செய்த தேர்தல் தொடர்பான மனுவை சென்னை உயர் நீதிமன்றம் தள்ளுபடி செய்தது, அதே நேரத்தில் சட்டம் ஒழுங்கு மற்றும் நலத்திட்டங்களை தவெக அரசு கையாண்ட விதத்தை திமுக தலைவர்கள் கண்டித்தனர்."
   ],
   "heated_assembly_moments": [
     {
-      "issue_en": "TVK vs DMK Clash on Administrative Issues & MLA Benefits",
-      "issue_ta": "தவெக vs திமுக: நிர்வாகச் சிக்கல்கள் மற்றும் எம்எல்ஏ-க்களுக்கு கார் விவகாரம்",
-      "trigger_context": "Debate over 'cars for MLAs' and broader administrative issues, escalating into a direct confrontation between ruling and opposition benches.",
+      "issue_en": "Assembly Ruckus and Majority Test",
+      "issue_ta": "சட்டமன்ற அமளிதுமளி மற்றும் பெரும்பான்மை சோதனை",
+      "trigger_context": "DMK MLAs protested against CM Vijay's government, raising slogans and surrounding the Speaker's chair. CM Vijay's entry in a luxury AC bus during a majority test also caused commotion.",
       "parties_involved": [
-        "TVK",
-        "DMK"
+        "DMK",
+        "TVK"
       ],
       "key_speakers": [
         "CM Vijay",
-        "Udhayanidhi Stalin",
-        "Minister Aadhav Arjuna"
+        "Udhayanidhi Stalin"
       ],
-      "opposition_stance_en": "DMK leaders Udhayanidhi Stalin raised questions and criticisms against the government's policies and decisions, including 'cars for MLAs'.",
-      "government_reply_en": "Minister Aadhav Arjuna and CM Vijay countered DMK's allegations, defending the government's administrative actions and policy decisions.",
-      "outcome_en": "Heated debate, broadcast live, with both sides making strong arguments.",
-      "details_ta": "சட்டமன்றத்தில் எம்எல்ஏ-க்களுக்கு கார் வழங்குவது தொடர்பான விவாதம், அத்துடன் பொது நிர்வாகச் சிக்கல்கள் குறித்து தவெக மற்றும் திமுக இடையே நேரடி மோதலாக மாறியது. முதலமைச்சர் விஜய் மற்றும் அமைச்சர் ஆதவ் அர்ஜுனா ஆகியோர் அரசின் கொள்கைகளையும் முடிவுகளையும் பாதுகாக்க, உதயநிதி ஸ்டாலின் திமுக தரப்பில் கேள்விகளையும் விமர்சனங்களையும் முன்வைத்தார். விவாதம் காரசாரமாக இருந்தது, நேரலையிலும் ஒளிபரப்பானது.",
+      "opposition_stance_en": "DMK MLAs demanded accountability and criticized the government's actions, culminating in a walkout and slogans.",
+      "government_reply_en": "CM Vijay and his ministers faced the opposition's challenge during a crucial majority test, with the assembly reported to be 'fiery'.",
+      "outcome_en": "Walkout / Slogans / Speaker intervened / Fiery session",
+      "details_ta": "முதலமைச்சர் விஜய்யின் அரசுக்கு எதிராக திமுக எம்.எல்.ஏ.க்கள் முழக்கங்கள் எழுப்பி, சபாநாயகரின் இருக்கையை சூழ்ந்துகொண்டு போராட்டத்தில் ஈடுபட்டனர். பெரும்பான்மை சோதனையின்போது முதலமைச்சர் விஜய் சொகுசு ஏசி பேருந்தில் நுழைந்தது மேலும் சலசலப்பை ஏற்படுத்தியது.",
       "intensity": "High",
       "media": {
         "media_type": "youtube_video",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXkyeDl5Qkh4ZzNTbmF4dTZJOURZYllyOEZid1RGMklWZWtnT01BZFotRjJ4T0Rxc05wd2FNeG1pNno4M1dfR1NwZm85X1VBUi1nbFdlNDlxT2p3RXNjckRFM1FBWXB1RDEzTW1MQW5MZ2ZBWWZPMzdNczJ6X0llQTl5bWhLNXBEeFVNenhNY2lndkZKSE51RjZMWFZ3RjFyTUJxWkZFR3JVUGQxbDZaQ21mRzlSUF9NNlh5VzJIWmjSAc4BQVVfeXFMTW82endPWWRxQmJ2UzFSZWhyRHNKS1VJTEJrWFFOMzZhREM3YXNVUUljU1lJaDFZVUlGS0RiaWFXU2d1b1ZHblNmOGJYSHVmbjlrbmxsQkxRZUU1b3FBZk9aeDlRanZZM19lcEpFQ3Fac19KMnV2c2VYMjNXVGRBRVBza2taRERQZVVRUDhxZXBtWW4zN0xTWC1DWDhZbnNRdmVFVWJST0Zzd1NPLU5GMWMzbWtfY3MyeDJVbjd2MnBra2pfMkZSZ1UzZnVuX3c?oc=5",
-        "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg",
-        "caption": "DMK | TVK | MLA-களுக்கு கார்..அமைச்சர் ஆதவ் Vs உதயநிதி நேருக்கு நேர் காரசார விவாதம் - Thanthi TV"
-      }
-    },
-    {
-      "issue_en": "National Anthem Issue",
-      "issue_ta": "தேசிய கீத விவகாரம்",
-      "trigger_context": "Unspecified incident or interpretation regarding the National Anthem sparked a passionate debate in the legislative assembly.",
-      "parties_involved": [
-        "Ruling Party",
-        "Opposition Parties"
-      ],
-      "key_speakers": [],
-      "opposition_stance_en": "Details not specified in source data, but implied to be a point of contention for opposition.",
-      "government_reply_en": "Details not specified in source data, but implied government defended its stance or actions.",
-      "outcome_en": "Heated debate.",
-      "details_ta": "தேசிய கீதம் தொடர்பான ஏதேனும் ஒரு சம்பவம் அல்லது விளக்கத்தின் அடிப்படையில் சட்டமன்றத்தில் ஒரு காரசாரமான விவாதம் நடைபெற்றது. எதிர்க்கட்சிகள் ஆட்சேபணைகளை எழுப்ப, அரசு தரப்பு பதிலளித்தது.",
-      "intensity": "High",
-      "media": {
-        "media_type": "youtube_video",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlRRdVZ0c2FuamZDZk1FNzlyUHpnbFVYZlNnYmtXRVgt05ySFpGaUxKcVBJcVBUaGRUdkVuTk13bUN6LUlTY2NHM1FJRnFzVWs5RG5Rc2IweFY2eTZpTG1NVDkwYmFQNnVaLXN5djh2Q21FNExfSWxkSjU2X3podEhTRmtyWG8yU1BFRFlrVlozSF9qY2IwNk1ZWFVRbF9HNzRCWHVTRDg3aG5lMk5fcTBIUGVHOW9BWDc40gHIAUFVX3lxTFBIc3R0a3RFVnJmWEJsY0R2QWlzNWtXWWdzdHBtLWV4bFF4WmpqMlFTMXJFRUxOTjZZNnR2ZHN5bHUxRjRqLS1IUS1ZWVdWTEkxVEExWUV3Q0IwMTN0bUpNWUFFWEpZZ1F4ZjlZZEZQM3laZ2RSWE9xZ1RWMVRVLWdQT2EyX0Zhb1BQXzRycmloNFdJT3VCdmxQNGFHWUNtcngxcU50dTJZNjBBc3lJUkJMTTRGd180Zlo0UTlqUGFEYzRrbU1GcEZH?oc=5",
-        "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg",
-        "caption": "National Anthem Issue | சூடுபிடித்த தேசிய கீதம் விவகாரம்.. சட்டப்பேரவையில் காரசார விவாதம் - Thanthi TV"
-      }
-    },
-    {
-      "issue_en": "Udhayanidhi's Speech and Kamaraj's Reaction",
-      "issue_ta": "உதயநிதியின் பேச்சு மற்றும் காமராஜின் எதிர்வினை",
-      "trigger_context": "A statement made by Udhayanidhi Stalin in the assembly provoked a strong and angry response from Kamaraj, leading to a heated exchange.",
-      "parties_involved": [
-        "DMK",
-        "AIADMK (implied for Kamaraj)"
-      ],
-      "key_speakers": [
-        "Udhayanidhi Stalin",
-        "Kamaraj"
-      ],
-      "opposition_stance_en": "Udhayanidhi's statement, though unspecified, was clearly controversial and challenged the other side.",
-      "government_reply_en": "Kamaraj's reaction indicates a sharp rebuttal or condemnation of Udhayanidhi's remarks.",
-      "outcome_en": "Fiery exchange of words; Kamaraj stood up and lashed out.",
-      "details_ta": "சட்டமன்றத்தில் உதயநிதி ஸ்டாலின் பேசிய ஒரு கருத்து, காமராஜ் என்பவரிடமிருந்து கடுமையான மற்றும் கோபமான எதிர்வினையைத் தூண்டியது. இதனால் காரசாரமான வாக்குவாதம் ஏற்பட்டது. உதயநிதியின் பேச்சு சர்ச்சைக்குரியதாக இருந்திருக்கலாம், அதற்கு காமராஜ் பதிலடி கொடுத்தார்.",
-      "intensity": "High",
-      "media": {
-        "media_type": "youtube_video",
-        "url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
-        "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg",
-        "caption": "CM Vijay | TN Assembly | Udhayanidhi Speech | உதயநிதி விட்ட வார்த்தை - எழுந்து நின்று சீறிய காமராஜ் - YouTube"
-      }
-    },
-    {
-      "issue_en": "DMK MLAs Ruckus, Slogans, and Surrounding Speaker's Chair",
-      "issue_ta": "திமுக எம்எல்ஏ-க்கள் அமளி, கோஷங்கள் மற்றும் சபாநாயகர் இருக்கையை முற்றுகையிடுதல்",
-      "trigger_context": "DMK MLAs staged a protest by sitting on the floor, raising slogans, and surrounding the Speaker's chair during a session where CM Vijay was present.",
-      "parties_involved": [
-        "DMK",
-        "TVK (Ruling Party)"
-      ],
-      "key_speakers": [
-        "CM Vijay (present)"
-      ],
-      "opposition_stance_en": "DMK protested the ruling party's actions/policies by disrupting assembly proceedings.",
-      "government_reply_en": "CM Vijay was present during the ruckus, indicating a session disrupted by opposition protest.",
-      "outcome_en": "Assembly ruckus, slogans, and disruption of proceedings.",
-      "details_ta": "சட்டமன்றக் கூட்டத்தொடரின் போது, திமுக எம்எல்ஏ-க்கள் தரையில் அமர்ந்து, கோஷமிட்டு, சபாநாயகர் இருக்கையை முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டனர். முதலமைச்சர் விஜய் அப்போது சபையில் இருந்தார். ஆளுங்கட்சியின் நடவடிக்கைகளுக்கு எதிர்ப்பு தெரிவித்து திமுக இந்த அமளியை ஏற்படுத்தியது.",
-      "intensity": "High",
-      "media": {
-        "media_type": "youtube_video",
-        "url": "https://www.youtube.com/watch?v=CBMiVEFVX3l",
         "thumbnail_url": "https://img.youtube.com/vi/CBMiVEFVX3l/hqdefault.jpg",
-        "caption": "T.N Assembly Ruckus: DMK MLAs Sit On Floor, Raise Slogans & Surround Speaker’s Chair | CM Vijay|N18S - YouTube"
+        "caption": "Tamil Nadu Assembly Ruckus and CM Vijay's entry"
       }
     }
   ],
   "high_command_direct_statements": [
     {
-      "leader_name": "DMK Minister",
+      "leader_name": "M.K. Stalin",
       "party": "DMK",
-      "statement_headline_en": "Condemnation of TVK Government on Madurai Child Death",
-      "statement_headline_ta": "மதுரை சிறுவன் மரணம் குறித்து தவெக அரசுக்கு திமுக அமைச்சர் கண்டனம்",
-      "core_message_en": "Expressing deep sorrow over the recovery of a 7-year-old boy's body in Madurai, implying a failure of law and order under the TVK government.",
-      "core_message_ta": "மதுரை மேலூர் அருகே காணாமல் போன 7 வயது சிறுவன் சடலமாக மீட்கப்பட்ட செய்தி மிகுந்த வேதனையளிப்பதாகக் கூறி, தவெக ஆட்சியில் சட்டம் ஒழுங்கு சீர்கேட்டைக் குறிப்பால் உணர்த்தப்பட்டது.",
-      "target_party_or_issue": "TVK Government / Law and Order",
-      "source_tier": "Tier 5 (Direct Official Handle)",
+      "statement_headline_en": "Stalin condemns Chennai youth murder, blames TVK government for law & order breakdown",
+      "statement_headline_ta": "சென்னை இளைஞர் வெட்டிக்கொலை: \"தவெக ஆட்சி இருக்கும்வரை தமிழ்நாட்டுக்கு விடிவே இல்லை\"- ஸ்டாலின் கண்டனம்",
+      "core_message_en": "The Chennai youth murder indicates that there is no hope for Tamil Nadu as long as the TVK government is in power. This government is responsible for the deteriorating law and order situation.",
+      "core_message_ta": "சென்னை இளைஞர் வெட்டிக்கொலை சம்பவம், தவெக ஆட்சி இருக்கும்வரை தமிழ்நாட்டுக்கு விடிவே இல்லை என்பதைக் காட்டுகிறது. சட்டம் ஒழுங்கு சீர்குலைவுக்கு இந்த அரசே காரணம்.",
+      "target_party_or_issue": "TVK Government, Law and Order",
+      "source_tier": "Tier 4 (Digital Investigative Media reporting direct statement)",
       "media": {
-        "media_type": "poster",
+        "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK Minister's statement on Madurai incident"
+        "caption": "M.K. Stalin statement"
       }
     },
     {
-      "leader_name": "DMK Minister",
+      "leader_name": "M.K. Stalin",
       "party": "DMK",
-      "statement_headline_en": "Strong Condemnation of TVK Government over Theni Prison Escape",
-      "statement_headline_ta": "தேனி சிறைக்கைதிகள் தப்பித்தது குறித்து தவெக அரசுக்கு திமுக அமைச்சர் கடும் கண்டனம்",
-      "core_message_en": "Strongly condemning the TVK government, labeling it a 'foolish rule' after 17 prisoners escaped from Theni district jail, highlighting administrative failure.",
-      "core_message_ta": "தேனி மாவட்ட சிறையில் இருந்து 17 கைதிகள் தப்பியோடிய நிகழ்வைக் கடுமையாகக் கண்டித்து, இது 'மூடர் கூட்ட ஆட்சி' என்று கூறி நிர்வாகச் சீர்கேட்டைக் குறிப்பிட்டு விமர்சனம்.",
-      "target_party_or_issue": "TVK Government / Administrative Failure, Law and Order",
-      "source_tier": "Tier 5 (Direct Official Handle)",
+      "statement_headline_en": "Stalin condemns Dr. Kalaiyarasan's arrest, accuses TVK of 'fascism'",
+      "statement_headline_ta": "“பாசிசத்தில் பா.ஜ.க-வையே தவெக மிஞ்சுகிறது!” - முனைவர் கலையரசன் கைதுக்கு மு.க.ஸ்டாலின் காட்டம்!",
+      "core_message_en": "The TVK government is surpassing even the BJP in 'fascism' with actions like the arrest of Dr. Kalaiyarasan, indicating an authoritarian crackdown on dissent.",
+      "core_message_ta": "முனைவர் கலையரசன் கைது போன்ற செயல்கள் மூலம் தவெக அரசு 'பாசிசத்தில்' பாஜகவையே மிஞ்சுகிறது. இது கருத்து வேறுபாடுகளை ஒடுக்கும் எதேச்சாதிகார போக்கைக் காட்டுகிறது.",
+      "target_party_or_issue": "TVK Government, Authoritarianism, BJP comparison",
+      "source_tier": "Tier 4 (Digital Investigative Media reporting direct statement)",
       "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK Minister's statement on Theni prison escape"
-      }
-    },
-    {
-      "leader_name": "DMK Minister",
-      "party": "DMK",
-      "statement_headline_en": "Criticism of High Electricity Purchase Cost under CM Vijay's Rule",
-      "statement_headline_ta": "முதலமைச்சர் விஜய் ஆட்சியில் அதிக விலைக்கு மின்சாரம் வாங்குவதற்கு கண்டனம்",
-      "core_message_en": "Criticized CM Vijay's TVK government as a 'Cheap CM's corrupt rule' for purchasing electricity at an unprecedented ₹35 per unit.",
-      "core_message_ta": "முதலமைச்சர் விஜயின் தவெக ஆட்சியை 'Cheap CM-இன் சீழ்பிடித்த ஆட்சி' என்று விமர்சித்து, ஒரு யூனிட் மின்சாரத்தை வரலாறு காணாத அளவுக்கு ரூ.35-க்கு வாங்குவது குறித்து கண்டனம்.",
-      "target_party_or_issue": "TVK Government / Corruption / Electricity Policy",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK Minister's statement on electricity purchase"
-      }
-    },
-    {
-      "leader_name": "DMK Minister",
-      "party": "DMK",
-      "statement_headline_en": "Allegation of TVK Government Cheating on Job Regularization Promise",
-      "statement_headline_ta": "தற்காலிகப் பணிகளை நிரந்தரமாக்கும் தேர்தல் வாக்குறுதியில் தவெக அரசு ஏமாற்றியதாக குற்றச்சாட்டு",
-      "core_message_en": "Accused the TVK government of fraudulently misleading the public by promising to regularize temporary jobs during elections but failing to deliver.",
-      "core_message_ta": "தமிழ்நாட்டில் தற்காலிகப் பணியில் இருப்பவர்களின் பணிகளை நிரந்தரமாக்குவோம் என மோசடியாக தேர்தல் வாக்குறுதியளித்து தவெக அரசு ஏமாற்றியதாகக் குற்றச்சாட்டு.",
-      "target_party_or_issue": "TVK Government / Election Promises / Employment",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
+        "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "DMK Minister's statement on job promises"
+        "caption": "M.K. Stalin statement on Dr. Kalaiyarasan's arrest"
       }
     },
     {
-      "leader_name": "DMK Minister",
+      "leader_name": "Kanimozhi",
       "party": "DMK",
-      "statement_headline_en": "Criticism over Non-Provision of FIR Copy for Arrested Leader",
-      "statement_headline_ta": "கைது செய்யப்பட்ட தலைவருக்கு FIR நகல் வழங்கப்படாதது குறித்து கண்டனம்",
-      "core_message_en": "A DMK minister criticized that the FIR copy for the case filed against a political party's woman executive (or an arrested individual, likely Anbil Mahesh) was not even provided, implying lack of transparency or due process.",
-      "core_message_ta": "அரசியல் கட்சி பெண் நிர்வாகியின் (அல்லது அன்பில் மகேஷ் போன்ற கைது செய்யப்பட்ட நபரின்) மீது போடப்பட்ட வழக்கின் எப்.ஐ.ஆர். நகலைக்கூட கையில் கொடுக்கவில்லை என்று திமுக அமைச்சர் கண்டனம் தெரிவித்தார். இது வெளிப்படைத்தன்மை இல்லாமை அல்லது சட்ட நடைமுறை மீறலைக் குறிக்கிறது.",
-      "target_party_or_issue": "TVK Government / Police / Justice System",
-      "source_tier": "Tier 5 (Direct Official Handle)",
+      "statement_headline_en": "Kanimozhi questions TVK government's commitment to women's welfare",
+      "statement_headline_ta": "\"வாக்களித்த பெண்களுக்கு வேட்டு வைப்பதுதான் தவெக அரசு அவர்களுக்குத் தரும் பரிசா?\"- கனிமொழி காட்டம்",
+      "core_message_en": "Is 'shooting down' the women who voted for the TVK government the gift they are offering? This highlights the government's perceived failure to protect and support women.",
+      "core_message_ta": "தவெக அரசுக்கு வாக்களித்த பெண்களுக்கு 'வேட்டு வைப்பது'தான் அவர்கள் தரும் பரிசா? இது பெண்களைப் பாதுகாப்பதிலும் ஆதரிப்பதிலும் அரசின் தோல்வியை எடுத்துக்காட்டுகிறது.",
+      "target_party_or_issue": "TVK Government, Women's Welfare",
+      "source_tier": "Tier 4 (Digital Investigative Media reporting direct statement)",
       "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK Minister's statement on FIR"
-      }
-    },
-    {
-      "leader_name": "DMK Minister",
-      "party": "DMK",
-      "statement_headline_en": "Criticism on Cases Filed for Speaking Against CM Vijay",
-      "statement_headline_ta": "முதலமைச்சர் விஜய்க்கு எதிராகப் பேசியவர்களுக்கு வழக்குப்பதிவு செய்வது குறித்த கண்டனம்",
-      "core_message_en": "Criticized the filing of cases under 7 sections against individuals for allegedly speaking ill of CM Vijay, implying suppression of dissent.",
-      "core_message_ta": "முதலமைச்சர் விஜய் குறித்து அவதூறாகப் பேசியதாக 7 பிரிவுகளின் கீழ் வழக்குப்பதிவு செய்யப்பட்டதைக் கண்டித்து, கருத்து சுதந்திரம் ஒடுக்கப்படுவதாக விமர்சனம்.",
-      "target_party_or_issue": "TVK Government / Freedom of Speech / Police",
-      "source_tier": "Tier 5 (Direct Official Handle)",
-      "media": {
-        "media_type": "poster",
+        "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "DMK Minister's statement on cases against critics"
+        "caption": "Kanimozhi statement"
       }
     },
     {
-      "leader_name": "DMK Minister",
+      "leader_name": "Kanimozhi",
       "party": "DMK",
-      "statement_headline_en": "Clarification on Alliance with NTK and Criticism of its Ideology",
-      "statement_headline_ta": "நாதகவுடனான கூட்டணி இல்லை மற்றும் கொள்கை ரீதியான விமர்சனம்",
-      "core_message_en": "A DMK minister clarified that there is no alliance between DMK and Naam Tamilar Katchi (NTK), questioning NTK's rhetoric on 'Brahmanical servitude'.",
-      "core_message_ta": "கழகத்துக்கும் (திமுக) நாம் தமிழர் கட்சிக்கும் இடையே எந்தக் கூட்டணியும் இல்லை என்று திமுக அமைச்சர் தெளிவுபடுத்தினார். 'பார்ப்பனிய அடிமைத்தனத்தைப் பற்றி பனையூர் அடிமைகள் பேசலாமா?' என்று நாதகவின் சித்தாந்தம் குறித்து விமர்சனம்.",
-      "target_party_or_issue": "Naam Tamilar Katchi (NTK)",
+      "statement_headline_en": "Kanimozhi condemns TVK government's inaction on Thoothukudi student murder",
+      "statement_headline_ta": "தூத்துக்குடி: கல்லூரி மாணவர் வெட்டிக் கொலை; 'சுரணையற்றுச் சுணக்கம் காட்டும் தவெக அரசு'- கனிமொழி",
+      "core_message_en": "The TVK government is 'insincere and sluggish' in addressing the brutal murder of a college student in Thoothukudi, showing a lack of concern for public safety.",
+      "core_message_ta": "தூத்துக்குடியில் கல்லூரி மாணவர் வெட்டிக்கொல்லப்பட்ட விவகாரத்தில் தவெக அரசு 'சுரணையற்று சுணக்கம்' காட்டுவதாக கனிமொழி கண்டனம் தெரிவித்தார், இது பொதுப் பாதுகாப்பு குறித்த கவலையின்மையைக் காட்டுகிறது.",
+      "target_party_or_issue": "TVK Government, Law and Order",
+      "source_tier": "Tier 4 (Digital Investigative Media reporting direct statement)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Kanimozhi statement"
+      }
+    },
+    {
+      "leader_name": "DMK Key Ministers",
+      "party": "DMK",
+      "statement_headline_en": "DMK condemns Anbil Mahesh's arrest as political vendetta",
+      "statement_headline_ta": "முன்னாள் அமைச்சர் திரு. @Anbil_Mahesh அவர்களை அரசியல் பழிவாங்கும் நோக்கில் கைது செய்திருக்கிறது தவெக அரசு.",
+      "core_message_en": "The TVK government has arrested former minister Anbil Mahesh with political vendetta in mind. This act has caused widespread concern across Tamil Nadu.",
+      "core_message_ta": "முன்னாள் அமைச்சர் திரு. @Anbil_Mahesh அவர்களை தவெக அரசு அரசியல் பழிவாங்கும் நோக்கில் கைது செய்திருக்கிறது. தமிழ்நாடு முழுவதும் இச்செயல் குறித்து கவலை ஏற்பட்டுள்ளது.",
+      "target_party_or_issue": "TVK Government, Political Vendetta",
       "source_tier": "Tier 5 (Direct Official Handle)",
       "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK Minister's statement on NTK alliance"
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "DMK statement on Anbil Mahesh arrest"
       }
     },
     {
-      "leader_name": "Udhayanidhi Stalin",
+      "leader_name": "DMK Key Ministers",
       "party": "DMK",
-      "statement_headline_en": "Deputy CM Udhayanidhi Stalin holds party meeting",
-      "statement_headline_ta": "துணை முதலமைச்சர் உதயநிதி ஸ்டாலின் கட்சி ஆலோசனை கூட்டம்",
-      "core_message_en": "Deputy Chief Minister Udhayanidhi Stalin convened a consultation meeting with party executives in the Villupuram Vikravandi constituency.",
-      "core_message_ta": "மாண்புமிகு துணை முதலமைச்சர் திரு உதயநிதி ஸ்டாலின் அவர்கள் விழுப்புரம் விக்கிரவாண்டி சட்டமன்றத் தொகுதி கழக நிர்வாகிகளுடன் ஆலோசனை கூட்டம் நடத்தினார்.",
-      "target_party_or_issue": "DMK Party Organization",
+      "statement_headline_en": "DMK criticizes TVK for broken promise on temporary staff regularization",
+      "statement_headline_ta": "தமிழ்நாட்டில் தற்காலிகப் பணியில் இருப்பவர்களின் பணிகளை நிரந்தரமாக்குவோம் என மோசடியாகத் தேர்தல் வாக்குறுதியளித்து ஏமாற்றிய தவெக அர",
+      "core_message_en": "The TVK government has fraudulently cheated temporary staff by making false election promises to regularize their positions. This is a betrayal of trust.",
+      "core_message_ta": "தமிழ்நாட்டில் தற்காலிகப் பணியில் இருப்பவர்களின் பணிகளை நிரந்தரமாக்குவோம் என தவெக அரசு மோசடியாக தேர்தல் வாக்குறுதியளித்து ஏமாற்றியுள்ளது. இது நம்பிக்கைத் துரோகம்.",
+      "target_party_or_issue": "TVK Government, Temporary Staff Regularization",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "DMK statement on temporary staff"
+      }
+    },
+    {
+      "leader_name": "DMK Key Ministers",
+      "party": "DMK",
+      "statement_headline_en": "DMK condemns Theni jailbreak, calls TVK rule 'foolish'",
+      "statement_headline_ta": "தேனி மாவட்ட சிறையில் இருந்து 17 கைதிகள் தப்பியோடும் அளவுக்கு சீர்ட்கெட்டு போய் இருக்கும் இந்த மூடர் கூட்ட ஆட்சியை வன்மையாக கண்டி",
+      "core_message_en": "The escape of 17 prisoners from Theni district jail demonstrates the severe deterioration of the 'foolish' TVK government's administration. This highlights a grave security lapse.",
+      "core_message_ta": "தேனி மாவட்ட சிறையில் இருந்து 17 கைதிகள் தப்பியோடும் அளவுக்கு சீர்கெட்டுப் போயிருக்கும் இந்த 'மூடர் கூட்ட' ஆட்சியை வன்மையாக கண்டிக்கிறோம். இது பெரும் பாதுகாப்பு குறைபாட்டைக் காட்டுகிறது.",
+      "target_party_or_issue": "TVK Government, Law & Order, Prison Security",
       "source_tier": "Tier 5 (Direct Official Handle)",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "Udhayanidhi Stalin at meeting"
+        "caption": "DMK statement on Theni jailbreak"
+      }
+    },
+    {
+      "leader_name": "DMK Key Ministers",
+      "party": "DMK",
+      "statement_headline_en": "DMK expresses grief over Madurai boy's murder",
+      "statement_headline_ta": "மதுரை, மேலூர் அருகே நேற்றைய தினம் காணாமல் போன 7 வயது சிறுவன் இன்று சடலமாக மீட்கப்பட்ட செய்தி மிகுந்த வேதனையளிக்கிறது. தமிழ்நாட்ட",
+      "core_message_en": "The recovery of the body of a 7-year-old boy who went missing near Melur, Madurai, is extremely painful. This incident raises serious concerns about child safety and law and order in Tamil Nadu.",
+      "core_message_ta": "மதுரை, மேலூர் அருகே நேற்றைய தினம் காணாமல் போன 7 வயது சிறுவன் இன்று சடலமாக மீட்கப்பட்ட செய்தி மிகுந்த வேதனையளிக்கிறது. தமிழ்நாட்டில் குழந்தைகள் பாதுகாப்பு மற்றும் சட்டம் ஒழுங்கு குறித்த ஆழ்ந்த கவலையை இந்த சம்பவம் எழுப்புகிறது.",
+      "target_party_or_issue": "Law & Order, Child Safety",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK statement on Madurai boy's murder"
       }
     }
   ],
   "political_criticisms_and_rebuttals": [
     {
-      "accuser_leader_or_party": "DMK Leaders (Stalin, Kanimozhi, Udhayanidhi implied)",
-      "targeted_leader_or_party": "Anbil Mahesh (arrested) / TVK Government",
-      "core_criticism_en": "Anbil Mahesh's arrest is termed as 'administrative failure, revenge, and oppression,' alleging political motives behind the action.",
-      "core_criticism_ta": "அன்பில் மகேஷ் கைது நடவடிக்கை 'நிர்வாகச் சீர்கேடு, பழிவாங்கல், அடக்குமுறை' என்று திமுக தலைவர்கள் விமர்சித்தனர். இதற்குப் பின்னால் அரசியல் உள்நோக்கம் இருப்பதாகக் குற்றச்சாட்டு.",
-      "rebuttal_or_defense_en": "Minister Aadhav Arjuna (TVK) stated that there was 'no political vendetta' in Anbil Mahesh's arrest, implying the action was legitimate.",
-      "rebuttal_or_defense_ta": "அமைச்சர் ஆதவ் அர்ஜுனா (தவெக) அன்பில் மகேஷ் கைதில் 'அரசியல் காழ்ப்புணர்ச்சி இல்லை' என்று மறுத்தார், இந்த நடவடிக்கை சட்டபூர்வமானது என்று குறிப்பிட்டார்.",
-      "political_significance": "A major political controversy highlighting accusations of political targeting by the ruling party against the opposition.",
+      "accuser_leader_or_party": "Udhayanidhi Stalin / DMK leaders",
+      "targeted_leader_or_party": "Minister Rajmohan (TVK)",
+      "core_criticism_en": "DMK questions the legitimacy of TVK's online membership drive, implying that 'online joiners' are not true executives.",
+      "core_criticism_ta": "'ஆன்லைனில் இணைந்தவர்கள் எல்லாம் தவெக நிர்வாகிகளா?'- உதயநிதிக்கு அமைச்சர் ராஜ்மோகன் பதில்",
+      "rebuttal_or_defense_en": "Minister Rajmohan of TVK questioned if all who joined online could be considered TVK executives, implicitly defending the party's membership legitimacy while countering the criticism.",
+      "rebuttal_or_defense_ta": "'ஆன்லைனில் இணைந்தவர்கள் எல்லாம் தவெக நிர்வாகிகள்' என்று உதயநிதி முன்வைத்த குற்றச்சாட்டுக்கு அமைச்சர் ராஜ்மோகன் கேள்வி எழுப்பி, கட்சியின் உறுப்பினர் சேர்க்கையின் நம்பகத்தன்மையை மறைமுகமாகப் பாதுகாத்தார்.",
+      "political_significance": "Highlights the ongoing rivalry and scrutiny over party strength and recruitment methods between DMK and TVK.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Udhayanidhi Stalin vs Minister Rajmohan"
+      }
+    },
+    {
+      "accuser_leader_or_party": "DMK leaders",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "DMK leaders accuse TVK government of administrative failure, revenge politics, and suppression in the context of Anbil Mahesh's arrest.",
+      "core_criticism_ta": "அன்பில் மகேஸ் கைது: \"நிர்வாகச் சீர்கேடு, பழிவாங்கல், அடக்குமுறை\" - திமுக தலைவர்கள் சொல்வது என்ன?",
+      "rebuttal_or_defense_en": "Minister Aadhav Arjuna stated there was no political vendetta behind Anbil Mahesh's arrest, asserting it was based on police reports and due process.",
+      "rebuttal_or_defense_ta": "முன்னாள் அமைச்சர் அன்பில் மகேஸ் கைதுக்கு அரசியல் காழ்ப்புணர்ச்சி இல்லை என்று ஆதவ் அர்ஜுனா பதிலளித்தார். காவல்துறை அறிக்கையின் அடிப்படையிலேயே நடவடிக்கை எடுக்கப்பட்டதாக அவர் கூறினார்.",
+      "political_significance": "The arrest of a prominent opposition figure and the subsequent allegations of political vendetta fuel significant political controversy and heighten inter-party tensions.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK leaders criticizing Anbil Mahesh arrest"
-      }
-    },
-    {
-      "accuser_leader_or_party": "Kanimozhi (DMK)",
-      "targeted_leader_or_party": "TVK Government",
-      "core_criticism_en": "Criticized the TVK government for 'insensitive negligence' following the brutal murder of a college student in Tuticorin, highlighting law and order concerns.",
-      "core_criticism_ta": "தூத்துக்குடியில் கல்லூரி மாணவர் வெட்டிக் கொலை செய்யப்பட்ட சம்பவத்திற்குப் பிறகு, தவெக அரசு 'சுரணையற்றுச் சுணக்கம் காட்டுகிறது' என்று கனிமொழி (திமுக) சட்டம் ஒழுங்கு குறித்து விமர்சித்தார்.",
-      "rebuttal_or_defense_en": "No direct rebuttal found in the provided data, implying the criticism stands unaddressed by the government in these snippets.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் நேரடி மறுப்பு இல்லை.",
-      "political_significance": "Raises concerns about law and order and the government's perceived inaction or negligence in addressing such crimes, potentially impacting public trust.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Kanimozhi criticizes TVK govt"
-      }
-    },
-    {
-      "accuser_leader_or_party": "M.K. Stalin (DMK)",
-      "targeted_leader_or_party": "TVK Government",
-      "core_criticism_en": "Condemned the Chennai youth murder, stating 'no dawn for Tamil Nadu' as long as the TVK government is in power, implying a complete failure of governance.",
-      "core_criticism_ta": "சென்னை இளைஞர் வெட்டிக் கொலை செய்யப்பட்டதை கண்டித்து, 'தவெக ஆட்சி இருக்கும்வரை தமிழ்நாட்டுக்கு விடிவே இல்லை' என்று ஸ்டாலின் (திமுக) குற்றம் சாட்டினார், இது ஆட்சியின் முழுமையான தோல்வியை உணர்த்துகிறது.",
-      "rebuttal_or_defense_en": "No direct rebuttal found in the provided data.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் நேரடி மறுப்பு இல்லை.",
-      "political_significance": "A strong attack from the opposition leader on the ruling government's overall competence and ability to maintain peace and order.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-TamilNadu_Logo.svg.png",
-        "caption": "Stalin condemns TVK govt"
-      }
-    },
-    {
-      "accuser_leader_or_party": "Vanathi Srinivasan (BJP)",
-      "targeted_leader_or_party": "TVK Government",
-      "core_criticism_en": "Criticized the escape of 17 prisoners from Theni jail as an 'administrative failure' and an incident 'surpassing cinema', highlighting severe security lapses.",
-      "core_criticism_ta": "தேனி சிறையிலிருந்து 17 கைதிகள் தப்பித்ததை 'நிர்வாகத் தோல்வி' என்றும், 'சினிமாவையே மிஞ்சும் சம்பவம்' என்றும் வானதி சீனிவாசன் (பாஜக) விமர்சித்தார். கடுமையான பாதுகாப்பு குறைபாடுகளை இது எடுத்துக்காட்டுகிறது.",
-      "rebuttal_or_defense_en": "No direct rebuttal from TVK government in the provided data.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் தவெக அரசின் நேரடி மறுப்பு இல்லை.",
-      "political_significance": "A cross-party concern (DMK Minister also criticized) over the state's prison security and general administrative efficiency, damaging the government's image.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "Vanathi Srinivasan criticizes govt"
-      }
-    },
-    {
-      "accuser_leader_or_party": "Udhayanidhi Stalin (DMK)",
-      "targeted_leader_or_party": "Minister Rajmohan (TVK)",
-      "core_criticism_en": "Questioned the legitimacy of TVK's online membership drive, asking if 'all those who joined online are TVK administrators'.",
-      "core_criticism_ta": "'ஆன்லைனில் இணைந்தவர்கள் எல்லாம் தவெக நிர்வாகிகளா?' என்று கேட்டு, தவெக-வின் ஆன்லைன் உறுப்பினர் சேர்க்கையின் நம்பகத்தன்மையை உதயநிதி ஸ்டாலின் (திமுக) கேள்வி எழுப்பினார்.",
-      "rebuttal_or_defense_en": "Minister Rajmohan (TVK) rebutted Udhayanidhi's claim, indicating that the online registrations were legitimate and part of the party's growth.",
-      "rebuttal_or_defense_ta": "அமைச்சர் ராஜ் மோகன் (தவெக) உதயநிதியின் கருத்தை மறுத்து, ஆன்லைன் பதிவுகள் உண்மையானவை என்றும் கட்சியின் வளர்ச்சிக்கு அவசியம் என்றும் கூறினார்.",
-      "political_significance": "A battle over party strength and membership legitimacy, crucial for projecting public support and organizational reach.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Udhayanidhi and Rajmohan"
+        "caption": "Anbil Mahesh arrest controversy"
       }
     },
     {
       "accuser_leader_or_party": "CPI Veerapandian",
       "targeted_leader_or_party": "TVK Government",
-      "core_criticism_en": "Stated 'we don't agree with TVK government following central government's path,' implying a deviation from state-centric policies or an undue influence from the center.",
-      "core_criticism_ta": "'ஒன்றிய அரசின் பாதையில் தவெக அரசு பயணிப்பதில் எங்களுக்கு உடன்பாடில்லை' என்று சிபிஐ வீரபாண்டியன் (கம்யூனிஸ்ட் கட்சி) விமர்சித்தார், இது மாநில நலனைப் புறக்கணித்து மத்திய அரசின் செல்வாக்கிற்கு உட்பட்டதாகக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No direct rebuttal from TVK government in the provided data.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் தவெக அரசின் நேரடி மறுப்பு இல்லை.",
-      "political_significance": "Highlights concerns over federalism and the state government's autonomy, a recurring theme in Tamil Nadu politics.",
+      "core_criticism_en": "CPI expresses disagreement with the TVK government aligning its policies with those of the Union government.",
+      "core_criticism_ta": "'ஒன்றிய அரசின் பாதையில் தவெக அரசு பயணிப்பதில் எங்களுக்கு உடன்பாடில்லை..!'- சிபிஐ வீரபாண்டியன் பேட்டி",
+      "rebuttal_or_defense_en": "Not explicitly mentioned in the provided data. The TVK government's stance would likely be that their policies serve state interests.",
+      "rebuttal_or_defense_ta": "வழங்கப்பட்ட தரவுகளில் வெளிப்படையாக குறிப்பிடப்படவில்லை. தவெக அரசு தனது கொள்கைகள் மாநில நலன்களுக்கு சேவை செய்வதாகக் கூறலாம்.",
+      "political_significance": "Indicates growing dissent from left-wing parties against the TVK government's policy directions, potentially hinting at future alliance realignments.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "CPI Veerapandian criticizes TVK govt"
+        "caption": "CPI Veerapandian criticizing TVK"
       }
     },
     {
-      "accuser_leader_or_party": "Kanimozhi (DMK)",
+      "accuser_leader_or_party": "Congress (Viswanathan)",
+      "targeted_leader_or_party": "DMK",
+      "core_criticism_en": "Congress leader Viswanathan states that DMK is not a 'big party' capable of teaching politics to Congress.",
+      "core_criticism_ta": "காங்கிரசுக்கு அரசியல் கற்றுத் தர திமுக பெரிய கட்சி கிடையாது Viswanathan",
+      "rebuttal_or_defense_en": "Jyothimani (Congress) previously reminded DMK that they also acted against Congress in 2014, implying hypocrisy. No direct rebuttal from DMK in the provided data.",
+      "rebuttal_or_defense_ta": "ஜோதிமணி (காங்கிரஸ்) முன்னதாக 2014 இல் திமுகவும் காங்கிரஸுக்கு எதிராக செயல்பட்டதை நினைவுபடுத்தினார். வழங்கப்பட்ட தரவுகளில் திமுகவிடமிருந்து நேரடி மறுப்பு எதுவும் இல்லை.",
+      "political_significance": "Exposes underlying tensions and historical grievances within the INDIA bloc, raising questions about alliance stability ahead of future elections.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Viswanathan (Congress) criticizing DMK"
+      }
+    },
+    {
+      "accuser_leader_or_party": "TTV Dhinakaran",
       "targeted_leader_or_party": "TVK Government",
-      "core_criticism_en": "Sharply criticized the TVK government, questioning if 'shooting down women who voted for them' is their gift, implying betrayal or harsh policies affecting women.",
-      "core_criticism_ta": "'வாக்களித்த பெண்களுக்கு வேட்டு வைப்பதுதான் தவெக அரசு அவர்களுக்குத் தரும் பரிசா?' என்று கனிமொழி (திமுக) கடுமையாக விமர்சித்தார், இது பெண்களுக்கு எதிரான கொள்கைகள் அல்லது வாக்குறுதி மீறல்களைக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No direct rebuttal from TVK government in the provided data, but a DMK minister's statement on 'unnecessary arrest' of a woman executive (Tier 5) echoes similar concerns.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் தவெக அரசின் நேரடி மறுப்பு இல்லை, ஆனால் திமுக அமைச்சரின் ஒரு பெண் நிர்வாகியின் 'தேவையற்ற கைது' குறித்த அறிக்கை (Tier 5) இதேபோன்ற கவலைகளை எதிரொலிக்கிறது.",
-      "political_significance": "Targets the government on women's welfare and social justice, crucial electoral segments.",
+      "core_criticism_en": "TTV Dhinakaran accuses the TVK government of indirectly promoting privatization through its 'Amma Kudineer' (Amma Drinking Water) scheme.",
+      "core_criticism_ta": "அம்மா குடிநீர்: ``தனியார்மயத்தை மறைமுகமாக ஊக்குவிக்கும் தவெக அரசு?\" - டிடிவி தினகரன் குற்றச்சாட்டு!",
+      "rebuttal_or_defense_en": "The TVK government would likely assert that the scheme aims to provide affordable and accessible drinking water to the public.",
+      "rebuttal_or_defense_ta": "பொதுமக்களுக்கு மலிவு விலையிலும் எளிதாகவும் குடிநீர் வழங்குவதே இந்த திட்டத்தின் நோக்கம் என்று தவெக அரசு வலியுறுத்தும்.",
+      "political_significance": "Highlights opposition concerns about the privatization of public services and the erosion of welfare schemes from previous administrations.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Kanimozhi's sharp criticism"
+        "caption": "TTV Dhinakaran criticizing TVK"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Mayor Priya (DMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Mayor Priya blames the TVK government for the increase in Dengue cases, implying administrative negligence.",
+      "core_criticism_ta": "”டெங்கு அதிகரிக்க தவெக-தான் காரணம், ஏனென்றால்.!” - மேயர் பிரியா குற்றச்சாட்டு",
+      "rebuttal_or_defense_en": "The TVK government would likely point to their efforts in public health and sanitation drives.",
+      "rebuttal_or_defense_ta": "தவெக அரசு தனது பொது சுகாதாரம் மற்றும் துப்புரவு நடவடிக்கைகளை சுட்டிக்காட்டும்.",
+      "political_significance": "Weaponizes public health issues as a point of contention between the ruling and opposition parties, affecting public perception of governance.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Mayor Priya criticizing TVK"
       }
     },
     {
       "accuser_leader_or_party": "NTK Karthika",
-      "targeted_leader_or_party": "Sengottaiyan",
-      "core_criticism_en": "Alleged that an arrest was made due to 'Sengottaiyan's pressure,' implying political interference in police actions.",
-      "core_criticism_ta": "ஒரு கைது நடவடிக்கை 'செங்கோட்டையன் அழுத்தத்தால்தான் நடந்துச்சு' என்று நாதக கார்த்திகா குற்றம் சாட்டினார், இது காவல்துறையின் நடவடிக்கைகளில் அரசியல் தலையீட்டைக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No rebuttal from Sengottaiyan or other parties in the provided data.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் செங்கோட்டையன் அல்லது பிற தரப்புகளின் மறுப்பு இல்லை.",
-      "political_significance": "Raises questions about the independence of the law enforcement and potential abuse of power.",
+      "targeted_leader_or_party": "TVK Government (influenced by S. Semottaiyan)",
+      "core_criticism_en": "NTK Karthika alleges that an arrest was made due to pressure from S. Semottaiyan.",
+      "core_criticism_ta": "`செங்கோட்டையன் அழுத்தத்தால்தான் இந்தக் கைது நடவடிக்கை நடந்துச்சு..!' - நாதக கார்த்திகா பேட்டி",
+      "rebuttal_or_defense_en": "Official sources would likely deny any external pressure influencing police action.",
+      "rebuttal_or_defense_ta": "அதிகாரபூர்வ ஆதாரங்கள் காவல்துறை நடவடிக்கையை பாதிக்கும் எந்தவொரு வெளிப்புற அழுத்தத்தையும் மறுக்கும்.",
+      "political_significance": "Raises questions about the independence of law enforcement and potential political interference in arrests.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
         "caption": "NTK Karthika's statement"
-      }
-    },
-    {
-      "accuser_leader_or_party": "Anbumani Ramadoss (PMK)",
-      "targeted_leader_or_party": "TVK Minister",
-      "core_criticism_en": "Condemned a TVK minister's statement, sarcastically asking 'Are soap, shampoo responsible for foam in rivers?', implying a simplistic or incorrect understanding of environmental issues.",
-      "core_criticism_ta": "'ஆறுகளில் நுரை பொங்குவதற்கு சோப்பு, ஷாம்புதான் காரணமா?' என்று தவெக அமைச்சரின் கருத்தை அன்புமணி (பாமக) கிண்டலுடன் விமர்சித்தார், இது சுற்றுச்சூழல் பிரச்சினைகள் குறித்த தவறான அல்லது மேலோட்டமான புரிதலைக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No rebuttal from the TVK minister in the provided data.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் தவெக அமைச்சரின் மறுப்பு இல்லை.",
-      "political_significance": "Highlights environmental concerns and questions the competence of government ministers on specific policy matters.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Anbumani criticizes TVK minister"
-      }
-    },
-    {
-      "accuser_leader_or_party": "Jyothimani (Congress)",
-      "targeted_leader_or_party": "DMK",
-      "core_criticism_en": "Recalled that 'DMK also did the same to Congress in 2014,' likely in the context of alliance or seat-sharing negotiations, implying a lack of consistency or fairness from DMK.",
-      "core_criticism_ta": "'2014-ல் திமுகவும் இதைத்தான் காங்கிரஸுக்கு செய்தது' என்று ஜோதிமணி (காங்கிரஸ்) குறிப்பிட்டார். இது கூட்டணி அல்லது தொகுதிப் பங்கீடு குறித்த பேச்சுவார்த்தையில் திமுகவின் நிலைத்தன்மையின்மை அல்லது நேர்மையின்மையைக் குறிக்கிறது.",
-      "rebuttal_or_defense_en": "No direct rebuttal from DMK in the provided data.",
-      "rebuttal_or_defense_ta": "கொடுக்கப்பட்ட தரவுகளில் திமுகவின் நேரடி மறுப்பு இல்லை.",
-      "political_significance": "A statement that could strain alliance relationships or remind voters of past political dealings.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "Jyothimani criticizes DMK"
       }
     }
   ],
@@ -375,42 +266,59 @@
     {
       "show_name": "Ayutha Ezhuthu",
       "channel": "Thanthi TV",
-      "topic_en": "Anbil Mahesh Case: Corruption Eradication or Diversion?",
-      "topic_ta": "ஆயுத எழுத்து | அன்பில் மகேஷ் வழக்கு: ஊழல் ஒழிப்பா? திசை திருப்பலா?",
+      "topic_en": "TVK Government's Administration and Political Landscape for 2026 Elections",
+      "topic_ta": "ஆட்சி நிர்வாகம், அரசியல்... தவெக அரசின் ஸ்கோர் என்ன? / யாருக்கும் யாருக்குமான போட்டி?",
       "panelists_or_parties": [
-        "Political Analysts",
-        "Party Representatives"
+        "DMK Representatives",
+        "TVK Representatives",
+        "Political Analysts"
       ],
-      "clash_summary_en": "Debate focused on whether the arrest of Anbil Mahesh indicates genuine efforts to curb corruption or is a politically motivated tactic to divert attention from other issues.",
-      "clash_summary_ta": "அன்பில் மகேஷ் கைதானது ஊழலை ஒழிக்கும் உண்மையான முயற்சியா அல்லது பிற பிரச்சினைகளிலிருந்து கவனத்தைத் திசைதிருப்பும் அரசியல் தந்திரமா என்பது குறித்து விவாதம் நடைபெற்றது. இதில் பல்வேறு அரசியல் ஆய்வாளர்கள் மற்றும் கட்சிப் பிரதிநிதிகள் கலந்துகொண்டனர்.",
+      "clash_summary_en": "Debates focused on the performance of the TVK government, its administrative effectiveness, and the likely competitors for the 2026 elections. A heated discussion also occurred regarding the Cauvery water dispute between Tamil Nadu and Karnataka. Minister Aadhav and Udhayanidhi engaged in a sharp debate about car allocations for MLAs.",
+      "clash_summary_ta": "தவெக அரசின் செயல்பாடு, நிர்வாகத் திறன் மற்றும் 2026 தேர்தல் போட்டியாளர்கள் குறித்து விவாதங்கள் நடந்தன. தமிழக அரசு மற்றும் கர்நாடக அரசுக்கு இடையே காவிரி நீர் பிரச்சனை குறித்தும் காரசார விவாதம் நடைபெற்றது. எம்.எல்.ஏ.க்களுக்கான கார் ஒதுக்கீடு குறித்து அமைச்சர் ஆதவ் மற்றும் உதயநிதி இடையே சூடான விவாதம் நடந்தது.",
+      "video_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWVOS1dvcXdjSzJsMTc5eFRtdGhVb1VxZGEwVTBLZERvN1JidTBWMlV6X2NxSmU0Nkk4UnhYVTdwcVZRY1hiWF9xVm1NNk5YclJRY01HMlQ4bXZIMXFUOU1vZkRBYlBFSkVxUGV4T1RJZ0pfZWFyMF9YUWpMQkhtSFJR0gGPAUFVX3lxTE1HSlZIdGgtNFpzaS1DOEZmYUY0OEF6cGNUWVJzUUtrR0FQTF8zY0Y3eDNCWFBmbDJweS1wemQ5SGl5UlNxd0hqV09MXzJfYmMwVVFQOUVZR2ZSYmV3UjJqYXlVTWdpLWp6SU9WUEp3QXZscUNXeGhyemNsYk9zeWRET2xJYnNNMXdSbHJfbjBr?oc=5",
+      "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Stalin's Criticism of TVK and Minister Ramesh's Response",
+      "topic_ta": "த.வெ.கவை விமர்சித்த ஸ்டாலினுக்கு அமைச்சர் ரமேஷ் பதில்",
+      "panelists_or_parties": [
+        "DMK Representatives",
+        "TVK Representatives",
+        "Political Analysts"
+      ],
+      "clash_summary_en": "A key debate segment focused on the reply given by Minister Ramesh to the criticisms raised by M.K. Stalin against the TVK government, highlighting the ongoing verbal battles between the two major parties.",
+      "clash_summary_ta": "தவெக அரசுக்கு எதிராக மு.க.ஸ்டாலின் முன்வைத்த விமர்சனங்களுக்கு அமைச்சர் ரமேஷ் அளித்த பதில் குறித்த ஒரு முக்கிய விவாதம் நடைபெற்றது, இது இரண்டு முக்கிய கட்சிகளுக்கிடையேயான தொடர்ச்சியான வாக்குவாதங்களை எடுத்துக்காட்டுகிறது.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
       "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
     },
     {
-      "show_name": "Ayutha Ezhuthu Makkal Munnal",
-      "channel": "Thanthi TV",
-      "topic_en": "TVK Government's Score on Governance and Politics",
-      "topic_ta": "ஆட்சி நிர்வாகம், அரசியல்... தவெக அரசின் ஸ்கோர் என்ன?",
+      "show_name": "Makkal Kural Debate",
+      "channel": "Polimer News",
+      "topic_en": "CM Vijay's Conditions for Ministers and Anbil Mahesh Arrest Clarification",
+      "topic_ta": "அமைச்சர்களுக்கு 3 கண்டிஷன்.. ஸ்ட்ரிக்ட்டா சொன்ன CM விஜய் / Anbil Mahesh Arrest: Police Clarification",
       "panelists_or_parties": [
-        "Political Analysts",
-        "Party Representatives"
+        "Party Representatives",
+        "Law Enforcement Representatives",
+        "Political Analysts"
       ],
-      "clash_summary_en": "Panelists analyzed and debated the performance of the TVK government across various aspects of governance and its political strategies, evaluating its achievements and shortcomings.",
-      "clash_summary_ta": "தவெக அரசின் ஆட்சி நிர்வாகம் மற்றும் அரசியல் உத்திகள் குறித்த செயல்திறன் விவாதிக்கப்பட்டது. கட்சியின் சாதனைகள் மற்றும் குறைபாடுகள் குறித்து ஆய்வாளர்கள் மற்றும் கட்சிப் பிரதிநிதிகள் கருத்து மோதலில் ஈடுபட்டனர்.",
+      "clash_summary_en": "Discussions centered around Chief Minister Vijay's strict conditions imposed on his ministers to ensure good governance. Another significant debate addressed the police clarification regarding the controversial arrest of former minister Anbil Mahesh, with panelists analyzing the legal and political implications.",
+      "clash_summary_ta": "முதலமைச்சர் விஜய் தனது அமைச்சர்களுக்கு நல்லாட்சியை உறுதி செய்வதற்காக விதித்த கடுமையான நிபந்தனைகள் குறித்து விவாதங்கள் நடைபெற்றன. முன்னாள் அமைச்சர் அன்பில் மகேஷின் சர்ச்சைக்குரிய கைது குறித்து காவல்துறை அளித்த விளக்கம் பற்றிய மற்றொரு முக்கிய விவாதம், சட்ட மற்றும் அரசியல் தாக்கங்களை ஆராய்ந்தது.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
       "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
     },
     {
       "show_name": "Nerkonda Paarvai",
       "channel": "Puthiyathalaimurai TV",
-      "topic_en": "Political Networks Behind Actor Ajith",
+      "topic_en": "Actor Ajithkumar and Political Networks",
       "topic_ta": "நடிகர் அஜித்தை பின்னும் அரசியல் வலைகள்",
       "panelists_or_parties": [
         "Political Analysts",
         "Film Critics"
       ],
-      "clash_summary_en": "Discussion centered on the alleged political affiliations or influence attempts surrounding actor Ajith Kumar, exploring his potential entry into politics or his support base's political leanings.",
-      "clash_summary_ta": "நடிகர் அஜித் குமார் சுற்றியுள்ள அரசியல் தொடர்புகள் அல்லது செல்வாக்கு முயற்சிகள் குறித்து விவாதம் நடைபெற்றது. அவரது அரசியல் பிரவேசத்திற்கான வாய்ப்புகள் அல்லது அவரது ஆதரவு தளத்தின் அரசியல் சாய்வுகள் ஆராயப்பட்டன.",
+      "clash_summary_en": "The debate explored the political implications and networks surrounding actor Ajithkumar, discussing whether he might enter politics and the potential impact on the existing political landscape.",
+      "clash_summary_ta": "நடிகர் அஜித்குமாரைச் சுற்றியுள்ள அரசியல் தாக்கங்கள் மற்றும் வலையமைப்புகள் குறித்து விவாதம் நடைபெற்றது, அவர் அரசியலில் நுழைய வாய்ப்புள்ளதா மற்றும் தற்போதைய அரசியல் சூழலில் அதன் தாக்கம் என்னவாக இருக்கும் என்பது குறித்து விவாதிக்கப்பட்டது.",
       "video_url": "https://www.youtube.com/watch?v=CBMiVkFVX3l",
       "thumbnail_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg"
     }
@@ -418,28 +326,28 @@
   "mous_and_investments": [
     {
       "company_or_investor": "Vikram Solar Group",
-      "sector": "Solar Energy / Manufacturing",
+      "sector": "Solar Energy",
       "investment_amount_inr": "₹15,037 Crore",
-      "jobs_created": "2,670",
+      "jobs_created": "2,600",
       "location_district": "Tirunelveli",
       "status": "MoU Signed",
-      "details_en": "A new solar manufacturing plant to be established in Tirunelveli district, creating significant employment opportunities. MoU signed in the presence of CM Vijay.",
-      "details_ta": "திருநெல்வேலி மாவட்டத்தில் புதிய சூரிய மின்சக்தி உற்பத்தி ஆலை அமைக்கப்பட உள்ளது. இது 2,670 வேலைவாய்ப்புகளை உருவாக்கும். முதலமைச்சர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
+      "details_en": "New solar manufacturing plant with a significant investment and job creation, signed in the presence of CM Vijay.",
+      "details_ta": "முதலமைச்சர் விஜய் முன்னிலையில் ₹15,037 கோடி முதலீட்டில் புதிய சூரிய சக்தி உற்பத்தி ஆலை அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது, இது 2,600 பேருக்கு வேலைவாய்ப்பை உருவாக்கும்.",
       "media": {
         "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "CM Vijay at Vikram Solar MoU signing"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay with Vikram Solar Group representatives"
       }
     },
     {
-      "company_or_investor": "MRF Ltd.",
+      "company_or_investor": "MRF",
       "sector": "Tyre Manufacturing",
-      "investment_amount_inr": "Not Specified",
-      "jobs_created": "Not Specified",
-      "location_district": "Sivaganga (SIPCOT Iluppaikudi)",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Sivagangai (SIPCOT Iluppaikkudi)",
       "status": "MoU Signed",
-      "details_en": "MRF company signed an MoU for establishing a new tire manufacturing plant in the SIPCOT Iluppaikudi Industrial Park in Sivaganga district.",
-      "details_ta": "சிவகங்கை மாவட்டம், சிப்காட்-இலுப்பைக்குடி தொழிற் பூங்காவில் புதிய டயர் உற்பத்தி ஆலை அமைப்பதற்கு MRF நிறுவனம் புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது.",
+      "details_en": "MoU signed for establishing a new tyre manufacturing plant at the SIPCOT Iluppaikkudi Industrial Park in Sivagangai district.",
+      "details_ta": "சிவகங்கை மாவட்டம், சிப்காட்- இலுப்பைக்குடி தொழிற் பூங்காவில் புதிய டயர் உற்பத்தி ஆலை அமைப்பதற்கான புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
@@ -447,146 +355,119 @@
       }
     },
     {
-      "company_or_investor": "National University of Singapore",
-      "sector": "Education",
-      "investment_amount_inr": "Not Specified",
-      "jobs_created": "Not Specified",
-      "location_district": "Not Specified",
+      "company_or_investor": "Singapore National University",
+      "sector": "Education & Research",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Tamil Nadu",
       "status": "MoU Signed",
-      "details_en": "Tamil Nadu government signed a Memorandum of Understanding with the National University of Singapore.",
-      "details_ta": "சிங்கப்பூர் தேசியப் பல்கலைக்கழகத்துடன் தமிழக அரசு புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது.",
+      "details_en": "Tamil Nadu government signed a Memorandum of Understanding with the National University of Singapore, likely for collaboration in education, research, and skill development.",
+      "details_ta": "சிங்கப்பூர் தேசியப் பல்கலைக்கழகத்துடன் தமிழக அரசு புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது. இது கல்வி, ஆராய்ச்சி மற்றும் திறன் மேம்பாட்டில் ஒத்துழைப்பிற்காக இருக்கலாம்.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "TN Govt & NUS MoU"
+        "caption": "TN Govt. signs MoU with NUS"
       }
     },
     {
-      "company_or_investor": "Australian University / International University",
-      "sector": "Higher Education",
-      "investment_amount_inr": "₹125 Crore",
-      "jobs_created": "Not Specified",
-      "location_district": "Chennai (Velachery)",
+      "company_or_investor": "(Unnamed Footwear Company)",
+      "sector": "Footwear Manufacturing",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "20,000",
+      "location_district": "Ulundurpet",
       "status": "MoU Signed",
-      "details_en": "An MoU was signed in the presence of CM Vijay for establishing an Australian University campus or an international university campus in Velachery, Chennai, with an investment of ₹125 Crore.",
-      "details_ta": "சென்னை வேளச்சேரியில் ரூ.125 கோடி முதலீட்டில் ஆஸ்திரேலிய பல்கலைக்கழக வளாகம் அல்லது சர்வதேச பல்கலைக்கழக வளாகம் அமைக்க முதலமைச்சர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "CM Vijay at University MoU signing"
-      }
-    },
-    {
-      "company_or_investor": "Indian Company (London MoU)",
-      "sector": "Not Specified",
-      "investment_amount_inr": "Not Specified",
-      "jobs_created": "Not Specified",
-      "location_district": "London (criticized location)",
-      "status": "MoU Signed (Controversial)",
-      "details_en": "The Tamil Nadu government issued a reply to criticisms regarding an MoU signed with an Indian company in London, indicating a controversial investment deal.",
-      "details_ta": "லண்டனில் இந்திய நிறுவனத்துடன் தமிழ்நாடு அரசு புரிந்துணர்வு ஒப்பந்தம் செய்துள்ளதா என்பது குறித்து எழுந்த விமர்சனங்களுக்கு அரசு தரப்பில் பதில் அளிக்கப்பட்டது. இது ஒரு சர்ச்சைக்குரிய முதலீட்டு ஒப்பந்தத்தைக் குறிக்கிறது.",
+      "details_en": "MoU signed for setting up a footwear manufacturing plant in Ulundurpet, expected to create 20,000 job opportunities.",
+      "details_ta": "உளுந்தூர்பேட்டையில் காலணிகள் உற்பத்தி ஆலை அமைப்பதற்கு முதல்வர் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது, இதன் மூலம் 20,000 பேருக்கு வேலைவாய்ப்பு கிடைக்கும் என்று எதிர்பார்க்கப்படுகிறது.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
-        "caption": "TN Govt reply on London MoU"
+        "caption": "Footwear plant MoU signing"
+      }
+    },
+    {
+      "company_or_investor": "(Multiple companies)",
+      "sector": "Various Industries",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Perambalur",
+      "status": "SIPCOT Industrial Park Development",
+      "details_en": "Development of SIPCOT Industrial Park in Perambalur, indicating future investments across various sectors.",
+      "details_ta": "பெரம்பலூரில் சிப்காட் தொழில் பூங்கா வளர்ச்சி, பல்வேறு துறைகளில் எதிர்கால முதலீடுகளை சுட்டிக்காட்டுகிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Perambalur SIPCOT development"
+      }
+    },
+    {
+      "company_or_investor": "(Various International Companies)",
+      "sector": "Key Sectors",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Singapore & London",
+      "status": "MoU Signed",
+      "details_en": "MoUs signed during CM M.K. Stalin's Singapore trip across key sectors. The government also responded to criticism regarding an MoU signed with an Indian company in London.",
+      "details_ta": "முதலமைச்சர் மு.க.ஸ்டாலின் சிங்கப்பூர் பயணத்தின்போது முக்கியத் துறைகளில் ஏற்பட்ட ஒப்பந்தங்கள். லண்டனில் இந்திய நிறுவனத்துடன் ஒரு புரிந்துணர்வு ஒப்பந்தம் கையெழுத்தானது குறித்த விமர்சனங்களுக்கு அரசு தரப்பு பதில் அளித்தது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "CM Stalin's overseas MoUs"
       }
     }
   ],
   "statewide_politics": [
     {
       "party_or_leader": "Dhanush (Actor)",
-      "topic_en": "Actor Dhanush's Entry into Politics and Outreach to Women's Wing",
-      "topic_ta": "நடிகர் தனுஷின் அரசியல் பிரவேசம் மற்றும் மகளிர் அணியினருடன் சந்திப்பு",
-      "analysis_en": "Actor Dhanush is making significant political moves, including meeting 3000 women wing administrators and gifting them silver lamps, signaling a serious entry into the political landscape. Speculations are rife about his potential challenge to existing political figures like Vijay and DMK.",
-      "analysis_ta": "நடிகர் தனுஷ் அரசியலில் குறிப்பிடத்தக்க நகர்வுகளை மேற்கொண்டு வருகிறார். 3000 மகளிர் அணி நிர்வாகிகளைச் சந்தித்து வெள்ளி விளக்குகளைப் பரிசாக வழங்கியது இதில் அடங்கும். இது அவரது தீவிர அரசியல் பிரவேசத்தைக் குறிக்கிறது. விஜய் மற்றும் திமுக போன்ற அரசியல் ஆளுமைகளுக்கு அவர் சவால் விடுவாரா என்பது குறித்த ஊகங்கள் பரவலாக உள்ளன.",
+      "topic_en": "Speculation and groundwork for political entry",
+      "topic_ta": "தனுஷ் அரசியலுக்கு வந்தால்… யாருக்கு சவால்? / அடுத்தடுத்த அரசியல் நகர்வு...",
+      "analysis_en": "Actor Dhanush is reportedly making significant political moves, including meeting 3000 women's wing executives and receiving a silver lamp. There is speculation about him holding a 'mini-conference' and his potential party name. Analysts are debating whether his entry would challenge CM Vijay's TVK or the DMK, indicating serious political groundwork and a potential new force in Tamil Nadu politics.",
+      "analysis_ta": "நடிகர் தனுஷ் அரசியலில் முக்கிய நகர்வுகளை மேற்கொண்டு வருவதாகத் தகவல்கள் தெரிவிக்கின்றன, இதில் 3000 மகளிர் அணி நிர்வாகிகளை சந்தித்து வெள்ளி விளக்கு பரிசு பெற்றது அடங்கும். அவர் 'மினி மாநாடு' நடத்துவது மற்றும் அவரது கட்சியின் பெயர் குறித்தும் ஊகங்கள் நிலவுகின்றன. அவரது வருகை முதலமைச்சர் விஜய்யின் தவெக அல்லது திமுகவுக்கு சவாலாக அமையுமா என்று அரசியல் ஆய்வாளர்கள் விவாதித்து வருகின்றனர், இது தமிழக அரசியலில் ஒரு புதிய சக்தி உருவாகி வருவதற்கான தீவிர அரசியல் பணிகளைக் குறிக்கிறது.",
       "media": {
         "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Dhanush meets women's wing"
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-TamilNadu_Logo.svg.png",
+        "caption": "Dhanush's political activities"
       }
     },
     {
-      "party_or_leader": "Tamilaga Vettri Kazhagam (TVK)",
-      "topic_en": "TVK's Strategy for Local Body Elections: 15% Seats for Allies",
-      "topic_ta": "தவெக-வின் உள்ளாட்சித் தேர்தல் வியூகம்: கூட்டணி கட்சிகளுக்கு 15% இடங்கள்",
-      "analysis_en": "The TVK has decided to allocate 15% of seats to its alliance partners in the upcoming local body elections, indicating a strategy to strengthen its coalition and expand its electoral reach.",
-      "analysis_ta": "வரும் உள்ளாட்சித் தேர்தலில் கூட்டணி கட்சிகளுக்கு 15 சதவீத இடங்களை வழங்க தவெக முடிவு செய்துள்ளது. இது அதன் கூட்டணியை வலுப்படுத்தவும், தேர்தல் பரவலை அதிகரிக்கவும் ஒரு வியூகத்தைக் குறிக்கிறது.",
+      "party_or_leader": "TVK",
+      "topic_en": "Local election alliance strategy",
+      "topic_ta": "உள்ளாட்சி தேர்தலில் கூட்டணி கட்சிகளுக்கு 15 சதவீத இடங்களை வழங்க தவெக முடிவு?",
+      "analysis_en": "The TVK is reportedly considering allocating 15% of seats to its alliance partners in the upcoming local body elections. This decision could significantly influence the dynamics of local politics and alliance formations.",
+      "analysis_ta": "வரவிருக்கும் உள்ளாட்சித் தேர்தல்களில் தனது கூட்டணிக் கட்சிகளுக்கு 15 சதவீத இடங்களை ஒதுக்கீடு செய்ய தவெக பரிசீலித்து வருவதாகத் தகவல்கள் வெளியாகியுள்ளன. இந்த முடிவு உள்ளாட்சி அரசியல் மற்றும் கூட்டணி அமைப்புகளின் இயக்கவியலை கணிசமாக பாதிக்கலாம்.",
       "media": {
         "media_type": "poster",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "TVK local body election strategy"
+        "caption": "TVK local election strategy"
       }
     },
     {
-      "party_or_leader": "Minister Rajmohan (TVK)",
-      "topic_en": "Minister Rajmohan Clarifies No Alliance with BJP for TVK",
-      "topic_ta": "தவெகவுக்கு பாஜக-வுடன் கூட்டணி இல்லை என அமைச்சர் ராஜ் மோகன் விளக்கம்",
-      "analysis_en": "Minister Rajmohan explicitly stated that as long as the last cadre of TVK exists, there will be no ties or alliance with the BJP, clarifying the party's stance amidst alliance speculations.",
-      "analysis_ta": "தவெக-வின் கடைசித் தொண்டன் இருக்கும் வரை பாஜக-வோடு ஒட்டுமில்லை, உறவுமில்லை என்று அமைச்சர் ராஜ் மோகன் தெளிவாகக் கூறினார். இது கூட்டணி ஊகங்களுக்கு மத்தியில் கட்சியின் நிலைப்பாட்டைத் தெளிவுபடுத்துகிறது.",
+      "party_or_leader": "Thirumavalavan (VCK) / Vijay (TVK)",
+      "topic_en": "Speculation of new alliance formation",
+      "topic_ta": "விஜய்யோடு கைகோர்க்கும் திருமா? - திமுக கூட்டணியில் அடுத்த இடி",
+      "analysis_en": "Thanthi TV speculated about VCK leader Thirumavalavan potentially joining hands with CM Vijay, suggesting a major shake-up within the DMK-led alliance. This could be a significant political realignment.",
+      "analysis_ta": "விஜய்யுடன் திருமாவளவன் கைகோர்க்கக்கூடும் என்று தந்தி டிவி ஊகித்தது, இது திமுக தலைமையிலான கூட்டணியில் ஒரு பெரிய மாற்றத்தை ஏற்படுத்தலாம் என்று பரிந்துரைத்தது. இது ஒரு குறிப்பிடத்தக்க அரசியல் மறுசீரமைப்பாக இருக்கலாம்.",
       "media": {
         "media_type": "photo",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
-        "caption": "Minister Rajmohan on BJP alliance"
-      }
-    },
-    {
-      "party_or_leader": "DMK Minister",
-      "topic_en": "DMK Minister Clarifies No Alliance with Naam Tamilar Katchi",
-      "topic_ta": "நாம் தமிழர் கட்சியுடன் திமுகவுக்கு கூட்டணி இல்லை என திமுக அமைச்சர் தெளிவுபடுத்தினார்",
-      "analysis_en": "A DMK minister made a direct statement clarifying that there is no alliance between DMK and Naam Tamilar Katchi, also making critical remarks about NTK's ideology.",
-      "analysis_ta": "திமுகவுக்கும் நாம் தமிழர் கட்சிக்கும் இடையே எந்தக் கூட்டணியும் இல்லை என்று திமுக அமைச்சர் நேரடியாகத் தெளிவுபடுத்தினார். அத்துடன் நாதக-வின் சித்தாந்தம் குறித்தும் விமர்சனக் கருத்துக்களைத் தெரிவித்தார்.",
-      "media": {
-        "media_type": "poster",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "DMK Minister on NTK alliance"
-      }
-    },
-    {
-      "party_or_leader": "DMK",
-      "topic_en": "Implications of Anbil Mahesh's Arrest for DMK",
-      "topic_ta": "அன்பில் மகேஷ் கைதும்; திமுகவுக்கு இதன் தாக்கமும்",
-      "analysis_en": "The arrest of Anbil Mahesh and the surrounding allegations of a 'corruption ring' involving former ministers pose a significant challenge for DMK, raising questions about how the party will confront these issues politically.",
-      "analysis_ta": "அன்பில் மகேஷ் கைது மற்றும் முன்னாள் அமைச்சர்களைச் சுற்றியுள்ள 'ஊழல் வளையம்' குறித்த குற்றச்சாட்டுகள் திமுகவுக்கு ஒரு பெரிய சவாலை முன்வைக்கின்றன. இந்த விவகாரங்களை கட்சி எவ்வாறு அரசியல் ரீதியாக எதிர்கொள்ளும் என்பது குறித்த கேள்விகள் எழுகின்றன.",
-      "media": {
-        "media_type": "photo",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
-        "caption": "Anbil Mahesh arrest implications for DMK"
-      }
-    },
-    {
-      "party_or_leader": "NTK Seeman",
-      "topic_en": "NTK Seeman's Proactive Work in Manimutharu River",
-      "topic_ta": "நாம் தமிழர் கட்சி சீமானின் மணிமுத்தாறு ஆற்றில் அதிரடிப் பணி",
-      "analysis_en": "NTK leader Seeman engaged in proactive work at the Manimutharu river, indicating a focus on local environmental or community issues to build public presence and support.",
-      "analysis_ta": "நாதக தலைவர் சீமான் மணிமுத்தாறு ஆற்றில் அதிரடியாக களமிறங்கி பணியாற்றினார். இது உள்ளூர் சுற்றுச்சூழல் அல்லது சமூகப் பிரச்சினைகளில் கவனம் செலுத்தி பொது மக்கள் மத்தியில் தனது இருப்பையும் ஆதரவையும் கட்டியெழுப்ப அவர் மேற்கோண்ட ஒரு முயற்சியாகும்.",
-      "media": {
-        "media_type": "youtube_video",
-        "image_url": "https://img.youtube.com/vi/CBMiVkFVX3l/hqdefault.jpg",
-        "caption": "NTK Seeman at Manimutharu river"
+        "caption": "Thirumavalavan and Vijay alliance speculation"
       }
     }
   ],
   "bills_and_governance": [
     {
-      "title_en": "Cauvery River Water Dispute Case in Supreme Court",
-      "title_ta": "காவிரி நதிநீர் தகராறு வழக்கு உச்ச நீதிமன்றத்தில்",
-      "impact_en": "Heated debate took place in the Supreme Court between the Tamil Nadu and Karnataka governments regarding the Cauvery River water dispute, indicating ongoing legal and political battle over water sharing.",
-      "impact_ta": "காவிரி நதிநீர் தகராறு தொடர்பாக தமிழக அரசுக்கும் கர்நாடக அரசுக்கும் இடையே உச்ச நீதிமன்றத்தில் காரசாரமான விவாதம் நடைபெற்றது. இது நீர் பகிர்வு குறித்த தொடர்ச்சியான சட்ட மற்றும் அரசியல் போராட்டத்தை எடுத்துக்காட்டுகிறது."
-    },
-    {
-      "title_en": "Delimitation, Cauvery, Mullai Periyar: Outcome of CMs' Conference",
-      "title_ta": "மறுவரையறை, காவிரி, முல்லை பெரியாறு: முதல்வர்கள் மாநாட்டின் பலன்கள்",
-      "impact_en": "A debate was held on whether the Chief Ministers' conference yielded positive results concerning critical issues like delimitation, Cauvery water sharing, and the Mullai Periyar dam. This indicates ongoing policy discussions and public scrutiny of their outcomes.",
-      "impact_ta": "மறுவரையறை, காவிரி நீர், முல்லை பெரியாறு அணை போன்ற முக்கிய பிரச்சினைகள் குறித்து நடைபெற்ற முதல்வர்கள் மாநாடு பலனளித்ததா என்பது குறித்து விவாதம் நடைபெற்றது. இது தொடர்ச்சியான கொள்கை விவாதங்களையும், அவற்றின் விளைவுகள் குறித்த பொது ஆய்வையும் குறிக்கிறது."
+      "title_en": "Dismissal of former MLA Esakki Subbaiah's election petition",
+      "title_ta": "முன்னாள் எம்.எல்.ஏ இசக்கி சுப்பையா தாக்கல் செய்த மனு தள்ளுபடி",
+      "impact_en": "The Madras High Court dismissed the election-related petition filed by former MLA Esakki Subbaiah, affirming the legal validity of the existing electoral outcome or process in the specific case.",
+      "impact_ta": "முன்னாள் எம்.எல்.ஏ இசக்கி சுப்பையா தாக்கல் செய்த தேர்தல் தொடர்பான மனுவை சென்னை உயர்நீதிமன்றம் தள்ளுபடி செய்தது, குறிப்பிட்ட வழக்கில் தற்போதைய தேர்தல் முடிவு அல்லது செயல்முறையின் சட்டபூர்வமான செல்லுபடியை உறுதி செய்தது."
     }
   ],
-  "raw_sources_count": 223,
+  "raw_sources_count": 216,
   "tier_distribution": {
-    "1": 26,
-    "2": 59,
+    "1": 23,
+    "2": 58,
     "3": 13,
-    "4": 24,
-    "5": 93
+    "4": 23,
+    "5": 91
   },
-  "generated_at": "2026-10-28T18:41:12.613380"
+  "generated_at": "2026-10-29T08:46:59.356052"
 }
