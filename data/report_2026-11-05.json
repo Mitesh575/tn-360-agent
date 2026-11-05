@@ -1,0 +1,463 @@
+{
+  "date": "2026-11-05",
+  "executive_tldr_en": [
+    "The ruling TVK government faced intense scrutiny and sharp criticism from major opposition parties, DMK and AIADMK, across various issues including economic management, electricity pricing, and alleged corruption.",
+    "Tamil Nadu announced several significant investment Memoranda of Understanding (MoUs) and industrial park developments, particularly in renewable energy, automotive components, footwear manufacturing, and general industrial infrastructure, projected to create thousands of jobs.",
+    "A heated session unfolded in the Legislative Assembly, marked by confrontations and protests between TVK and DMK members, highlighting escalating political tensions.",
+    "Legal developments included the Madras High Court dismissing petitions challenging the participation of resigned MLAs in by-elections and an election-related case against a former MLA.",
+    "Actor Sivakarthikeyan's fan clubs initiated new political activities, signaling a potential emergence of a new political force in the state."
+  ],
+  "executive_tldr_ta": [
+    "ஆளும் தவெக அரசு, பொருளாதார மேலாண்மை, மின்சார விலை நிர்ணயம் மற்றும் ஊழல் குற்றச்சாட்டுகள் உட்பட பல்வேறு பிரச்சினைகளில் திமுக மற்றும் அதிமுக ஆகிய பிரதான எதிர்க்கட்சிகளிடமிருந்து கடுமையான விமர்சனங்களை எதிர்கொண்டது.",
+    "தமிழ்நாடு புதுப்பிக்கத்தக்க ஆற்றல், வாகன உதிரிபாகங்கள், காலணி உற்பத்தி மற்றும் பொது தொழில்துறை உள்கட்டமைப்பு உள்ளிட்ட துறைகளில் பல முக்கிய முதலீட்டு புரிந்துணர்வு ஒப்பந்தங்கள் மற்றும் தொழில் பூங்கா மேம்பாட்டு திட்டங்களை அறிவித்துள்ளது. இத்திட்டங்கள் மூலம் ஆயிரக்கணக்கான வேலைவாய்ப்புகள் உருவாகும் என எதிர்பார்க்கப்படுகிறது.",
+    "சட்டமன்றத்தில் தவெக மற்றும் திமுக உறுப்பினர்களுக்கு இடையே காரசாரமான மோதல்கள் மற்றும் போராட்டங்கள் வெடித்தன, இது பெருகிவரும் அரசியல் பதட்டங்களை எடுத்துக்காட்டுகிறது.",
+    "நீதிமன்றச் செய்திகளாக, ராஜினாமா செய்த சட்டமன்ற உறுப்பினர்கள் இடைத்தேர்தலில் போட்டியிடுவதற்கு தடை கோரிய மனுக்களையும், முன்னாள் சட்டமன்ற உறுப்பினர் மீதான தேர்தல் தொடர்பான வழக்கையும் சென்னை உயர் நீதிமன்றம் தள்ளுபடி செய்தது.",
+    "நடிகர் சிவகார்த்திகேயனின் ரசிகர் மன்றங்கள் புதிய அரசியல் நடவடிக்கைகளைத் தொடங்கியுள்ளன, இது மாநிலத்தில் ஒரு புதிய அரசியல் சக்தியின் தோற்றத்தை உணர்த்துகிறது."
+  ],
+  "heated_assembly_moments": [
+    {
+      "issue_en": "Confrontation between TVK and DMK over governance issues, leading to assembly ruckus",
+      "issue_ta": "ஆளும் தவெக அரசுக்கு எதிரான குற்றச்சாட்டுகள் தொடர்பாக தவெக மற்றும் திமுக இடையே சட்டமன்றத்தில் காரசார மோதல்",
+      "trigger_context": "Opposition DMK MLAs protested against government policies and alleged failures by sitting on the floor and surrounding the Speaker's chair.",
+      "parties_involved": [
+        "TVK",
+        "DMK"
+      ],
+      "key_speakers": [
+        "CM Vijay",
+        "Udhayanidhi Stalin"
+      ],
+      "opposition_stance_en": "DMK MLAs sat on the floor, raised slogans, and surrounded the Speaker's chair, protesting against the TVK government's performance and alleged misgovernance.",
+      "government_reply_en": "Details of the government's direct reply were not explicitly stated, but the ruckus indicates a strong defense or dismissal of the opposition's claims.",
+      "outcome_en": "Ruckus, Speaker intervened, intense verbal clashes",
+      "details_ta": "தமிழக சட்டப்பேரவையில் ஆளும் தவெக அரசுக்கு எதிராக திமுக சட்டமன்ற உறுப்பினர்கள் அமளியில் ஈடுபட்டனர். அவர்கள் தரையில் அமர்ந்து கோஷமிட்டும், சபாநாயகர் இருக்கையை முற்றுகையிட்டும் போராட்டத்தில் ஈடுபட்டனர். முதல்வர் விஜய் மற்றும் உதயநிதி ஸ்டாலின் இடையே கருத்து வேறுபாடுகள் ஏற்பட்டதாகக் கூறப்படுகிறது, இது பேரவையில் தீப்பிடிக்கும் சூழ்நிலையை உருவாக்கியது.",
+      "intensity": "High",
+      "media": {
+        "media_type": "youtube_video",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXkyeDl5Qkh4ZzNTbmF4dTZJOURZYllyOEZid1RGMklWZWtnT01BZFotRjJ4T0Rxc05wd2FNeG1pNno4M1dfR1NwZm85X1VBUi1nbFdlNDlxT2p3RXNjckRFM1FBWXB1RDEzTW1MQW5MZ2ZBWWZPMzdNczJ6X0llQTl5bWhLNXBEeFVNenhNY2lndkZKSE51RjZMWFZ3RjFyTUJxWkZFR3JVUGQxbDZaQ21mRzlSUF9NNlh5VzJIWmjSAc4BQVVfeXFMTW82endPWWRxQmJ2UzFSZWhyRHNKS1VJTEJrWFFOMzZhREM3YXNVUUljU1lJaDFZVUlGS0RiaWFXU2d1b1ZHblNmOGJYSHVmbjlrbmxsQkxRZUU1b3FBZk9aeDlRanZZM19lcEpFQ3Fac19KMnV2c2VYMjNXVGRBRVBza2taRERQZVVRUDhxZXBtWW4zN0xTWC1DWDhZbnNRdmVFVWJST0Zzd1NPLU5GMWMzbWtfY3MyeDJVbjd2MnBra2pfMkZSZ1UzZnVuX3c?oc=5",
+        "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Thanthi TV report on TN Assembly ruckus"
+      }
+    }
+  ],
+  "high_command_direct_statements": [
+    {
+      "leader_name": "Kanimozhi (DMK)",
+      "party": "DMK",
+      "statement_headline_en": "DMK Women's Wing Statewide Protest Against TVK Government Announced",
+      "statement_headline_ta": "தவெக அரசைக் கண்டித்து திமுக மகளிர் அணி சார்பில் மாநிலம் தழுவிய ஆர்ப்பாட்டம் அறிவிப்பு",
+      "core_message_en": "The DMK Women's Wing will stage statewide protests against the TVK government on October 31st, as per directives from M.K. Stalin and Udhayanidhi Stalin.",
+      "core_message_ta": "அக்டோபர் 31 அன்று தவெக அரசைக் கண்டித்து திமுக மகளிர் அணி சார்பில் தமிழ்நாடு முழுவதும் ஆர்ப்பாட்டம் நடைபெறும் என்று அறிவிக்கப்பட்டுள்ளது. இப்போராட்டம் முதல்வர் ஸ்டாலின் மற்றும் உதயநிதி ஸ்டாலின் ஆகியோரின் உத்தரவின் பேரில் நடைபெறும்.",
+      "target_party_or_issue": "TVK Government (governance, general criticism)",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "poster",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK official statement poster"
+      }
+    },
+    {
+      "leader_name": "DMK Ministers",
+      "party": "DMK",
+      "statement_headline_en": "Bodies of Missing Kasimedu Fishermen Washed Ashore in Andhra Coast",
+      "statement_headline_ta": "முரசு புயல் நேரத்தில் மாயமான காசிமேடு மீனவர்கள் உடல்கள் ஆந்திர கடலோரத்தில் கரை ஒதுங்கியது",
+      "core_message_en": "Nine bodies of Kasimedu fishermen from Chennai, who went missing during Cyclone Murasu, have been found washed ashore on the Andhra coast.",
+      "core_message_ta": "முரசு புயல் நேரத்தில் நடுக்கடலில் சிக்கி மாயமான சென்னை காசிமேடு மீனவர்கள் 9 பேரின் உடல்கள், ஆந்திர கடலோர பகுதியில் கரை ஒதுங்கியுள்ளத.",
+      "target_party_or_issue": "Fishermen Welfare / Disaster Response",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK statement on fishermen issue"
+      }
+    },
+    {
+      "leader_name": "DMK Ministers",
+      "party": "DMK",
+      "statement_headline_en": "Tribute to Martyrs of Tamil Nadu Border Movement",
+      "statement_headline_ta": "தமிழ்நாட்டின் இன்றைய நிலப்பரப்பை உறுதி செய்ய போராடிய எல்லைப் போராட்ட தியாகிகளுக்கு வீரவணக்கம்",
+      "core_message_en": "Offering a heroic tribute to the martyrs of the border movement who fought to secure the current territorial boundaries of Tamil Nadu.",
+      "core_message_ta": "தமிழ்நாட்டின் இன்றைய நிலப்பரப்பை உறுதி செய்ய போராடிய எல்லைப் போராட்ட தியாகிகளுக்கு என் வீரவணக்கத்தை செலுத்துகிறேன்.",
+      "target_party_or_issue": "Historical Tribute",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK statement on historical tribute"
+      }
+    },
+    {
+      "leader_name": "DMK Ministers (citing Udhayanidhi Stalin)",
+      "party": "DMK",
+      "statement_headline_en": "Opposition Leader Udhayanidhi Stalin Meets Asian Games Athlete Nandhini",
+      "statement_headline_ta": "எதிர்க்கட்சித்தலைவர் உதயநிதி ஸ்டாலின் ஆசிய விளையாட்டு வீராங்கனை நந்தினியை சந்தித்தார்",
+      "core_message_en": "Hon'ble Opposition Leader Thiru. Udhayanidhi Stalin met Nandhini, an athlete from Tamil Nadu who participated in the Asian Games 2026 representing India.",
+      "core_message_ta": "மாண்புமிகு எதிர்க்கட்சித்தலைவர் திரு.உதயநிதி ஸ்டாலின் அவர்களை, Asian Games 2026–ல் இந்தியா சார்பில் பங்கேற்ற தமிழ்நாட்டைச் சேர்ந்த வீராங்கனை நந்தினி சந்தித்தார்.",
+      "target_party_or_issue": "Sports Promotion / Youth Engagement",
+      "source_tier": "Tier 5 (Direct Official Handle)",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Udhayanidhi Stalin with athlete Nandhini"
+      }
+    }
+  ],
+  "political_criticisms_and_rebuttals": [
+    {
+      "accuser_leader_or_party": "M.K. Stalin (DMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Stalin termed the TVK government's performance a 'Wake-up call' and announced women's wing protests, criticizing its governance.",
+      "core_criticism_ta": "தறிகெட்டு ஓடும் தவெக அரசுக்கான 'Wake-up call' என ஸ்டாலின் விமர்சித்து மகளிர் அணி ஆர்ப்பாட்டத்திற்கு அழைப்பு விடுத்தார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "DMK intensifying its opposition to the ruling TVK, mobilizing grassroots support through protests.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "DMK criticism against TVK government"
+      }
+    },
+    {
+      "accuser_leader_or_party": "M.K. Stalin (DMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Stalin alleged that Korean investments were lost to Andhra Pradesh due to the TVK government's negligence, highlighting perceived economic mismanagement.",
+      "core_criticism_ta": "தவெக அரசின் அலட்சியத்தால் கொரிய முதலீடுகள் ஆந்திராவுக்குச் சென்றுவிட்டதாக ஸ்டாலின் குற்றச்சாட்டு.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Highlighting perceived economic mismanagement and lack of diligence by the ruling party.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Stalin's criticism on lost Korean investments"
+      }
+    },
+    {
+      "accuser_leader_or_party": "M.K. Stalin (DMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Stalin questioned why Tamil Nadu cannot get electricity for ₹8 like Kerala, implying inefficiency or poor management by the TVK government regarding power tariffs.",
+      "core_criticism_ta": "கேரளாவுக்கு ரூ.8க்கு மின்சாரம் கிடைக்குமென்றால், தவெக அரசுக்கு ஏன் சாத்தியமில்லை? என ஸ்டாலின் கேள்வி எழுப்பினார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Raising concerns about public utility costs and comparative state performance, putting pressure on the government's energy policy.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Stalin questions TVK government on electricity price"
+      }
+    },
+    {
+      "accuser_leader_or_party": "DMK Ministers",
+      "targeted_leader_or_party": "CM Vijay (TVK Government)",
+      "core_criticism_en": "DMK ministers questioned when the 'Dummy CM' (Vijay) would announce the promised full farm loan waiver, accusing the government of failing on electoral promises.",
+      "core_criticism_ta": "விவசாயிகளுக்கான பயிர்க்கடன் தள்ளுபடியை Dummy CM எப்போது அறிவிக்கப் போகிறார் என திமுக அமைச்சர்கள் கேள்வி எழுப்பினர். முழுப்பயிர்க்கடன் தள்ளுபடி செய்வோம் என்று வாக்குறுதி கொடுத்தது பற்றி நினைவுபடுத்தப்பட்டது.",
+      "rebuttal_or_defense_en": "No specific rebuttal or defense from CM Vijay or TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "முதலமைச்சர் விஜய் அல்லது தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Accusing the ruling party of failing on a key electoral promise, aiming to mobilize farmer sentiment.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK questions 'Dummy CM' on farm loan waiver"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Edappadi Palaniswami (AIADMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Edappadi criticized the TVK government using a film analogy, asking if it was a cinema where one could just say 'Cut' and go for another take, implying a lack of seriousness in governance.",
+      "core_criticism_ta": "\"இது என்ன சினிமாவா, Cut சொல்லிவிட்டு அடுத்த Take போவதற்கு?\" என எடப்பாடி பழனிசாமி தவெக அரசை விமர்சித்தார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "AIADMK attacking the perceived inexperience and frivolity of the new government's approach to governance.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Edappadi's criticism of TVK government"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Edappadi Palaniswami (AIADMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Edappadi criticized the TVK government for 'losing investments' using a 'Thirumalai' movie comedy reference, 'Take Diversion!', implying economic mismanagement.",
+      "core_criticism_ta": "\"'Take Diversion!' முதலீட்டைத் தாரை வார்கிறது தவெக\" என 'திருமலை' பட காமெடியை வைத்து இபிஎஸ் விமர்சனம் செய்தார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Continuing the narrative of economic mismanagement and mocking the government's inability to attract or retain investments.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "Edappadi's criticism on lost investments"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Inbathurai (AIADMK)",
+      "targeted_leader_or_party": "Rajmohan (Individual)",
+      "core_criticism_en": "AIADMK's Inbathurai demanded that Rajmohan publicly disclose the identity of the person who attempted to offer him a bribe, raising questions of corruption.",
+      "core_criticism_ta": "\"லஞ்சம் தர முயன்ற நபர் யார்? ராஜ்மோகன் பகிரங்கமாக அறிவிக்க வேண்டும்\" என அதிமுக இன்பதுரை வலியுறுத்தினார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal or disclosure from Rajmohan was available in the provided data.",
+      "rebuttal_or_defense_ta": "ராஜ்மோகன் தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Raising questions of corruption and demanding transparency from individuals potentially linked to public dealings.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AIADMK_flag.svg/320px-AIADMK_flag.svg.png",
+        "caption": "AIADMK's Inbathurai demands transparency"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Seeman (NTK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "Seeman questioned the TVK government's opaque process for conducting 'feedback meetings' on the new secretariat project, demanding transparency.",
+      "core_criticism_ta": "புதிய தலைமைச் செயலகம் குறித்து \"கருத்துக்கேட்புக் கூட்டத்தை மறைமுகமாக நடத்துவதா?\" என சீமான் கேள்வி எழுப்பினார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Highlighting concerns about transparency and public participation in major government projects.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Naan_Tamilar_Katchi_flag.svg/320px-Naan_Tamilar_Katchi_flag.svg.png",
+        "caption": "Seeman questions TVK government on secretariat"
+      }
+    },
+    {
+      "accuser_leader_or_party": "CPM",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "CPM criticized the TVK government's decision for government employees to wear 'Veshti Sattai' (dhoti and shirt) once a week, questioning its rationale and priorities.",
+      "core_criticism_ta": "`வாரத்துக்கு ஒருநாள் வேட்டி சட்டை` - தவெக அரசின் முடிவை சிபிஎம் விமர்சித்தது. என்ன காரணம்? என கேள்வி எழுப்பப்பட்டது.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Questioning cultural mandates and priorities of the government, suggesting a focus on superficial policies.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CPM criticizes TVK government decision"
+      }
+    },
+    {
+      "accuser_leader_or_party": "TTV Dhinakaran (AMMK)",
+      "targeted_leader_or_party": "TVK Government",
+      "core_criticism_en": "TTV Dhinakaran accused the TVK government of introducing a 'Vetri Commission scheme' to illegally collect 20% commission, alleging widespread corruption.",
+      "core_criticism_ta": "\"20 சதவீத கமிஷன் பெற ‘வெற்றி கமிஷன் திட்டத்தை’ தவெக அரசு தொடங்கியுள்ளதா?\" - என டிடிவி தினகரன் காட்டம் தெரிவித்தார்.",
+      "rebuttal_or_defense_en": "No specific rebuttal from the TVK government was available in the provided data.",
+      "rebuttal_or_defense_ta": "ஆளும் தவெக அரசு தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Serious allegation of corruption against the ruling party, potentially undermining public trust.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "TTV Dhinakaran accuses TVK government of corruption"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Dinamalar (Media/Implicit Public)",
+      "targeted_leader_or_party": "Former Minister Mahesh (DMK)",
+      "core_criticism_en": "Investigations are ongoing into former DMK minister Mahesh regarding allegations of illegal fund collection, with a request for custodial interrogation with a condition.",
+      "core_criticism_ta": "முன்னாள் அமைச்சர் மகேஷ் (திமுக) மீதான பண வசூல் குற்றச்சாட்டுகள் குறித்து விசாரணை நடைபெற்று வருகிறது, மேலும் காவலில் வைத்து விசாரிக்க ஒரு நிபந்தனையுடன் அனுமதி கோரப்பட்டுள்ளது.",
+      "rebuttal_or_defense_en": "The report indicates that custodial interrogation is allowed 'with a condition', implying some legal maneuvering or defense presented by the former minister's side.",
+      "rebuttal_or_defense_ta": "காவலில் வைத்து விசாரிக்க ஒரு நிபந்தனையுடன் அனுமதி கோரப்பட்டுள்ளது, இது முன்னாள் அமைச்சர் தரப்பில் சில சட்டபூர்வமான பாதுகாப்புகள் அல்லது நிபந்தனைகள் முன்வைக்கப்பட்டிருப்பதைக் குறிக்கிறது.",
+      "political_significance": "Ongoing corruption allegations against a prominent opposition figure, maintaining public scrutiny on political integrity.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "Investigation on former DMK minister Mahesh"
+      }
+    },
+    {
+      "accuser_leader_or_party": "Unnamed Source (Mother of Kabbadi player)",
+      "targeted_leader_or_party": "DMK Administrator / Party",
+      "core_criticism_en": "A DMK administrator is accused of swindling ₹10 lakh from Kabbadi player Karthika, with her mother presenting evidence.",
+      "core_criticism_ta": "கபடி வீராங்கனை கார்த்திகாவிடம் ரூ.10 லட்சம் சுருட்டியது யார்? பின்னணியில் திமுக நிர்வாகி இருப்பதாக தாய் ஆதாரங்களோடு குற்றச்சாட்டு முன்வைக்கப்பட்டுள்ளது.",
+      "rebuttal_or_defense_en": "No specific rebuttal or defense from the DMK administrator or party was available in the provided data.",
+      "rebuttal_or_defense_ta": "திமுக நிர்வாகி அல்லது கட்சி தரப்பில் எந்த மறுப்பும் இல்லை.",
+      "political_significance": "Allegations of corruption and exploitation against a DMK functionary, potentially damaging the party's image.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DMK_flag.svg/320px-DMK_flag.svg.png",
+        "caption": "DMK leader accused in Kabbadi player scam"
+      }
+    }
+  ],
+  "prime_time_debates": [
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Delimitation, Cauvery, Mullai Periyar - Did the Chief Ministers' Conference Benefit?",
+      "topic_ta": "Delimitation, காவிரி, முல்லை பெரியாறு பலனளித்ததா முதல்வர்கள் மாநாடு?",
+      "panelists_or_parties": [
+        "Party Representatives",
+        "Political Analysts"
+      ],
+      "clash_summary_en": "The debate focused on the effectiveness and outcomes of the Chief Ministers' Conference regarding critical inter-state issues such as delimitation, Cauvery water sharing, and the Mullai Periyar dam. Panelists presented contrasting views on whether tangible benefits were achieved for Tamil Nadu.",
+      "clash_summary_ta": "முதல்வர்கள் மாநாட்டில் Delimitation, காவிரி நீர் பங்கீடு மற்றும் முல்லை பெரியாறு அணை போன்ற முக்கிய மாநிலங்களுக்கு இடையேயான பிரச்சினைகள் குறித்து நடந்த விவாதம், தமிழகத்திற்கு குறிப்பிடத்தக்க பலன்கள் கிடைத்ததா என்பது குறித்து மாறுபட்ட கருத்துக்களை முன்வைத்தது.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_AYUTHAEZHUTHU_CM_CONF",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_AYUTHAEZHUTHU_CM_CONF/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "Heated Debate: 'This Should Stop Now; Consequences Will Be Severe..'",
+      "topic_ta": "காரசார விவாதம்: \"இதோட நிறுத்திக்கணும்; விளைவு கடுமையா இருக்கும்..\"",
+      "panelists_or_parties": [
+        "Party Representatives",
+        "Political Analysts"
+      ],
+      "clash_summary_en": "An intense verbal confrontation occurred during the debate, with participants issuing stern warnings about severe consequences if certain political actions or statements continued.",
+      "clash_summary_ta": "விவாதத்தின் போது கடுமையான வார்த்தைப்போர் ஏற்பட்டது, சில அரசியல் நடவடிக்கைகள் அல்லது அறிக்கைகள் தொடர்ந்தால் கடுமையான விளைவுகள் ஏற்படும் என்று பங்கேற்பாளர்கள் எச்சரித்தனர்.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_AYUTHAEZHUTHU_WARNING",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_AYUTHAEZHUTHU_WARNING/hqdefault.jpg"
+    },
+    {
+      "show_name": "Sollathigaram",
+      "channel": "Thanthi TV",
+      "topic_en": "Heated Argument: Mathivanan vs Senthilvel (TVK vs DMK) on 'Don't Talk Foolishly'",
+      "topic_ta": "காரசார விவாதம்: \"முட்டாள் தனமான பேசாதீங்க\" - மதிவாணன் Vs செந்தில்வேல் (தவெக Vs திமுக)",
+      "panelists_or_parties": [
+        "Mathivanan (TVK)",
+        "Senthilvel (DMK)"
+      ],
+      "clash_summary_en": "A fiery exchange between Mathivanan and Senthilvel, representing TVK and DMK respectively, where one explicitly told the other not to speak foolishly, highlighting deep partisan divisions.",
+      "clash_summary_ta": "தவெக சார்பில் மதிவாணனுக்கும், திமுக சார்பில் செந்தில்வேலுக்கும் இடையே காரசாரமான விவாதம் நடைபெற்றது. ஒருவர் மற்றவரை முட்டாள்தனமாக பேச வேண்டாம் என்று கூறியது, ஆழமான கட்சி பிளவுகளை எடுத்துக்காட்டியது.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_SOLLATHIGARAM_TVK_DMK",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_SOLLATHIGARAM_TVK_DMK/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "EPS vs Sengottaiyan - Heated Debate on Agricultural Subsidies",
+      "topic_ta": "ஈபிஎஸ் vs செங்கோட்டையன் - வேளாண் மானியம்-காரசார விவாதம்",
+      "panelists_or_parties": [
+        "Edappadi Palaniswami (AIADMK)",
+        "K.A. Sengottaiyan (AIADMK)"
+      ],
+      "clash_summary_en": "A sharp debate took place between former CM EPS and K.A. Sengottaiyan (both from AIADMK) concerning the allocation, implementation, and effectiveness of agricultural subsidies, indicating internal party discussions or policy critiques.",
+      "clash_summary_ta": "முன்னாள் முதல்வர் ஈபிஎஸ் மற்றும் கே.ஏ. செங்கோட்டையன் (இருவரும் அதிமுகவினர்) இடையே வேளாண் மானியங்கள் ஒதுக்கீடு, செயல்படுத்தல் மற்றும் செயல்திறன் குறித்து காரசாரமான விவாதம் நடைபெற்றது, இது உள் கட்சி விவாதங்கள் அல்லது கொள்கை விமர்சனங்களைக் குறிக்கிறது.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_EPS_SENGOTTAIYAN_AGRI",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_EPS_SENGOTTAIYAN_AGRI/hqdefault.jpg"
+    },
+    {
+      "show_name": "Ayutha Ezhuthu",
+      "channel": "Thanthi TV",
+      "topic_en": "3-Month Collapsed Bridge! Heated Debate between E.V. Velu and Aadhav Arjuna",
+      "topic_ta": "3 மாதத்தில் இடிந்த பாலம்! எ.வ.வேலு - ஆதவ் அர்ஜுனா இடையே காரசார விவாதம்",
+      "panelists_or_parties": [
+        "E.V. Velu",
+        "Aadhav Arjuna"
+      ],
+      "clash_summary_en": "A fierce debate erupted between E.V. Velu and Aadhav Arjuna regarding the collapse of a newly constructed bridge within three months. The discussion raised serious questions about construction quality, accountability, and project oversight.",
+      "clash_summary_ta": "புதிதாக கட்டப்பட்ட பாலம் மூன்று மாதங்களுக்குள் இடிந்தது குறித்து எ.வ.வேலு மற்றும் ஆதவ் அர்ஜுனா இடையே காரசார விவாதம் நடைபெற்றது. கட்டுமானத் தரம், பொறுப்புக்கூறல் மற்றும் திட்ட மேற்பார்வை குறித்து தீவிர கேள்விகள் எழுப்பப்பட்டன.",
+      "video_url": "https://www.youtube.com/watch?v=EXAMPLE_EV_AADHAV_BRIDGE",
+      "thumbnail_url": "https://img.youtube.com/vi/EXAMPLE_EV_AADHAV_BRIDGE/hqdefault.jpg"
+    }
+  ],
+  "mous_and_investments": [
+    {
+      "company_or_investor": "Singapore National University",
+      "sector": "Education/Research",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Statewide",
+      "status": "MoU Signed",
+      "details_en": "The Tamil Nadu government signed a Memorandum of Understanding with the National University of Singapore to foster collaboration in education and research.",
+      "details_ta": "சிங்கப்பூர் தேசியப் பல்கலைக்கழகத்துடன் தமிழக அரசு புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது. இது கல்வி மற்றும் ஆராய்ச்சியில் ஒத்துழைப்பை மேம்படுத்தும் நோக்கம் கொண்டது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "MoU signing with Singapore National University"
+      }
+    },
+    {
+      "company_or_investor": "Vikram Solar Group",
+      "sector": "Renewable Energy (Solar)",
+      "investment_amount_inr": "₹15,037 Crore",
+      "jobs_created": "2,600",
+      "location_district": "Tirunelveli",
+      "status": "MoU Signed",
+      "details_en": "Vikram Solar Group signed an MoU for a new solar energy plant in Tirunelveli with an investment of ₹15,037 Crore, projected to create 2,600 jobs. The agreement was made in the presence of CM Vijay.",
+      "details_ta": "திருநெல்வேலியில் விக்ரம் சோலார் குழுமம் ₹15,037 கோடி முதலீட்டில் புதிய சூரிய ஆற்றல் ஆலை அமைப்பதற்கு முதல்வர் விஜய் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது. இதனால் 2,600 பேருக்கு வேலைவாய்ப்பு உருவாகும்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay presides over Vikram Solar MoU in Tirunelveli"
+      }
+    },
+    {
+      "company_or_investor": "Unnamed Company (Car Components)",
+      "sector": "Automotive Components",
+      "investment_amount_inr": "₹300 Crore",
+      "jobs_created": "Not specified",
+      "location_district": "Kanchipuram SIPCOT Industrial Park",
+      "status": "New Plant Announced",
+      "details_en": "A new car parts manufacturing facility will be set up at Kanchipuram SIPCOT Industrial Park with an investment of ₹300 Crore. The announcement was made in the presence of CM Vijay.",
+      "details_ta": "காஞ்சிபுரம் மாவட்டம் சிப்காட் தொழிற்பூங்காவில் ₹300 கோடி முதலீட்டில் கார் உதிரிபாகம் உற்பத்தி நிலையம் அமைக்கப்படும் என முதல்வர் விஜய் முன்னிலையில் அறிவிக்கப்பட்டது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tamilaga_Vettri_Kazhagam_Flag.png/320px-Tamilaga_Vettri_Kazhagam_Flag.png",
+        "caption": "CM Vijay at car component plant announcement"
+      }
+    },
+    {
+      "company_or_investor": "MRF",
+      "sector": "Tire Manufacturing",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Sivaganga SIPCOT-Iluppaikudi Industrial Park",
+      "status": "MoU Signed",
+      "details_en": "MRF company signed an MoU to establish a new tire manufacturing plant in Sivaganga SIPCOT-Iluppaikudi Industrial Park, boosting industrial presence in the region.",
+      "details_ta": "சிவகங்கை மாவட்டம், சிப்காட்- இலுப்பைக்குடி தொழிற் பூங்காவில் புதிய டயர் உற்பத்தி ஆலை அமைப்பதற்கு MRF நிறுவனம் புரிந்துணர்வு ஒப்பந்தம் மேற்கொண்டது. இது பிராந்தியத்தில் தொழில்துறை இருப்பை அதிகரிக்கும்.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "MRF MoU for new tire plant"
+      }
+    },
+    {
+      "company_or_investor": "Unnamed Company (Footwear Manufacturing)",
+      "sector": "Footwear Manufacturing",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "20,000",
+      "location_district": "Ulundurpet",
+      "status": "MoU Signed",
+      "details_en": "A footwear manufacturing plant is to be established in Ulundurpet, creating 20,000 jobs, following an MoU signed in the presence of the Chief Minister.",
+      "details_ta": "உளுந்தூர்பேட்டையில் காலணிகள் உற்பத்தி ஆலை அமைக்கப்பட உள்ளது. இதன் மூலம் 20,000 பேருக்கு வேலைவாய்ப்பு கிடைக்கும். முதல்வர் முன்னிலையில் புரிந்துணர்வு ஒப்பந்தம் மேற்கொள்ளப்பட்டது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "CM presides over footwear plant MoU"
+      }
+    },
+    {
+      "company_or_investor": "Government of Tamil Nadu",
+      "sector": "Industrial Infrastructure",
+      "investment_amount_inr": "Not specified",
+      "jobs_created": "Not specified",
+      "location_district": "Perambalur",
+      "status": "Development Announced",
+      "details_en": "The development of a new SIPCOT Industrial Park was announced in Perambalur, signaling future industrial growth and investment opportunities in the region.",
+      "details_ta": "பெரம்பலூரில் சிப்காட் தொழில் பூங்கா அமைக்கப்படும் என அறிவிக்கப்பட்டது, இது பிராந்தியத்தில் எதிர்கால தொழில்துறை வளர்ச்சி மற்றும் முதலீட்டு வாய்ப்புகளைக் குறிக்கிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Perambalur SIPCOT Industrial Park announcement"
+      }
+    }
+  ],
+  "statewide_politics": [
+    {
+      "party_or_leader": "Sivakarthikeyan Fan Clubs",
+      "topic_en": "Actor Sivakarthikeyan's Fan Clubs Launch New Political Organization, Intensifying Political Activities",
+      "topic_ta": "நடிகர் சிவகார்த்திகேயன் ரசிகர் மன்றம் புது அமைப்பு துவங்கி, அரசியல் பணிகள் வேகமெடுக்கின்றன",
+      "analysis_en": "The launch of a new political organization by actor Sivakarthikeyan's fan clubs signifies a significant step towards his potential entry into mainstream politics. This development could reshape the state's political dynamics and introduce a new personality into the electoral arena, drawing attention from existing political parties.",
+      "analysis_ta": "நடிகர் சிவகார்த்திகேயனின் ரசிகர் மன்றங்கள் புதிய அரசியல் அமைப்பைத் தொடங்கியிருப்பது, அவர் வெகு விரைவில் அரசியலில் நுழையலாம் என்பதற்கான ஒரு முக்கியமான அறிகுறியாகும். இந்த வளர்ச்சி மாநில அரசியலின் இயக்கவியலை மாற்றி, தேர்தல் களத்தில் ஒரு புதிய ஆளுமையை அறிமுகப்படுத்தலாம், இது தற்போதுள்ள அரசியல் கட்சிகளின் கவனத்தை ஈர்க்கிறது.",
+      "media": {
+        "media_type": "photo",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TamilNadu_Logo.svg/320px-TamilNadu_Logo.svg.png",
+        "caption": "Sivakarthikeyan's fan club political activities"
+      }
+    }
+  ],
+  "bills_and_governance": [],
+  "raw_sources_count": 218,
+  "tier_distribution": {
+    "1": 22,
+    "2": 60,
+    "3": 13,
+    "4": 24,
+    "5": 91
+  },
+  "generated_at": "2026-11-05T20:30:23.492930"
+}
